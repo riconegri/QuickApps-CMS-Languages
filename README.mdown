@@ -1,33 +1,89 @@
-# QuickApps
+# How to translate
+    - Fork this repo
+    - Identify your language code (see the table below)
+    - Create all the corresponding language folders
+    - Use SPANISH .po files as base
+    - Translate *.po
+    - Pull your changes
 
-**QuickApps** is a free open source, content management system for PHP, released under GPL License and powered by [CakePHP 2.0](http://cakephp.org) MVC framework.
 
-## Requirements
-
-  * Apache with mod_rewrite
-  * PHP 5.2.6 or higher
-  * PHP safe mode disabled
-  * MySQL 4.1 or higher
-
-## Installation
-
-#### Github based installer (Recomended)
-
-  * Download from github the latest version as zip.
-  * Extract the archive. Upload the content to your server.
-  * visit http://your-site.com/ from your browser and follow the instructions.
-  
-#### Quick-Installer
-
-  * Download the one-file installer from [here](http://cms.quickapps.es/files/installer/index.install)
-  * Rename from 'index.install' to 'index.php'
-  * Upload the new 'index.php' to your server
-  * visit http://your-site.com/ from your browser and follow the instructions.
-  
-#### Manual installation
- 
- * Create a new MySQL database ('utf8_unicode_ci' collation)
- * Use the SQL dump file app/Config/Schema/manual/quickapps.install.sql
- * Rename app/Config/database.php.install to database.php and set your database information (use 'qa_' as prefix).
- * Copy the file app/Config/install (no extension) to app/Config
- * The default username and password are: **admin/admin**
+# ISO 639-3 Codes
+    Afrikaans: afr
+    Albanian: alb
+    Arabic: ara
+    Armenian - Armenia: hye
+    Basque: baq
+    Tibetan: bod
+    Bosnian: bos
+    Bulgarian: bul
+    Byelorussian: bel
+    Catalan: cat
+    Chinese: chi
+    Chinese: zho
+    Croatian: hrv
+    Czech: cze
+    Czech: ces
+    Danish: dan
+    Dutch (Standard): dut
+    Dutch (Standard): nld
+    English: eng
+    Estonian: est
+    Faeroese: fao
+    Farsi: fas
+    Farsi: per
+    Finnish: fin
+    French (Standard): fre
+    French (Standard): fra
+    Gaelic (Scots): gla
+    Galician: glg
+    German (Standard): deu
+    German (Standard): ger
+    Greek: gre
+    Greek: ell
+    Hebrew: heb
+    Hindi: hin
+    Hungarian: hun
+    Icelandic: ice
+    Icelandic: isl
+    Indonesian: ind
+    Irish: gle
+    Italian: ita
+    Japanese: jpn
+    Korean: kor
+    Latvian: lav
+    Lithuanian: lit
+    Macedonian: mac
+    Macedonian: mkd
+    Malaysian: may
+    Malaysian: msa
+    Maltese: mlt
+    Norwegian: nor
+    Norwegian Bokmal: nob
+    Norwegian Nynorsk: nno
+    Polish: pol
+    Portuguese (Portugal): por
+    Rhaeto-Romanic: roh
+    Romanian: rum
+    Romanian: ron
+    Russian: rus
+    Sami (Lappish): smi
+    Serbian: scc
+    Serbian: srp
+    Slovak: slo
+    Slovak: slk
+    Slovenian: slv
+    Sorbian: wen
+    Spanish (Spain - Traditional): spa
+    Swedish: swe
+    Thai: tha
+    Tsonga: tso
+    Tswana: tsn
+    Turkish: tur
+    Ukrainian: ukr
+    Urdu: urd
+    Venda: ven
+    Vietnamese: vie
+    Welsh: cym
+    Xhosa: xho
+    Yiddish: yid
+    Zulu: zul
