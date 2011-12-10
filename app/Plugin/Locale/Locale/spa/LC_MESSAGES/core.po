@@ -38,6 +38,9 @@ msgstr "Editando idioma"
 msgid "Core"
 msgstr "Núcleo"
 
+msgid "Site Domain"
+msgstr "Dominio de Sitio"
+
 #: Controller/PackagesController.php:48
 #, php-format
 msgid "Theme: %s"
@@ -47,6 +50,9 @@ msgstr "Tema: %s"
 #, php-format
 msgid "Module: %s"
 msgstr "Módulo: %s"
+
+msgid "Field: %s"
+msgstr "Campo: %s"
 
 #: Controller/PackagesController.php:55
 msgid "Translation packages"
@@ -67,7 +73,7 @@ msgstr "No se puedo eliminar la carpeta del paquete. Por favor verifique los per
 
 #: Controller/PackagesController.php:97
 msgid "Language package removed!"
-msgstr "Pquete de idioma eliminado!"
+msgstr "Paquete de idioma eliminado!"
 
 #: Controller/PackagesController.php:100
 msgid "Invalid module or language "
@@ -81,14 +87,6 @@ msgstr "Paquete de idioma cargado correctamente"
 msgid "Invalid package"
 msgstr "Paquete inválido"
 
-#: Controller/TranslationsController.php:35
-msgid "Translatable entries"
-msgstr "Entradas traducibles"
-
-#: Controller/TranslationsController.php:36
-msgid "Translatable Entries"
-msgstr "Entradas Traducibles"
-
 #: Controller/TranslationsController.php:42
 #: Controller/TranslationsController.php:58
 msgid "Entry has been saved"
@@ -97,12 +95,15 @@ msgstr "Entrada guardada con éxito"
 #: Controller/TranslationsController.php:45
 #: Controller/TranslationsController.php:61
 msgid "Entry could not be saved. Please, try again."
-msgstr "la entrada no puedo ser guardada. Por favor, intente otra vez."
+msgstr "La entrada no puedo ser guardada. Por favor, intente otra vez."
 
 #: Controller/TranslationsController.php:51
 #: Controller/TranslationsController.php:66
-msgid "Translations entries"
+msgid "Translatable entries"
 msgstr "Entradas traducibles"
+
+msgid "Translatable Entries"
+msgstr "Entradas Traducibles"
 
 #: Controller/TranslationsController.php:52
 msgid "Editing entry"
@@ -135,8 +136,8 @@ msgid "D, m/d/Y - H:i"
 msgstr "D, d/m/Y - H:i"
 
 #: View/Elements/toolbar.ctp:3
-msgid "List"
-msgstr "Listado"
+msgid "Languages"
+msgstr "Idiomas"
 
 #: View/Elements/toolbar.ctp:3
 msgid "Configure languages for content and the user interface."
@@ -392,4 +393,25 @@ msgstr "Permite gestionar idiomas y traducir la interfaz de los usuarios a otros
 
 msgid "Languages"
 msgstr "Idiomas"
+
+msgid "move up"
+msgstr "mover arriba"
+
+msgid "move down"
+msgstr "mover abajo"
+
+msgid "Delete this entry ?"
+msgstr "Eliminar esta entrada ?"
+
+msgid "regenerate"
+msgstr "regenerar"
+
+msgid "Regenerate translation cache"
+msgstr "Regenerar cache de traducciones"
+
+msgid "Usage"
+msgstr "Modo de uso"
+
+msgid "Search"
+msgstr "Buscar"
 
