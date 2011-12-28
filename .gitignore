@@ -1,0 +1,6 @@
+*
+!*.po
+!*.gitignore
+!VERSION.txt
+!*.mdown
+!LICENSE.txt
