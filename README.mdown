@@ -1,11 +1,10 @@
 # How to translate
     - Fork this repo
     - Identify your language code (see the table below)
+    - Use the folder `your_code` as base
     - Create all the corresponding language folders
-    - Use SPANISH .po files as base
     - Translate *.po
-    - Pull your changes
-
+    - Pull your work
 
 # ISO 639-3 Codes
     Afrikaans: afr
