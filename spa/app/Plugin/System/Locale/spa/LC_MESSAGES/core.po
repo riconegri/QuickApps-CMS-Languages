@@ -58,6 +58,9 @@ msgstr "El módulo '%s' ha sido deshabilitado"
 msgid "This module can not be uninstalled, because it is required by: %s"
 msgstr "Este módulo no puede ser desinstalado, porque es requerido por: %s"
 
+msgid "This module can not be uninstalled because some files/folder can not be deleted, please check the permissions."
+msgstr "Este módulo no puede ser desinstalado porque algunos ficheros/directorios no pueden ser eliminados, por favor verifique los permisos."
+
 #: Controller/ModulesController.php:136
 #, php-format
 msgid "Module '%s' has been uninstalled"
@@ -460,4 +463,7 @@ msgstr "Fichero \"Config/bootstrap.php\" no encontrado"
 
 msgid "\"Config/routes.php\" file not found"
 msgstr "Fichero \"Config/routes.php\" no encontrado"
+
+msgid "Files must be less than <b>%sB</b>."
+msgstr "Los ficheros deben pesar menos de <b>%sB</b>."
 
