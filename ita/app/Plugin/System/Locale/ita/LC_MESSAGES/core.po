@@ -1,0 +1,475 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-07 21:04+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gabri <sheepinside@yhaoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-KeywordsList: __t;__\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Controller/ConfigurationController.php:37
+msgid "Configuration has been saved."
+msgstr "La configurazione è stata salvata."
+
+#: Controller/ConfigurationController.php:40
+msgid "Configuration could not be saved. Please, try again."
+msgstr "La configurazione non può essere salvata. Ritenta."
+
+#: Controller/HelpController.php:29
+msgid "Help"
+msgstr "Aiuto"
+
+#: Controller/ModulesController.php:36
+msgid "Module changes has been saved!"
+msgstr "Modulo aggiornato correttamente!"
+
+#: Controller/ModulesController.php:46
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: Controller/ModulesController.php:47
+msgid "Configure Module"
+msgstr "Configura Modulo"
+
+#: Controller/ModulesController.php:64
+#, php-format
+msgid "Module '%s' has been enabled"
+msgstr "Il modulo '%s' è stato abilitato"
+
+#: Controller/ModulesController.php:75
+#, php-format
+msgid "This module can not be disabled, because it is required by: %s"
+msgstr "Questo modulo non può essere disabilitato perché è richiesto da: %s"
+
+#: Controller/ModulesController.php:78
+#, php-format
+msgid "Module '%s' has been disabled"
+msgstr "Il modulo '%s' è stato disabilitato"
+
+#: Controller/ModulesController.php:131
+#, php-format
+msgid "This module can not be uninstalled, because it is required by: %s"
+msgstr "Questo modulo non può essere disinstallato perché è richiesto da: %s"
+
+msgid "This module can not be uninstalled because some files/folder can not be deleted, please check the permissions."
+msgstr "Questo modulo non può essere disinstallato perché alcuni file/cartelle non possono essere eliminati, controlla i permessi."
+
+#: Controller/ModulesController.php:136
+#, php-format
+msgid "Module '%s' has been uninstalled"
+msgstr "Il modulo '%s' è stato disinstallato"
+
+#: Controller/ModulesController.php:141
+#, php-format
+msgid "Error uninstalling module '%s'"
+msgstr "Errore disinstallando il modulo '%s'"
+
+#: Controller/ModulesController.php:156
+msgid "Module has been installed"
+msgstr "Il modulo è stato installato"
+
+#: Controller/ThemesController.php:58
+msgid "Theme settings"
+msgstr "Impostazioni Tema"
+
+#: Controller/ThemesController.php:59
+msgid "Configure Theme"
+msgstr "Configura Tema"
+
+#: Controller/ThemesController.php:68
+#, php-format
+msgid "Theme '%s' has been uninstalled"
+msgstr "Il tema '%s' è stato disinstallato"
+
+#: Controller/ThemesController.php:72
+#, php-format
+msgid "Error uninstalling theme '%s'"
+msgstr "Errore disinstallando il tema '%s'"
+
+#: Controller/ThemesController.php:86
+msgid "Theme could not been installed"
+msgstr "Il tema non può essere installato"
+
+msgid "Module could not been installed"
+msgstr "Il modulo non può essere installato"
+
+#: Controller/ThemesController.php:88
+msgid "Theme has been installed"
+msgstr "Il tema è stato installato"
+
+#: View/Helper/SystemHookHelper.php:16
+#, php-format
+msgid "Powered by &copy; QuickApps v%s beta"
+msgstr "Powered by &copy; QuickApps v%s beta"
+
+#: View/Helper/SystemHookHelper.php:32
+msgid "Recent Content"
+msgstr "Contenuto recente"
+
+#: View/Configuration/admin_index.ctp:3
+msgid "Site information"
+msgstr "Informazioni sito"
+
+#: View/Configuration/admin_index.ctp:4
+msgid "Site details"
+msgstr "Dettagli sito"
+
+#: View/Configuration/admin_index.ctp:5
+msgid "Site online"
+msgstr "Sito online"
+
+#: View/Configuration/admin_index.ctp:7
+msgid "Site name *"
+msgstr "Nome sito *"
+
+#: View/Configuration/admin_index.ctp:9
+msgid "Slogan"
+msgstr "Slogan"
+
+#: View/Configuration/admin_index.ctp:10
+msgid "How this is used depends on your site's theme."
+msgstr "Come questo è usato dipende dal tema del tuo sito."
+
+#: View/Configuration/admin_index.ctp:12
+msgid "Description"
+msgstr "Descrizione"
+
+#: View/Configuration/admin_index.ctp:13
+msgid "A brief description about your site, this will be used as default meta-description in layout."
+msgstr "Una breve descrizione del tuo sito, sarà usata come meta-description di default nel layout."
+
+#: View/Configuration/admin_index.ctp:15
+msgid "E-mail address *"
+msgstr "Indirizzo E-mail *"
+
+#: View/Configuration/admin_index.ctp:16
+msgid "The From address in automated e-mails sent during registration and new password requests, and other notifications. (Use an address ending in your site's domain to help prevent this e-mail being flagged as spam.)"
+msgstr "L'indirizzo mittente (Da) nelle mail automatiche spedite durante la registrazione, nuove richieste di password e altre notifiche. (Usare un indirizzo che termina col dominio del tuo sito aiuta a prevenire che questa mail venga marcata come spam.)"
+
+#: View/Configuration/admin_index.ctp:18
+msgid "No"
+msgstr "No"
+
+#: View/Configuration/admin_index.ctp:18
+msgid "Yes"
+msgstr "Sì"
+
+#: View/Configuration/admin_index.ctp:18
+msgid "Site under maintenance"
+msgstr "Sito in manutenzione"
+
+#: View/Configuration/admin_index.ctp:20
+msgid "Maintenance message"
+msgstr "Messaggio di manutenzione"
+
+#: View/Configuration/admin_index.ctp:24
+msgid "Front page"
+msgstr "Home page"
+
+#: View/Configuration/admin_index.ctp:25
+msgid "Number of posts on front page"
+msgstr "Numero di post nella home page"
+
+#: View/Configuration/admin_index.ctp:26
+msgid "The maximum number of posts displayed on overview pages such as the front page."
+msgstr "Il massimo numero di post mostrati nella pagine riassuntive, come la home page."
+
+#: View/Configuration/admin_index.ctp:28
+msgid "Default front page"
+msgstr "Default home page"
+
+#: View/Configuration/admin_index.ctp:29
+msgid "Optionally, specify a relative URL to display as the front page. Leave blank to display the default content feed"
+msgstr "Opsionalmente, specificare una URL relativa da mostrare come home page. Lasciare bianco per mostrare il feed di contenuto di default"
+
+#: View/Configuration/admin_index.ctp:32
+msgid "Regional settings"
+msgstr "Impostazioni regionali"
+
+#: View/Configuration/admin_index.ctp:34
+msgid "Default language"
+msgstr "Lingua di default"
+
+#: View/Configuration/admin_index.ctp:36
+msgid "Default time zone"
+msgstr "Zona oraria di default"
+
+#: View/Configuration/admin_index.ctp:39
+msgid "Users settings"
+msgstr "Impostazioni Utenti"
+
+#: View/Configuration/admin_index.ctp:40
+msgid "Default avatar"
+msgstr "Avatar di default"
+
+#: View/Configuration/admin_index.ctp:41
+msgid "URL of picture to display for users with no custom picture selected or anonymous users. Leave empty to use <a href='http://www.gravatar.com'>Gravatar</a> based on user's email."
+msgstr "URL dell'immagine da mostrare per gli utenti senza immagine specifica o utenti anonimi. Lascia vuoto per usare <a href='http://www.gravatar.com'>Gravatar</a> in base alla email dell'utente."
+
+#: View/Configuration/admin_index.ctp:59
+msgid "Other module settings"
+msgstr "Altre impostazioni modulo"
+
+#: View/Configuration/admin_index.ctp:67
+msgid "Save all"
+msgstr "Salva tutto"
+
+#: View/Elements/system_recent_content.ctp:5
+msgid "edit"
+msgstr "modifica"
+
+#: View/Help/admin_index.ctp:1
+msgid "Help topics"
+msgstr "Voci d'aiuto"
+
+#: View/Help/admin_index.ctp:2
+msgid "Help is available on the following items"
+msgstr "L'aiuto è disponibile nelle seguenti voci"
+
+#: View/Modules/admin_index.ctp:8
+msgid "Install New Module"
+msgstr "Installa un Nuovo Modulo"
+
+#: View/Modules/admin_index.ctp:14
+#: View/Themes/admin_index.ctp:8
+msgid "Package"
+msgstr "Pacchetto"
+
+#: View/Modules/admin_index.ctp:21
+msgid "Activate after install"
+msgstr "Attiva dopo l'installazione"
+
+#: View/Modules/admin_index.ctp:26
+#: View/Themes/admin_index.ctp:13
+msgid "Install"
+msgstr "Installa"
+
+#: View/Modules/admin_index.ctp:43
+msgid "Dependencies"
+msgstr "Dipendenze"
+
+#: View/Modules/admin_index.ctp:56
+msgid "Disable"
+msgstr "Disabilita"
+
+#: View/Modules/admin_index.ctp:56
+msgid "Enable"
+msgstr "Abilita"
+
+#: View/Modules/admin_index.ctp:60
+msgid "Delete selected module ? This change cant be undone!"
+msgstr "Eliminare il modulo selezionato ? Questa operazione non può essere annullata!"
+
+#: View/Modules/admin_index.ctp:60
+#: View/Themes/admin_index.ctp:47
+msgid "Uninstall"
+msgstr "Disinstalla"
+
+#: View/Modules/admin_index.ctp:76
+#: View/Themes/admin_index.ctp:98
+msgid "Invalid package"
+msgstr "Pacchetto non valido"
+
+#: View/Themes/admin_index.ctp:3
+msgid "Install New Theme"
+msgstr "Installa un Nuovo Tema"
+
+#: View/Themes/admin_index.ctp:20
+msgid "Frontend themes"
+msgstr "Temi di frontend"
+
+#: View/Themes/admin_index.ctp:40
+#: View/Themes/admin_index.ctp:79
+#, php-format
+msgid "<b>version:</b> %s"
+msgstr "<b>versione:</b> %s"
+
+#: View/Themes/admin_index.ctp:41
+#: View/Themes/admin_index.ctp:80
+#, php-format
+msgid "author: %s"
+msgstr "autore: %s"
+
+#: View/Themes/admin_index.ctp:45
+msgid "Change site theme, are you sure ?"
+msgstr "Cambio del tema del sito, sei sicuro?"
+
+#: View/Themes/admin_index.ctp:45
+#: View/Themes/admin_index.ctp:84
+msgid "Set as default"
+msgstr "Imposta come default"
+
+#: View/Themes/admin_index.ctp:47
+msgid ""
+"Delete selected theme ?\\n"
+"This operation can be undone!"
+msgstr ""
+"Eliminare il tema selezionato?\\n"
+"L'operazione non può essere annullata!"
+
+#: View/Themes/admin_index.ctp:50
+#: View/Themes/admin_index.ctp:86
+msgid "Configure"
+msgstr "Configura"
+
+#: View/Themes/admin_index.ctp:60
+msgid "Backend themes"
+msgstr "Temi di backoffice"
+
+#: View/Themes/admin_index.ctp:84
+msgid "Change administrator theme, are you sure ?\\n"
+msgstr "Cambio tema d'amministrazione, sei sicuro?\\n"
+
+#: View/Themes/admin_settings.ctp:7
+#, php-format
+msgid "\"%s\" Theme"
+msgstr "Tema \"%s\""
+
+#: View/Themes/admin_settings.ctp:12
+msgid "Toggle display"
+msgstr "Opzioni di visualizzazione"
+
+#: View/Themes/admin_settings.ctp:13
+#: View/Themes/admin_settings.ctp:19
+msgid "Logo"
+msgstr "Logo"
+
+#: View/Themes/admin_settings.ctp:14
+msgid "Site name"
+msgstr "Nome del sito"
+
+#: View/Themes/admin_settings.ctp:15
+msgid "Site slogan"
+msgstr "Slogan del sito"
+
+#: View/Themes/admin_settings.ctp:16
+#: View/Themes/admin_settings.ctp:24
+msgid "Shortcut icon"
+msgstr "Favicon"
+
+#: View/Themes/admin_settings.ctp:20
+msgid "Logo image URL"
+msgstr "URL immagine logo"
+
+#: View/Themes/admin_settings.ctp:21
+msgid "Leave blank for use default logo."
+msgstr "Lasciare vuoto per usare il logo di default."
+
+#: View/Themes/admin_settings.ctp:25
+msgid "Shortcut icon URL"
+msgstr "URL della favicon"
+
+#: View/Themes/admin_settings.ctp:26
+msgid "Leave blank for use default favicon."
+msgstr "Lasciare vuoto per usare la favicon di default."
+
+#: View/Themes/admin_settings.ctp:29
+msgid "Save"
+msgstr "Salva"
+
+msgid "System Kernel."
+msgstr "Cuore del Sistema."
+
+msgid "Blocks"
+msgstr "Blocchi"
+
+msgid "Configure what block content appears in your site's sidebars and other regions."
+msgstr "Configura quale blocco deve apparire nella barra laterale e in altre regioni ."
+
+msgid "Content Types"
+msgstr "Tipi di Contenuto"
+
+msgid "Manage content types."
+msgstr "Gestisci tipi di contenuto."
+
+msgid "Menus"
+msgstr "Menu"
+
+msgid "Add new menus to your site, edit existing menus, and rename and reorganize menu links."
+msgstr "Aggiungi nuovi menu al tuo sito, modifica menu esistenti, rinomina e riorganizza i link di menu."
+
+msgid "Taxonomy"
+msgstr "Tassonomia"
+
+msgid "Manage tagging, categorization, and classification of your content."
+msgstr "Gestisci tag, categorie e classificazioni di contenuto."
+
+msgid "URL path prefix"
+msgstr "Prefisso di URL"
+
+msgid "URLs like http://domain.com/fre/about set language to French (fre). <b>Warning: Changing this setting may break incoming URLs. Use with caution on a production site.</b>"
+msgstr "URL come http://dominio.com/fre/about impostano la lingua in Francése (fre). <b>Attenzione: Modificando queste impostazioni si possono compromettere URL entranti. Usa con cautela nei siti di produzione.</b>"
+
+msgid "The file `%s` appears to be invalid, `Variable.url_language_prefix` parameter not found."
+msgstr "Il file `%s` pare non valido, non trovato il parametro `Variable.url_language_prefix`."
+
+msgid "The file `%s` could not be written."
+msgstr "Il file `%s` non può essere scritto."
+
+msgid "Forbidden module name \"%s\""
+msgstr "Nome modulo \"%s\" non ammesso"
+
+msgid "Invalid module name (got \"%s\", expected: \"%s\")"
+msgstr "Nome modulo non valido (ottenuto \"%s\", atteso: \"%s\")"
+
+msgid "This module is already installed"
+msgstr "Questo modulo è già installato"
+
+msgid "\"Config\" folder not found"
+msgstr "Cartella \"Config\" non trovata"
+
+msgid "\"Controller\" folder not found"
+msgstr "Cartella \"Controller\" non trovata"
+
+msgid "\"Component\" folder not found"
+msgstr "Cartella \"Component\" non trovata"
+
+msgid "Installer file (InstallComponent.php) not found"
+msgstr "File di installazione (InstallComponent.php) non trovato"
+
+msgid "YAML File (%s) not found"
+msgstr "File YAML (%s) non trovato"
+
+msgid "Invalid theme name (got \"%s\", expected: \"%s\")"
+msgstr "Nome tema non valido (ottenuto \"%s\", atteso: \"%s\")"
+
+msgid "This theme is already installed"
+msgstr "Questo tema è già installato"
+
+msgid "\"Layouts\" folder not found"
+msgstr "Cartella \"Layouts\" non trovata"
+
+msgid "\"app\" folder not found"
+msgstr "Cartella \"app\" non trovata"
+
+msgid "Module app (\"%s\") folder not found"
+msgstr "Cartella del modulo (\"%s\") non trovata"
+
+msgid "\"webroot\" folder not found"
+msgstr "Cartella \"webroot\" non trovata"
+
+msgid "Thumbnail image (\"%s\") not found"
+msgstr "Immagine icona (\"%s\") non trovata"
+
+msgid "\"Config/bootstrap.php\" file not found"
+msgstr "File \"Config/bootstrap.php\" non trovato"
+
+msgid "\"Config/routes.php\" file not found"
+msgstr "File \"Config/routes.php\" non trovato"
+
+msgid "Files must be less than <b>%sB</b>."
+msgstr "Il file deve essere più piccolo di <b>%sB</b>."
+
+msgid "Your themes folder is not writable. %s"
+msgstr "La cartella del tuo tema non è scrivibile. %s"
+
+msgid "Your modules folder is not writable. %s"
+msgstr "La cartella del tuo modulo non è scrivibile. %s"
+

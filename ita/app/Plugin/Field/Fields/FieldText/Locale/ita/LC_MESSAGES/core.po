@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-07 21:04+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gabri <sheepinside@yhaoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-KeywordsList: __t;__\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Full"
+msgstr "Completo"
+
+msgid "Plain"
+msgstr "Non formattato"
+
+msgid "Trimmed"
+msgstr "Trimmed"
+
+msgid "Trim length or read-more-cutter"
+msgstr "Trim length or read-more-cutter"
+
+msgid "Numeric value will convert content to plain text and then trim it to the especified number of chars. i.e.: 400"
+msgstr "Valori numerici saranno convertiti in testo e poi formattati col numero di caratteri specificato. Es.: 400"
+
+msgid "String value will cut the content in two by the specified string, the first part will be displayed. i.e.: &lt;!-- readmore --&gt;"
+msgstr "Il valore testuale separerà il contenuto in due, la prima parte sarà mostrata. Es.: : &lt;!-- continua --&gt;"
+
+msgid "Text field"
+msgstr "Campo di testo"
+
+msgid "Long text"
+msgstr "Testo lungo"
+
+msgid "Type of content"
+msgstr "Tipo di contenuto"
+
+msgid "Plain text"
+msgstr "Testo non formattato"
+
+msgid "Full HTML"
+msgstr "HTML completo"
+
+msgid "Filtered HTML"
+msgstr "HTML filtrato"
+
+msgid "Markdown"
+msgstr "Markdown"
+
+msgid "Text processing"
+msgstr "Text processing"
+
+msgid "No HTML tags allowed."
+msgstr "Nessun tag HTML permesso."
+
+msgid "Web page addresses and e-mail addresses turn into links automatically."
+msgstr "Indirizzi di pagine web e email verrànno tradotti in link automaticamente."
+
+msgid "Lines and paragraphs break automatically."
+msgstr "Interruzioni automatiche di linee e paragrafi."
+
+msgid "Allowed HTML tags: &lt;a&gt; &lt;em&gt; &lt;strong&gt; &lt;cite&gt; &lt;blockquote&gt; &lt;code&gt; &lt;ul&gt; &lt;ol&gt; &lt;li&gt; &lt;dl&gt; &lt;dt&gt; &lt;dd&gt;"
+msgstr "Tag HTML permessi:  &lt;a&gt; &lt;em&gt; &lt;strong&gt; &lt;cite&gt; &lt;blockquote&gt; &lt;code&gt; &lt;ul&gt; &lt;ol&gt; &lt;li&gt; &lt;dl&gt; &lt;dt&gt; &lt;dd&gt;"
+
+msgid "<a href=\"%s\" target=\"_blank\">Markdown</a> text format allowed only."
+msgstr "Testo formattato solo come <a href=\"%s\" target=\"_blank\">Markdown</a>."
+
+msgid "Max lenght"
+msgstr "Massima lunghezza"
+
+msgid "This is only used if your Type of content is a `Text field`. This will limit the subscriber to typing X number of characters in your textbox."
+msgstr "Questo è utilizzato solo se il tuo Tipo di contenuto è un `Campo di testo`. Questo limiterà l'utente a scrivere X caratteri nel tuo campo testo."
+
+msgid "Validation rule"
+msgstr "Regola di validazione"
+
+msgid "Enter your custom regular expression. i.e.: \"/^[a-z0-9]{3,}$/i\" (Only letters and integers, min 3 characters)"
+msgstr "Inserisci la tua regular expression personalizzata. Es.: \"/^[a-z0-9]{3,}$/i\" (Solo lettere e numeri, minimo 3 caratteri)"
+
+msgid "Validation message"
+msgstr "Messaggio di validazione"
+
+msgid "This is only used if `Validation rule` has been set."
+msgstr "Questo è solo usato se la `Regola di validazione` è stata inserita."
+
+msgid "Max. %s characters length."
+msgstr "Massimo %s caratteri di lunghezza."
+
+msgid "Field required."
+msgstr "Campo richiesto."
+
+msgid "Invalid field."
+msgstr "Campo non valido."
+
+msgid "Turn on JavaScript to see the email address."
+msgstr "Attiva JavaScript per vedere l'indirizzo email."
+
