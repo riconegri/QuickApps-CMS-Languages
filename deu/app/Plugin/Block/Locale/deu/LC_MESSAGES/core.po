@@ -20,15 +20,15 @@ msgstr "Blöcke"
 
 #: Controller/ManageController.php:91
 msgid "Clone"
-msgstr "Clonar"
+msgstr "Kopieren"
 
 #: Controller/ManageController.php:97
 msgid "Block has been cloned"
-msgstr "Bloque clonado con éxito"
+msgstr "Block wurde kopiert"
 
 #: Controller/ManageController.php:100
 msgid "Block could not be cloned"
-msgstr "No se pudo clonar el bloque."
+msgstr "Block konnte nicht kopiert werden"
 
 #: Controller/ManageController.php:125
 #: Controller/ManageController.php:171
@@ -149,39 +149,39 @@ msgstr "Diesen Block nur für bestimmte Rollen anzeigen"
 
 #: View/Manage/admin_add.ctp:64
 msgid "Show this block only for the selected role(s). If you select no roles, the block will be visible to all users."
-msgstr "Muestra este bloque solo para el(los) rol(es) seleccionado(s). Si no se indica(n) rol(es), el bloque será visible para todos los usuarios."
+msgstr "Diesen Block nur für die ausgewählten Rollen anzeigen. Wenn keine Rollen gewählt werden, ist der Block für alle Benutzer sichtbar."
 
 #: View/Manage/admin_add.ctp:67
 msgid "Advanced Options"
-msgstr "Opciones Avanzadas"
+msgstr "Erweiterte Optionen"
 
 #: View/Manage/admin_add.ctp:68
 msgid "Block class suffix"
-msgstr "Sufijo de clase para bloque"
+msgstr "Block Klassen Suffix"
 
 #: View/Manage/admin_add.ctp:69
 msgid "A suffix to be applied to the CSS class of the block. This allows for individual block styling."
-msgstr "Un sufijo para aplicar a las clases CSS del bloque. Esto permite estilizar individualmente el bloque."
+msgstr "Ein Suffix angewendet auf eine CSS-Klasse des Blocks. Das erlaubt ein individuelles Block-Styling bloque. !?!"
 
 #: View/Manage/admin_add.ctp:74
 msgid "Save block"
-msgstr "Guardar bloque"
+msgstr "Block speichern"
 
 #: View/Manage/admin_edit.ctp:5
 msgid "Active"
-msgstr "Activo"
+msgstr "Aktiv"
 
 #: View/Manage/admin_index.ctp:98
 #: View/Manage/admin_index.ctp:209
 #: View/Manage/admin_index.ctp:271
 msgid "Duplicate this block?"
-msgstr "Duplicar este bloque?"
+msgstr "Block kopieren?"
 
 #: View/Manage/admin_index.ctp:98
 #: View/Manage/admin_index.ctp:209
 #: View/Manage/admin_index.ctp:271
 msgid "clone"
-msgstr "clonar"
+msgstr "klonen"
 
 #: View/Manage/admin_index.ctp:99
 #: View/Manage/admin_index.ctp:210
@@ -193,7 +193,7 @@ msgstr "konfigurieren"
 #: View/Manage/admin_index.ctp:212
 #: View/Manage/admin_index.ctp:274
 msgid "Delete selected block ?"
-msgstr "¿Eliminar el bloque seleccionado?"
+msgstr "Ausgewählten Block löschen?"
 
 #: View/Manage/admin_index.ctp:101
 #: View/Manage/admin_index.ctp:212
@@ -203,48 +203,48 @@ msgstr "löschen"
 
 #: View/Manage/admin_index.ctp:223
 msgid "Unassigned or Disabled"
-msgstr "No Asignados o Desactivados"
+msgstr "Nicht zugeordnet oder deaktiviert"
 
 #: View/Manage/admin_index.ctp:283
 msgid "Save all"
 msgstr "Alles speichern"
 
 msgid "Controls the visual building blocks a page is constructed with. Blocks are boxes of content rendered into an area, or region, of a web page."
-msgstr "Gestiona los bloques visuales con los que una págian se construye. Los bloques son cajas de contenido que se renderizan en un área o región de una página web."
+msgstr "Steuert die visuellen Blöcke aus der eine Seite gebaut wurde. Blöcke sind zusätzliche Inhalte, die in bestimmte Bereiche, Regionen einer Webseite angezeigt werden."
 
 msgid "move up"
-msgstr "mover arriba"
+msgstr "nach oben"
 
 msgid "move down"
-msgstr "mover abajo"
+msgstr "nach unten"
 
 msgid "Block"
-msgstr "Bloque"
+msgstr "Block"
 
 msgid "Region"
-msgstr "Región"
+msgstr "Region"
 
 msgid "Actions"
-msgstr "Acciones"
+msgstr "Aktionen"
 
 msgid "Block moved %s!"
-msgstr "Bloque movido %s!"
+msgstr "Block verschoben %s!"
 
 msgid "up"
-msgstr "arriba"
+msgstr "nach oben"
 
 msgid "down"
-msgstr "abajo"
+msgstr "nach unten"
 
 msgid "Block has been deleted"
-msgstr "El bloque ha sido eliminad"
+msgstr "Block wurde gelöscht"
 
 msgid "Block could not be deleted"
-msgstr "No se pudo eliminar el bloque"
+msgstr "Block konnte nicht gelöscht werden"
 
 msgid "Invalid description."
-msgstr "Descripción inválida."
+msgstr "Ungültige Beschreibung"
 
 msgid "Invalid block body."
-msgstr "Cuerpo de bloque inválida."
+msgstr "Ungültiger Blockinhalt"
 
