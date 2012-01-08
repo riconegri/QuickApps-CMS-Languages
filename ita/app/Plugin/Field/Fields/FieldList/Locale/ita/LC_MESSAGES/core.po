@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-07 21:04+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gabri <sheepinside@yhaoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-KeywordsList: __t;__\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Default"
+msgstr "Default"
+
+msgid "Key"
+msgstr "Chiave"
+
+msgid "List Type"
+msgstr "Tipo di Lista"
+
+msgid "Options"
+msgstr "Opzioni"
+
+msgid "The possible values this field can contain. Enter one value per line, in the format <b>key|label</b>."
+msgstr "I possibili valori che il campo può contenere. Inserisci un valore per linea, nel formato <b>chiave|etichetta</b>"
+
+msgid "The key is the stored value. The label will be used in displayed values and edit forms."
+msgstr "La chiave è il valore salvato. L'etichetta sarà usata per visualizzare i valori e nei form."
+
+msgid "The label is optional: if a line contains a single string, it will be used as key and label."
+msgstr "L'etichetta è opzionale: se una linea contiene una stringa singola, sarà usata come chiave ed etichetta."
+
+msgid "You must select at least on option."
+msgstr "Devi selezionare almeno un opzione."
+

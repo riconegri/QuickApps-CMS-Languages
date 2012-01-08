@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-07 21:04+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gabri <sheepinside@yhaoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-KeywordsList: __t;__\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Controller/ListController.php:20
+msgid "Unpublished comments"
+msgstr "Commenti non pubblicati"
+
+#: Controller/ListController.php:24
+msgid "Published comments"
+msgstr "Commenti pubblicati"
+
+#: Controller/ListController.php:61
+#: Controller/ListController.php:70
+msgid "Comments"
+msgstr "Commenti"
+
+#: Controller/ListController.php:71
+msgid "Comment details"
+msgstr "Dettagli dei commenti"
+
+#: Controller/ListController.php:72
+msgid "Comment Details"
+msgstr "Dettagli dei Commenti"
+
+#: Model/Comment.php:85
+#: Model/Comment.php:96
+msgid "Anonymous"
+msgstr "Anonimo"
+
+#: View/Elements/toolbar.ctp:3
+msgid "Published"
+msgstr "Pubblicato"
+
+#: View/Elements/toolbar.ctp:4
+#, php-format
+msgid "Unpublished (%s)"
+msgstr "Non pubblicato (%s)"
+
+#: View/List/admin_show.ctp:9
+#: View/List/admin_view.ctp:17
+msgid "Subject"
+msgstr "Oggetto"
+
+#: View/List/admin_show.ctp:13
+msgid "Author"
+msgstr "Autore"
+
+#: View/List/admin_show.ctp:17
+msgid "Posted in"
+msgstr "Pubblicato in"
+
+#: View/List/admin_show.ctp:21
+msgid "Posted on"
+msgstr "Pubblicato il"
+
+#: View/List/admin_show.ctp:22
+msgid "Y/m/d - H:i"
+msgstr "d/m/Y - H:i"
+
+#: View/List/admin_show.ctp:26
+msgid "There are no comments to display"
+msgstr "Nessun commento da mostrare"
+
+#: View/List/admin_show.ctp:33
+msgid "Are you sure ?"
+msgstr "Sei sicuro ?"
+
+#: View/List/admin_show.ctp:35
+msgid "Update Options"
+msgstr "Opzioni di Modifica"
+
+#: View/List/admin_show.ctp:39
+msgid "Approve selected comments"
+msgstr "Approva i commenti selezionati"
+
+#: View/List/admin_show.ctp:40
+msgid "Unapprove selected comments"
+msgstr "Non approvare i commenti selezionati"
+
+#: View/List/admin_show.ctp:41
+msgid "Delete selected comments"
+msgstr "Elimina i commenti selezionati"
+
+#: View/List/admin_show.ctp:58
+msgid "Update"
+msgstr "Modifica"
+
+#: View/List/admin_view.ctp:3
+msgid "Published in content"
+msgstr "Pubblicato in contenuto"
+
+#: View/List/admin_view.ctp:4
+msgid "Published by"
+msgstr "Pubblicato da"
+
+#: View/List/admin_view.ctp:14
+msgid "M d, Y H:i"
+msgstr "d \\d\\e M, Y H:i"
+
+#: View/List/admin_view.ctp:14
+#, php-format
+msgid "on %s"
+msgstr "il %s"
+
+#: View/List/admin_view.ctp:15
+msgid "Hostname"
+msgstr "Nome host"
+
+#: View/List/admin_view.ctp:16
+msgid "Web page"
+msgstr "Pagina web"
+
+#: View/List/admin_view.ctp:18
+msgid "Message"
+msgstr "Messaggio"
+
+msgid "Allows users to comment on and discuss published content."
+msgstr "Concedi agli utetnti di commentare e discutere contenuto pubblicato."
+
+msgid "wrote"
+msgstr "scritto"
+
+msgid "Your name"
+msgstr "Tuo nome"
+
+msgid "Your name *"
+msgstr "Tuo nome *"
+
+msgid "Comment"
+msgstr "Commento"
+
+msgid "Comment *"
+msgstr "Commento *"
+
+msgid "Add new comment"
+msgstr "Aggiungi commento"
+
+msgid "said on %s"
+msgstr "detto il %s"
+
+msgid "Quote"
+msgstr "Cita"
+
+msgid "Quoting"
+msgstr "Citando"
+
+msgid "No subject"
+msgstr "Nessun oggetto"
+
+msgid "Your comment has been queued for review by site administrators and will be published after approval."
+msgstr "Il tuo commento è in coda per per essere visionato dagli amminstratori e sarà pubblicato previa approvazione."
+
+msgid "Your comment has been posted."
+msgstr "Il tuo commento è stato aggiunto."
+
+msgid "Comment could not be saved. Please try again."
+msgstr "Il commento non può essere salvato. Ritenta."
+
+msgid "Commenter name required."
+msgstr "Nome richiesto."
+
+msgid "Invalid email."
+msgstr "Email non valida."
+
+msgid "Invalid homepage URL."
+msgstr "URL web non valida."
+
+msgid "Comment body can not be empty."
+msgstr "Il Corpo del commento non può essere vuoto."
+
+msgid "Anti-Spam Protection"
+msgstr "Protezione Anti-Spam"
+
+msgid "Invalid security code."
+msgstr "Codice di sicurezza non valido."
+
+msgid "Use ReCaptcha"
+msgstr "Usa ReCaptcha"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Language"
+msgstr "Lingua"
+
+msgid "Custom Translation"
+msgstr "Traduzione personalizzata"
+
+msgid "Use Akismet"
+msgstr "Usa Akismet"
+
+msgid "On SPAM detected"
+msgstr "Al rilevamento di SPAM"
+
+msgid "Mark as SPAM"
+msgstr "Marca come SPAM"
+
+msgid "Delete"
+msgstr "Elimina"
+
+msgid "Auto-Detect"
+msgstr "Auto-Rileva"
+
