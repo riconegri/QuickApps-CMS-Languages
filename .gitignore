@@ -1,6 +1,4 @@
 *
 !*/
 !*.po
-!locale*.js
-!*/app/Plugin/Comment/webroot/js/markItUp/locale/*.js
 */app/Cake*
