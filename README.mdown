@@ -1,10 +1,15 @@
 # How to translate
-    - Fork this repo
-    - Identify your language code (see the table below)
-    - Use the folder `your_code` as base
-    - Create all the corresponding language folders
-    - Translate *.po
-    - Pull your work
+    - Fork this repo.
+    - Identify your language code (see the table below).
+    - Create a folder using your three letters language code.
+    - Use the Portable Object Template (default.pot)
+    - Translate.
+    - Pull your work.
+
+# How to use
+    - Identify your language folder and copy to your site's `Locale` folder (ROOT/Locale).
+    - Rename `default.pot` to `default.po`.
+    - Remember to register the language on the languages section (/admin/locale/languages).
 
 # ISO 639-3 Codes
     Afrikaans: afr
