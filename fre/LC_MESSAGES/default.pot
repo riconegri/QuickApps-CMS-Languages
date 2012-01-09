@@ -1,0 +1,4586 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2012-01-09 01:49+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller\Component\InstallerComponent.php:78
+msgid "Package upload error"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:88
+msgid "Unzip error."
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:108
+msgid "Invalid package structure after unzip"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:124
+msgid "Forbidden Names"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:125
+msgid "Forbidden module name \"%s\""
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:129;182
+msgid "Theme name"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:130
+msgid "Invalid module name (got \"%s\", expected: \"%s\")"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:137;190
+msgid "Already Installed"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:138
+msgid "This module is already installed"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:142;210
+msgid "Config Folder"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:143;211
+msgid "\"Config\" folder not found"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:147;215
+msgid "Bootstrap File"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:148;216
+msgid "\"Config/bootstrap.php\" file not found"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:152
+msgid "Routes File"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:153;221
+msgid "\"Config/routes.php\" file not found"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:157
+msgid "Controller Folder"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:158
+msgid "\"Controller\" folder not found"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:162
+msgid "Component Folder"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:163
+msgid "\"Component\" folder not found"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:167;225
+msgid "Installer File"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:168;226
+msgid "Installer file (InstallComponent.php) not found"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:172;235
+msgid "YAML File"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:173;236
+msgid "YAML File (%s) not found"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:183
+msgid "Invalid theme name (got \"%s\", expected: \"%s\")"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:191
+msgid "This theme is already installed"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:195
+msgid "Layouts Folder"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:196
+msgid "\"Layouts\" folder not found"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:200
+msgid "app Folder"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:201
+msgid "\"app\" folder not found"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:205
+msgid "Plugin app"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:206
+msgid "Module app (\"%s\") folder not found"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:220
+msgid "Routes file"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:230
+msgid "webroot Folder"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:231
+msgid "\"webroot\" folder not found"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:240
+msgid "Theme thumbnail"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:241
+msgid "Thumbnail image (\"%s\") not found"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:266;282
+msgid "YAML Validation"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:267
+msgid "Module configuration file (%s) appears to be invalid."
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:283
+msgid "Theme configuration file (%s) appears to be invalid."
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:290
+msgid "Invalid information file (.yaml)"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:301;1276
+msgid "This module is incompatible with your QuickApps version."
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:303;1278
+msgid "This theme is incompatible with your QuickApps version."
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:314;1289
+msgid ""
+"This module depends on other modules that you do not have or doesn't meet "
+"the version required: %s"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:316;1291
+msgid ""
+"This theme depends on other modules that you do not have or doesn't meet the "
+"version required: %s"
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:340
+msgid "invalid information file (.yaml). Field \"%s\""
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:344
+msgid "Invalid field \"%s\". Information file (.yaml) not found."
+msgstr ""
+
+#: Controller\Component\InstallerComponent.php:348
+msgid "Invalid field name \"%s\"."
+msgstr ""
+
+#: Plugin\System\Console\Command\QuickappsShell.php:15
+msgid "Quickapps CMS - Shell"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\GuiTask.php:22
+msgid "What would you like to do"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\GuiTask.php:56
+msgid "You have made an invalid selection."
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:10
+msgid "Quickapps CMS - Modules"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:62
+msgid "Which %s ?"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:71
+msgid "Machine Name: %s"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:72
+msgid "Active: %s"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:73
+#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:20;28
+msgid "Yes"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:73
+#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:20;28
+msgid "No"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:75
+msgid "Description: %s"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:78
+msgid "Category: %s"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:81
+msgid "Core: %s"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:84
+msgid "Dependencies:"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:92
+msgid "Theme regions:"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:104
+#: Plugin\System\Console\Command\Task\ThemeTask.php:40
+msgid "Write permission ERROR: %s"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:114
+msgid "Your module has been compressed and saved in: %s"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:166
+#, fuzzy
+msgid "Region"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Région\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Región"
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:206
+msgid "Alias name of the module, in CamelCase. e.g.: \"MyTestModule\" [R]"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:210
+msgid "Human readable name of the module. e.g.: \"My Test Module\" [R]"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:214
+#: Plugin\System\Console\Command\Task\ThemeTask.php:83
+msgid "Brief description [R]"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:218
+msgid "Category [R]"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:223
+msgid "Invalid category name."
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:228
+msgid "Module version. e.g.: 1.0, 2.0.1 [R]"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:232
+#: Plugin\System\Console\Command\Task\ThemeTask.php:93;97
+msgid "Required version of Quickapps CMS. e.g: 1.x, >=1.0 [R]"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:235
+#: Plugin\System\Console\Command\Task\ThemeTask.php:100
+msgid "Author name [O]"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:236
+#: Plugin\System\Console\Command\Task\ThemeTask.php:101
+msgid "Author email [O]"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:246
+msgid "Does your module depends of other modules ?"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:258
+#: Plugin\System\Console\Command\Task\ThemeTask.php:119
+msgid "#%s"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:261
+#: Plugin\System\Console\Command\Task\ThemeTask.php:122
+msgid "Module alias"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:264
+#: Plugin\System\Console\Command\Task\ThemeTask.php:125
+msgid "Module version. (Optional)"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ModuleTask.php:267
+#: Plugin\System\Console\Command\Task\ThemeTask.php:128
+msgid "Add other module dependency ?"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ThemeTask.php:10
+msgid "Quickapps CMS - Themes"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ThemeTask.php:50
+msgid "Your theme has been compressed and saved in: %s"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ThemeTask.php:71
+msgid "Is your theme an admin theme ?"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ThemeTask.php:75
+msgid "Alias name of the theme, in CamelCase. e.g.: \"MyTestTheme\" [R]"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ThemeTask.php:79
+msgid "Human readable name of the theme. e.g.: \"My Test Theme\" [R]"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ThemeTask.php:86
+msgid "Theme version. e.g.: 1.0, 2.0.1 [O]"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ThemeTask.php:109
+msgid "Does your theme depends of some modules ?"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ThemeTask.php:144
+msgid "Adding theme regions"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ThemeTask.php:147
+msgid "Do you want to add regions present in the actual theme?"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ThemeTask.php:171
+msgid "Type in regions separated by comma `,`."
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ThemeTask.php:185
+msgid "Add more regions?"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ThemeTask.php:192
+msgid "Region name:"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\ThemeTask.php:198
+msgid "Add other region"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\UtilityTask.php:9
+msgid "Quickapps CMS - Utilities"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\UtilityTask.php:49
+msgid "Type in your password"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\UtilityTask.php:50
+msgid "Hash for \"%s\": %s"
+msgstr ""
+
+#: Plugin\System\Console\Command\Task\UtilityTask.php:65
+msgid ""
+"Type in the table name you want to export (no prefix). Leave empty to export "
+"all."
+msgstr ""
+
+#: Plugin\System\View\Helper\SystemHookHelper.php:32
+#, fuzzy
+msgid "Recent Content"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Contenu récent\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Contenidos Recientes"
+
+#: Vendor\DummyLocale.php:2
+msgid "Dashboard"
+msgstr "Resumen"
+
+#: Vendor\DummyLocale.php:3
+msgid "Structure"
+msgstr "Estructura"
+
+#: Vendor\DummyLocale.php:4
+msgid "Content"
+msgstr "Contenidos"
+
+#: Vendor\DummyLocale.php:5
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: Vendor\DummyLocale.php:6
+msgid "Modules"
+msgstr "Módulos"
+
+#: Vendor\DummyLocale.php:7
+msgid "Users"
+msgstr "Usuarios"
+
+#: Vendor\DummyLocale.php:8
+msgid "Configuration"
+msgstr "Configuración"
+
+#: Vendor\DummyLocale.php:9
+msgid "Help"
+msgstr "Ayuda"
+
+#: Vendor\DummyLocale.php:10
+msgid "Hidden"
+msgstr "Oculto"
+
+#: Vendor\DummyLocale.php:11
+msgid "Languages"
+msgstr "Idiomas"
+
+#: Vendor\DummyLocale.php:12
+msgid "View Site"
+msgstr "Ver Sitio"
+
+#: Vendor\DummyLocale.php:13 View\Themed\Admin\Layouts\default.ctp:51
+msgid "Log out"
+msgstr "Cerrar Sesión"
+
+#: Vendor\DummyLocale.php:14
+msgid "Logout"
+msgstr "Cerrar Sesión"
+
+#: Vendor\DummyLocale.php:15
+msgid "My account"
+msgstr "My Cuenta"
+
+#: Vendor\DummyLocale.php:16
+msgid "« Previous "
+msgstr "« Anterior"
+
+#: Vendor\DummyLocale.php:17
+msgid " Next »"
+msgstr " Siguiente »"
+
+#: View\Helper\LayoutHelper.php:285
+msgid "The node could not be rendered"
+msgstr ""
+
+#: Controller\Component\QuickappsComponent.php:262
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: Plugin\User\Controller\Component\MailerComponent.php:52
+msgid "User not found."
+msgstr ""
+
+#: Plugin\User\Controller\Component\MailerComponent.php:75
+msgid "This message has been marked as \"do not notify\"."
+msgstr ""
+
+#: Plugin\User\Controller\Component\MailerComponent.php:87;103
+msgid "Email could not be send."
+msgstr ""
+
+#: Plugin\User\Controller\Component\MailerComponent.php:92;106
+msgid "Invalid message preset."
+msgstr ""
+
+#: Plugin\User\Model\User.php:110
+msgid "Password missmatch."
+msgstr ""
+
+msgid "Mailing notifications"
+msgstr "Notifications par mail"
+
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: Plugin\User\View\Elements\settings.ctp:26;50;97;121
+#: View\Elements\theme_node_comments_form.ctp:56
+#, fuzzy
+msgid "Subject"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"Sujet\n"
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Sujet\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Asunto"
+
+msgid "Body"
+msgstr "Corps"
+
+msgid "User activation"
+msgstr "Activation de l'utilisateur"
+
+msgid "Notify user when account is activated."
+msgstr "Envoyer une notification à l'utilisateur quand son compte est activé."
+
+msgid "Account blocked"
+msgstr "Compte bloqué"
+
+msgid "Notify user when account is blocked."
+msgstr ""
+"Envoyer une notification à l'utilisateur quand son compte a été bloqué."
+
+msgid "Password recovery"
+msgstr "Recupération du mot de passe"
+
+msgid "Account canceled"
+msgstr "Compte supprimé"
+
+msgid "Notify user when account is canceled."
+msgstr ""
+"Envoyer une notification à l'utilisateur quand son compte a été annulé."
+
+#: Plugin\User\View\Elements\user_login_block.ctp:5
+#: Plugin\User\View\User\profile.ctp:9
+msgid "Username"
+msgstr ""
+
+msgid "Password"
+msgstr "Mot de passe"
+
+#: Plugin\User\View\Elements\user_login_block.ctp:9
+#: Plugin\User\View\Helper\UserHookHelper.php:41
+msgid "Login"
+msgstr ""
+
+msgid "Create new account"
+msgstr "Créer un nouveau compte"
+
+msgid "Request new password"
+msgstr "Obtenir un nouveau mot de passe"
+
+#: Plugin\User\View\Elements\user_new_block_settings.ctp:6
+msgid "Number of users"
+msgstr ""
+
+msgid "Who's New"
+msgstr "Nouveaux utilisateurs"
+
+#: Plugin\User\View\User\profile.ctp:2
+msgid "Profile"
+msgstr ""
+
+#: Plugin\User\View\User\profile.ctp:10
+msgid "Real name"
+msgstr ""
+
+msgid "Email"
+msgstr "Email"
+
+#: Plugin\User\View\User\profile.ctp:19
+msgid "User since"
+msgstr ""
+
+#: Plugin\User\View\User\profile.ctp:20
+msgid "Last connection"
+msgstr ""
+
+#: Lib\Routing\Router.php:252
+msgid "Route classes must extend CakeRoute"
+msgstr ""
+
+#: Plugin\Comment\Model\Comment.php:220;236
+msgid "No subject"
+msgstr ""
+
+#: Plugin\Comment\Model\Behavior\BBCodeBehavior.php:89
+#, fuzzy
+msgid "wrote"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"a écrit\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"escribió"
+
+#: Plugin\Comment\View\Elements\settings.ctp:1
+msgid "Anti-Spam Protection"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:7
+msgid "Use ReCaptcha"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:13
+msgid "ReCaptcha Public Key"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:14
+msgid "ReCaptcha Private Key"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:19
+msgid "Theme"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:21
+msgid "Red"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:22
+msgid "White"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:23
+msgid "Black Glass"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:24
+#: Plugin\Comment\webroot\js\markItUp\locale.js:18
+msgid "Clean"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:33
+#, fuzzy
+msgid "Language"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Idioma\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Langue\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Idioma\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"Langue\n"
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Langue\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Idioma\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Langue"
+
+#: Plugin\Comment\View\Elements\settings.ctp:35
+msgid "Auto-Detect"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:36
+msgid "English"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:37
+msgid "Dutch"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:38
+msgid "French"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:39
+msgid "German"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:40
+msgid "Portuguese"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:41
+msgid "Russian"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:42
+msgid "Spanish"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:43
+msgid "Turkish"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:44;51
+msgid "Custom Translation"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:73
+msgid "Use Akismet"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:80
+msgid "Akismet API Key"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:85
+msgid "On SPAM detected"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:88
+msgid "Mark as SPAM"
+msgstr ""
+
+#: Plugin\Comment\View\Elements\settings.ctp:89
+msgid "Delete"
+msgstr ""
+
+#: Plugin\Comment\View\Helper\CommentHookHelper.php:120
+msgid "Invalid security code."
+msgstr ""
+
+#: Plugin\Comment\webroot\js\markItUp\locale.js:1
+msgid "Bold"
+msgstr ""
+
+#: Plugin\Comment\webroot\js\markItUp\locale.js:2
+msgid "Italic"
+msgstr ""
+
+#: Plugin\Comment\webroot\js\markItUp\locale.js:3;13
+msgid "Underline"
+msgstr ""
+
+#: Plugin\Comment\webroot\js\markItUp\locale.js:4
+msgid "Picture"
+msgstr ""
+
+#: Plugin\Comment\webroot\js\markItUp\locale.js:5
+msgid "Link"
+msgstr ""
+
+#: Plugin\Comment\webroot\js\markItUp\locale.js:6
+msgid "Your text to link here..."
+msgstr ""
+
+#: Plugin\Comment\webroot\js\markItUp\locale.js:7
+#: Plugin\Field\Fields\FieldFile\View\Helper\FieldFileHookHelper.php:74
+msgid "Size"
+msgstr ""
+
+#: Plugin\Comment\webroot\js\markItUp\locale.js:8
+msgid "Text size"
+msgstr ""
+
+#: Plugin\Comment\webroot\js\markItUp\locale.js:9
+msgid "Big"
+msgstr ""
+
+#: Plugin\Comment\webroot\js\markItUp\locale.js:10
+msgid "Normal"
+msgstr ""
+
+#: Plugin\Comment\webroot\js\markItUp\locale.js:11
+msgid "Small"
+msgstr ""
+
+#: Plugin\Comment\webroot\js\markItUp\locale.js:12
+msgid "Bulleted list"
+msgstr ""
+
+#: Plugin\Comment\webroot\js\markItUp\locale.js:14
+msgid "Starting number"
+msgstr ""
+
+#: Plugin\Comment\webroot\js\markItUp\locale.js:15
+msgid "List item"
+msgstr ""
+
+#: Plugin\Comment\webroot\js\markItUp\locale.js:16
+msgid "Quotes"
+msgstr ""
+
+#: Plugin\Comment\webroot\js\markItUp\locale.js:17
+#, fuzzy
+msgid "Code"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Código\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Code"
+
+#: Plugin\Node\Controller\NodeController.php:152
+msgid ""
+"Your comment has been queued for review by site administrators and will be "
+"published after approval."
+msgstr ""
+
+#: Plugin\Node\Controller\NodeController.php:154
+msgid "Your comment has been posted."
+msgstr ""
+
+#: Plugin\Node\Controller\NodeController.php:159
+msgid "Comment could not be saved. Please try again."
+msgstr ""
+
+#: View\Elements\theme_node_comments.ctp:16
+#, fuzzy
+msgid "Comments"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Commentaires\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Comentarios\n"
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Commentaires\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Comentarios"
+
+#: View\Elements\theme_node_comments.ctp:20;84
+#: Plugin\Node\View\Node\search.ctp:21
+msgid "«"
+msgstr ""
+
+#: View\Elements\theme_node_comments.ctp:22;86
+#: Plugin\Node\View\Node\search.ctp:23
+msgid "»"
+msgstr ""
+
+#: View\Elements\theme_node_comments.ctp:55
+#, fuzzy
+msgid "said on %s"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"a déclaré le %s\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"dijo el %s"
+
+#: View\Elements\theme_node_comments.ctp:56
+msgid "Permalink"
+msgstr ""
+
+#: View\Elements\theme_node_comments.ctp:68
+#, fuzzy
+msgid "Quote"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Citer\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Citar"
+
+#: View\Elements\theme_node_comments_form.ctp:16
+#, fuzzy
+msgid "Add new comment"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajouter un nouveau commentaire\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Nuevo comentario"
+
+#: View\Elements\theme_node_comments_form.ctp:21;28;37
+#, fuzzy
+msgid "Your name"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Votre nom\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Tu nombre"
+
+#: View\Elements\theme_node_comments_form.ctp:39;50
+msgid "Web page"
+msgstr ""
+
+#: View\Elements\theme_node_comments_form.ctp:48
+#, fuzzy
+msgid "Your name *"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Votre nom *\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Tu nombre *"
+
+#: View\Elements\theme_node_comments_form.ctp:49
+msgid "Email *"
+msgstr ""
+
+#: View\Elements\theme_node_comments_form.ctp:59
+#, fuzzy
+msgid "Comment *"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Commentaire *\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Comentario *"
+
+#: View\Elements\theme_node_comments_form.ctp:64
+#, fuzzy
+msgid "Save"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Enregistrer\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Guardar\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Enregistrer\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Guardar\n"
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Enregistrer\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Guardar"
+
+#: Plugin\Field\Fields\FieldDate\Model\Behavior\FieldDateHookBehavior.php:50
+msgid "Date cannot be empty."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldDate\View\Elements\settings_from.ctp:5
+msgid "Date format"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldDate\View\Elements\settings_from.ctp:12
+msgid "Display button bar"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldDate\View\Elements\settings_from.ctp:19
+msgid "Display month & year menu"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldDate\View\Elements\settings_from.ctp:26
+msgid "Show week of the year"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldDate\View\Elements\settings_from.ctp:41
+msgid "Display multiple months"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldDate\View\Elements\settings_from.ctp:115
+msgid "Localize"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\Controller\UploadifyController.php:52
+msgid "Invalid file extension."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\Controller\UploadifyController.php:75
+msgid "Error: %s"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\Model\Behavior\FieldFileHookBehavior.php:138
+msgid "You must upload at least one file."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\View\Elements\edit.ctp:68
+#: Plugin\Field\Fields\FieldFile\webroot\js\locale.js:1
+msgid "Remove"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\View\Elements\edit.ctp:99
+msgid "Files must be less than <b>%sB</b>."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\View\Elements\edit.ctp:101
+msgid "Allowed file types: <b>%s</b>."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\View\Elements\formatter_from.ctp:8
+msgid "Link to file"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\View\Elements\formatter_from.ctp:9
+msgid "Table of Files"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\View\Elements\formatter_from.ctp:10
+msgid "File URL"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\View\Elements\settings_from.ctp:5
+msgid "Allowed extensions"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\View\Elements\settings_from.ctp:9
+msgid "Comma separated. i.e.: jpg,gif,png"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\View\Elements\settings_from.ctp:16
+msgid "Number of files"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\View\Elements\settings_from.ctp:20
+msgid "Maximum number of files users can upload for this field."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\View\Elements\settings_from.ctp:26
+msgid "Upload folder"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\View\Elements\settings_from.ctp:30
+msgid ""
+"Optional subdirectory within the upload destination where files will be "
+"stored. Do not include preceding or trailing slashes."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\View\Elements\settings_from.ctp:36
+msgid "Enable Description field"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\View\Elements\settings_from.ctp:40
+msgid ""
+"The description field allows users to enter a description about the uploaded "
+"file."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\View\Helper\FieldFileHookHelper.php:73
+msgid "Attachment"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldFile\webroot\js\locale.js:2
+#, fuzzy
+msgid "Description"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Description\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Descripción\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Description\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Descripción\n"
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Description\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Descripción\n"
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Description\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Descripción"
+
+#: Plugin\Field\Fields\FieldFile\webroot\js\locale.js:3
+#, fuzzy
+msgid "Upload"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Cargar\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Mettre à jour"
+
+#: Plugin\Field\Fields\FieldList\Model\Behavior\FieldListHookBehavior.php:53
+#: Plugin\Taxonomy\Fields\FieldTerms\Model\Behavior\FieldTermsHookBehavior.php:154
+msgid "You must select at least one option."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldList\View\Elements\formatter_from.ctp:8
+msgid "Default"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldList\View\Elements\formatter_from.ctp:9
+msgid "Key"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldList\View\Elements\settings_from.ctp:5
+msgid "Radio buttons"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldList\View\Elements\settings_from.ctp:5
+msgid "Checkboxes"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldList\View\Elements\settings_from.ctp:7
+msgid "List Type"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldList\View\Elements\settings_from.ctp:14
+msgid "Options"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldList\View\Elements\settings_from.ctp:20
+msgid ""
+"The possible values this field can contain. Enter one value per line, in the "
+"format <b>key|label</b>."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldList\View\Elements\settings_from.ctp:21
+msgid ""
+"The key is the stored value. The label will be used in displayed values and "
+"edit forms."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldList\View\Elements\settings_from.ctp:22
+msgid ""
+"The label is optional: if a line contains a single string, it will be used "
+"as key and label."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\Model\Behavior\FieldTextHookBehavior.php:73
+msgid "Max. %s characters length."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\Model\Behavior\FieldTextHookBehavior.php:84
+msgid "Field required."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\Model\Behavior\FieldTextHookBehavior.php:93
+msgid "Invalid field."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\formatter_from.ctp:10
+msgid "Full"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\formatter_from.ctp:11
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\formatter_from.ctp:8
+msgid "Plain"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\formatter_from.ctp:12
+msgid "Trimmed"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\formatter_from.ctp:26
+msgid "Trim length or read-more-cutter"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\formatter_from.ctp:32
+msgid ""
+"Numeric value will convert content to plain text and then trim it to the "
+"especified number of chars. i.e.: 400"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\formatter_from.ctp:33
+msgid ""
+"String value will cut the content in two by the specified string, the first "
+"part will be displayed. i.e.: &lt;!-- readmore --&gt;"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:7
+msgid "Text field"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:8
+msgid "Long text"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:10
+msgid "Type of content"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:20;32
+msgid "Plain text"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:21;41
+msgid "Full HTML"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:22;48
+msgid "Filtered HTML"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:23;57
+msgid "Markdown"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:25
+msgid "Text processing"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:34
+msgid "No HTML tags allowed."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:35;43;50
+msgid "Web page addresses and e-mail addresses turn into links automatically."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:36;52
+msgid "Lines and paragraphs break automatically."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:51
+msgid ""
+"Allowed HTML tags: &lt;a&gt; &lt;em&gt; &lt;strong&gt; &lt;cite&gt; &lt;"
+"blockquote&gt; &lt;code&gt; &lt;ul&gt; &lt;ol&gt; &lt;li&gt; &lt;dl&gt; &lt;"
+"dt&gt; &lt;dd&gt;"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:59
+msgid "<a href=\"%s\" target=\"_blank\">Markdown</a> text format allowed only."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:75
+msgid "Max lenght"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:79
+msgid ""
+"This is only used if your Type of content is a `Text field`. This will limit "
+"the subscriber to typing X number of characters in your textbox."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:85
+msgid "Validation rule"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:89
+msgid ""
+"Enter your custom regular expression. i.e.: \"/^[a-z0-9]{3,}$/i\" (Only "
+"letters and integers, min 3 characters)"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:95
+msgid "Validation message"
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:99
+msgid "This is only used if `Validation rule` has been set."
+msgstr ""
+
+#: Plugin\Field\Fields\FieldText\View\Helper\FieldTextHookHelper.php:198
+msgid "Turn on JavaScript to see the email address."
+msgstr ""
+
+#: Plugin\Locale\View\Elements\locale_language_switcher_settings.ctp:1
+msgid "Display language flag icon"
+msgstr ""
+
+#: Plugin\Locale\View\Elements\locale_language_switcher_settings.ctp:2
+msgid "Display language name"
+msgstr ""
+
+#: Plugin\User\Controller\PermissionsController.php:101
+msgid "Field: %s"
+msgstr ""
+
+#: Plugin\User\Controller\PermissionsController.php:103
+#, fuzzy
+msgid "Theme: %s"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Tema: %s\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Thème: %s"
+
+#: Plugin\User\Controller\PermissionsController.php:105
+#, fuzzy
+msgid "Module: %s"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Módulo: %s\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Module: %s"
+
+#: Plugin\Node\View\Elements\search_block.ctp:25
+msgid "Keywords"
+msgstr ""
+
+#: Plugin\Node\View\Elements\search_block.ctp:26
+#: Plugin\Node\View\Elements\search_form.ctp:50
+#: Plugin\Node\View\Helper\NodeHookHelper.php:51
+#, fuzzy
+msgid "Search"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Recherche\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Buscar"
+
+#: Plugin\Node\View\Elements\search_block_settings.ctp:16
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\formatter_from.ctp:18
+#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:61
+msgid "URL prefix"
+msgstr ""
+
+#: Plugin\Node\View\Elements\search_block_settings.ctp:20
+msgid "Adds a prefix to each search URL query."
+msgstr ""
+
+#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:38;39;40
+msgid "%s Minutes"
+msgstr ""
+
+#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:41
+msgid "%s Hour"
+msgstr ""
+
+#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:42;43;44;45;46;47
+#, fuzzy
+msgid "%s Hours"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"%s Heures\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"%s Horas"
+
+#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:48;49;50
+#, fuzzy
+msgid "%s Days"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"%s Jours\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"%s Días"
+
+#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:51
+#, fuzzy
+msgid "%s Weeks"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"%s Semaines\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"%s Semanas"
+
+#: View\Elements\theme_node.ctp:28
+#, fuzzy
+msgid "published by <a href=\"%s\">%s</a>"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"publié par <a href=\"%s\">%s</a>\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"publicado por <a href=\"%s\">%s</a>"
+
+#: View\Elements\theme_node.ctp:29
+#, fuzzy
+msgid "on %s"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"le %s\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"el %s"
+
+msgid "M d, Y H:i"
+msgstr "d/m/Y \\a \\l\\a\\s H:i"
+
+#: View\Elements\theme_node.ctp:40
+#, fuzzy
+msgid "Read More"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"En savoir plus\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Leer Más"
+
+#: Plugin\System\Console\Command\Task\UtilityTask.php:141
+msgid "Your database does not have any tables."
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\Model\Behavior\FieldTermsHookBehavior.php:141
+msgid "This field cannot hold more than 2 values."
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\edit.ctp:23
+msgid "You must <a href=\"%s\">select a vocabulary</a> for this field!"
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\formatter_from.ctp:9
+msgid "Link (localized)"
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\formatter_from.ctp:10
+msgid "Plain (localized)"
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\formatter_from.ctp:23
+msgid ""
+"Valid only when format is \"Link (localized)\". Adds a prefix to each term "
+"link url."
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:7
+msgid "Vocabulary *"
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:11
+msgid "The vocabulary which supplies the options for this field."
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:18
+msgid "Check boxes/radio buttons"
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:19
+msgid "Select list"
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:20
+msgid "Autocomplete term (tagging)"
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:23
+msgid "Element Type"
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:27
+msgid ""
+"The type of form element you would like to present to the user when creating "
+"this field."
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:33
+msgid "Unlimited"
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:35
+msgid "Number of values"
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:39
+msgid "Maximum number of values users can enter for this field."
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Helper\FieldTermsHookHelper.php:85
+msgid "Type in a search term"
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Helper\FieldTermsHookHelper.php:86
+msgid "No results"
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Helper\FieldTermsHookHelper.php:87
+msgid "Searching..."
+msgstr ""
+
+#: Plugin\Taxonomy\Fields\FieldTerms\View\Helper\FieldTermsHookHelper.php:88
+msgid "x"
+msgstr ""
+
+#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:9
+#, fuzzy
+msgid "Vocabularies"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Vocabulaires\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Vocabularios"
+
+#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:21
+msgid "Show content count"
+msgstr ""
+
+#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:29
+msgid "Show vocabulary and its terms as tree"
+msgstr ""
+
+#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:36
+msgid "Cache terms counters for"
+msgstr ""
+
+#: View\Errors\error400.ctp:4 View\Errors\error500.ctp:4
+#: View\Errors\private_action.ctp:4
+msgid "Error"
+msgstr ""
+
+#: View\Errors\error400.ctp:5
+msgid ""
+"The requested address %s was not found. <br/> There are no translations "
+"available or you have not the sufficient permissions."
+msgstr ""
+
+#: View\Errors\error400.ctp:6 View\Errors\error500.ctp:6
+#: View\Errors\private_action.ctp:13
+msgid "<a href=\"%s\">Go to home page</a>"
+msgstr ""
+
+#: View\Errors\error500.ctp:5
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: View\Errors\private_action.ctp:2
+msgid "Private Method in %s"
+msgstr ""
+
+#: View\Errors\private_action.ctp:5
+msgid "%s%s cannot be accessed directly."
+msgstr ""
+
+#: View\Errors\private_action.ctp:9
+msgid "Notice"
+msgstr ""
+
+#: View\Errors\private_action.ctp:10
+msgid "If you want to customize this error message, create %s"
+msgstr ""
+
+#: View\Themed\Admin\Layouts\default.ctp:52
+#, fuzzy
+msgid "View site"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (22).po (QuickApps v1)  #-#-#-#-#\n"
+"Visiter le site\n"
+"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
+"Ver sitio"
+
+#: View\Themed\Default\app\ThemeDefault\View\Elements\settings.ctp:1
+msgid "Image slider folder"
+msgstr ""
+
+#: View\Themed\Default\app\ThemeDefault\View\Elements\settings.ctp:17
+msgid "Header top"
+msgstr ""
+
+#: View\Themed\Default\app\ThemeDefault\View\Elements\settings.ctp:18
+msgid "Header bottom"
+msgstr ""
+
+#: View\Themed\Default\app\ThemeDefault\View\Elements\settings.ctp:19
+#, fuzzy
+msgid "Links"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Liens\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Enlaces"
+
+#: View\Themed\Default\app\ThemeDefault\View\Elements\settings.ctp:20
+#, fuzzy
+msgid "Text"
+msgstr ""
+"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  merge.pot (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Texto\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Texte"
+
+#: View\Themed\Default\app\ThemeDefault\View\Elements\settings.ctp:21
+msgid "Main Background"
+msgstr ""
+
+#: View\Themed\Default\app\ThemeDefault\View\Elements\settings.ctp:22
+msgid "Footer"
+msgstr ""
+
+#: View\Themed\Default\app\ThemeDefault\View\Elements\theme_default_slider_settings.ctp:2
+msgid ""
+"Enter one image per line, in the format <b>file name|url|caption</b>. e.g.:"
+msgstr ""
+
+#: View\Themed\Default\app\ThemeDefault\View\Elements\theme_default_slider_settings.ctp:9
+msgid ""
+"Image files should be stoted in /files/<b>%s</b>, you can change this folder "
+"in the <a href=\"%s\">theme settings panel</a>"
+msgstr ""
+
+#: View\Themed\Default\app\ThemeDefault\View\Elements\theme_default_slider_settings.ctp:10
+msgid "Special tags are allowed"
+msgstr ""
+
+#: View\Themed\Default\app\ThemeDefault\View\Elements\settings.ctp:3
+msgid "Recomended images size:"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Adds language handling functionality and enables the translation of the user "
+"interface to languages other than English"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Permite gestionar idiomas y traducir la interfaz de los usaurios a otros "
+"lenguajes además del Inglés.\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajoute des fonctionnalités de manipulation des langues et permet la "
+"traduction de l'interface utilisateur pour d'autres langues que l'anglais"
+
+#, fuzzy
+msgid "List"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Listado\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"Liste\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Liste"
+
+#, fuzzy
+msgid "Translatable entries"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Entradas traducibles\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Entrées traductibles"
+
+#, fuzzy
+msgid "Translatable Entries"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Entradas Traducibles\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Entrées Traductibles"
+
+#, fuzzy
+msgid "Translation packages"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Paquetes de traducción\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Packages de traduction"
+
+#, fuzzy
+msgid "Add New Language"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Nuevo Idioma\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajouter une nouvelle langue"
+
+#, fuzzy
+msgid "Update Options"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Opciones de Modificación\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Options de mise à jour\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Opciones de Modificación\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"Options de mise à jour\n"
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Options de mise à jour\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Opciones de Modificación\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Options de mise à jour"
+
+#, fuzzy
+msgid "Language name"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Nombre de idioma\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Nom de la langue"
+
+#, fuzzy
+msgid "Language code *"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Código de idioma *\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Code de la langue  *"
+
+#, fuzzy
+msgid ""
+"<a href=\"%s\" target=\"_blank\">ISO 639-3</a> compliant language identifier."
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Identificador de idioma compatible <a href=\"%s\" target=\"_blank\">ISO "
+"639-3</a>.\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"ID de la langue conforme <a href=\"%s\" target=\"_blank\">ISO 639-3</a>."
+
+#, fuzzy
+msgid "Language name in English *"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Nombre de idioma en Inglés *\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Nom de la langue en anglais"
+
+#, fuzzy
+msgid "Native language name *"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Nombre de idioma nativo *\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Nom d'origine de cette langue *"
+
+#, fuzzy
+msgid "Name of the language in the language being added."
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Nombre del idioma en el idioma que se agrega.\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Nom de la langue ajoutée dans la langue."
+
+#, fuzzy
+msgid "Direction *"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Dirección *\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Direction *"
+
+#, fuzzy
+msgid "Left to Right"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Izquierda a Derecha\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"De gauche à droite"
+
+#, fuzzy
+msgid "Right to Left"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Derecha a Izquierda\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"De droite à gauche"
+
+#, fuzzy
+msgid "Direction that text in this language is presented."
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Dirección en la que este idioma es presentado.\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Sens dans lequel le texte sera écrit dans cette langue."
+
+#, fuzzy
+msgid "Add"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Agregar\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajouter\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Agregar\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajouter\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajouter"
+
+#, fuzzy
+msgid "English name"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Nombre en inglés\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Nom en anglais"
+
+#, fuzzy
+msgid "Native name"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Nombre nativo\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Nom d'origine"
+
+#, fuzzy
+msgid "Direction"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Dirección\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Direction"
+
+#, fuzzy
+msgid "Status"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Estado\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Statut\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Estado\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"Statut\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Statut"
+
+#, fuzzy
+msgid "Actions"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Acciones\n"
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Actions\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Acciones\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Actions\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Acciones\n"
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Actions\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Acciones\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"Actions\n"
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Actions\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Acciones\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Actions"
+
+#, fuzzy
+msgid "edit"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"editar\n"
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"éditer\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"editar\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"éditer\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"editar\n"
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"éditer\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"editar\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"éditer\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"éditer"
+
+#, fuzzy
+msgid "delete"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"eliminar\n"
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"supprimer\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"eliminar\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"supprimer\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"borrar\n"
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"supprimer\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"eliminar\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"supprimer\n"
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"supprimer\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"eliminar\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"supprimer"
+
+#, fuzzy
+msgid "set as default"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"predeterminado\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"sélectionné par défaut"
+
+#, fuzzy
+msgid "Default language"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Idioma por defecto\n"
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Langue par défaut\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Lenguaje por defecto\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Langue par défaut"
+
+#, fuzzy
+msgid "Save language"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Guardar idioma\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Enregistrer la langue"
+
+#, fuzzy
+msgid "Update"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Modificar\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Mettre à jour\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Modificar\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"Mettre à jour\n"
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Mettre à jour\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Modificar\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Mettre à jour"
+
+#, fuzzy
+msgid "Enable selected languages"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Activar idiomas seleccionados\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Activer les langues sélectionnées"
+
+#, fuzzy
+msgid "Disable selected languages"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Desactivar idiomas seleccionados\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Désactiver les langues sélectionnées"
+
+#, fuzzy
+msgid "Delete selected languages"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Eliminar idiomas seleccionados\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Supprimer les langues sélectionnées"
+
+#, fuzzy
+msgid "Flag icon"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Icono de bandera\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Icône drapeau"
+
+#, fuzzy
+msgid "Editing language"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Editando idioma\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Modification de la langue"
+
+#, fuzzy
+msgid "Custom flag icon"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Icono de bandera personalizado\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Personnaliser l'icône drapeau"
+
+#, fuzzy
+msgid ""
+"Optional URL of your language flag icon, if your language flag isn't in the "
+"above list."
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"URL opcional para la bandera de idioma, en caso de que no se encuentra en el "
+"listado de arriba.\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"URL de votre icône drapeau (facultative), au cas ou le drapeau de votre "
+"langue n'est pas dans la liste ci-dessous."
+
+#, fuzzy
+msgid "There are no translations to display"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"No hay traducciones disponibles\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Il n'y a aucune traduction à afficher"
+
+#, fuzzy
+msgid "Add translatable entry"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Nueva entrada\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajouter une entrée traductible"
+
+#, fuzzy
+msgid "Adding translatable entry"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Agregando nueva entrada\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajout d'une entrée traductible"
+
+#, fuzzy
+msgid "Original text"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Texto original\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Texte original"
+
+#, fuzzy
+msgid "Translate"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Traducir\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Traduire"
+
+#, fuzzy
+msgid "Upload Translation Package"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Cargar Paquete de Traducción\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Mettre à jour le package de traduction"
+
+#, fuzzy
+msgid "Package (.po)"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Paquete (.po)\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Package (.po)"
+
+#, fuzzy
+msgid "download"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"descargar\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"télécharger"
+
+#, fuzzy
+msgid "uninstall"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"desinstalar\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"désinstaller"
+
+#, fuzzy
+msgid "Are you sure ?"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Está seguro ?\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Êtes-vous sûr ?\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Está seguro ?\n"
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Êtes-vous sûr ?\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Está seguro ?\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Êtes-vous sûr ?"
+
+#, fuzzy
+msgid "Translation Packages"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Paquetes de Traducción\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Packages de traduction"
+
+#, fuzzy
+msgid "Editing translation entry"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Editando entrada\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Edition de la traduction de l'entrée"
+
+#, fuzzy
+msgid "Custom Language"
+msgstr ""
+"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
+"Idioma personalizado\n"
+"#-#-#-#-#  core (9).po (QuickApps v1)  #-#-#-#-#\n"
+"Personnaliser la langue"
+
+#, fuzzy
+msgid "Allows administrators to customize the site navigation menu."
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Permet aux administrateurs de personnaliser le menu de navigation du site.\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Permite a los administradores personalizar los menú de navegación del sitio."
+
+#, fuzzy
+msgid "New Menu"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Nouveau menu\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Nuevo Menú"
+
+#, fuzzy
+msgid "Add menu"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajouter un menu\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Agregar menú"
+
+#, fuzzy
+msgid "Save & add links"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Enregistrer et ajouter des liens\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Crear y agregar enlaces"
+
+#, fuzzy
+msgid "Title"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Titre\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Título\n"
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Titre\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Título"
+
+#, fuzzy
+msgid "links"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"liens\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"enlaces"
+
+#, fuzzy
+msgid "add link"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"ajouter un lien\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"agregar enlace"
+
+#, fuzzy
+msgid "Menus"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Menus\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Menús\n"
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Menus\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Menus"
+
+#, fuzzy
+msgid "Editing menu"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Edition du menu\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Editando menú"
+
+#, fuzzy
+msgid "Title *"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Titre *\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Título *\n"
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Titre *\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Título *"
+
+#, fuzzy
+msgid "Editing Menu Links"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Edition des Liens de Menu\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Editando Enlaces de Menú"
+
+#, fuzzy
+msgid "Editing menu links"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Edition des liens de menu\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Editando enlaces de menú"
+
+#, fuzzy
+msgid "Save changes"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Enregistrer les modifications\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Guardar cambios\n"
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Enregistrer les changements\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Guardar cambios"
+
+#, fuzzy
+msgid "Editing Link"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Edition du Lien\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Editando Enlace"
+
+#, fuzzy
+msgid "Editing link"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Edition du lien\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Editando enlace"
+
+#, fuzzy
+msgid "Edit menu link"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Edition du lien de menu\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Editar enlace de menú"
+
+#, fuzzy
+msgid "Menu link title *"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Titre du lien de menu *\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Título de enlace *"
+
+#, fuzzy
+msgid "The text to be used for this link in the menu."
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Texte devant être utilisé pour ce lien dans le menu\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Texto a utilizar para este enlace en el menú."
+
+#, fuzzy
+msgid "Path *"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Chemin *\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Ruta *"
+
+#, fuzzy
+msgid ""
+"The path for this menu link. This can be an internal QuickApps path such as /"
+"d/my-post or an external URL such as http://quickapps.es. Enter '/' to link "
+"to the front page."
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Le chemin pour ce lien de menu. Cela peut être un chemin QuickApps interne "
+"tel que /d/mi-node-slug ou un lien externe tel que http://quickapps.es. "
+"Saisissez  '/' pour faire un lien vers la page d'accueil.\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"La ruta para este enlace. Puede ser una ruta interna a QuickApps como /d/mi-"
+"node-slug or una URL externa como http://quickapps.es. Ingrese '/' para "
+"enlazar con la portada."
+
+#, fuzzy
+msgid "Shown when hovering over the menu link."
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"S'affiche lorsque le lien de menu est survolé avec la souris\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Se muestra al pasar sobre el enlace."
+
+#, fuzzy
+msgid "Target window"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Fenêtre cible\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Abrir en"
+
+#, fuzzy
+msgid "Same window"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Même fenêtre\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Misma ventana"
+
+#, fuzzy
+msgid "New window"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Nouvelle fenêtre\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Nueva ventana"
+
+#, fuzzy
+msgid "Target browser window when the link is clicked."
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Fenêtre cible du navigateur lorsque l'on clique sur le lien\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Ventana de destino del navegador cuando el enlace es clickeado."
+
+#, fuzzy
+msgid "Show as expanded"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Montrer étendu\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Mostrar expandido"
+
+#, fuzzy
+msgid ""
+"If selected and this menu link has children, the menu will always appear "
+"expanded."
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Si cette option est sélectionnée et que ce lien de menu a des enfants, le "
+"menu apparaîtra toujours déplié.\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Si está marcado y este enlace tiene hijos, el menu aparecerá como expandido."
+
+#, fuzzy
+msgid "Enabled"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Activé\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Disponible"
+
+#, fuzzy
+msgid "Menu links that are not enabled will not be listed in any menu."
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Les liens de menu qui ne sont pas activés ne seront listés par aucun menu.\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Enlaces de menú que no estén disponibles no serán listados en ningún menú."
+
+#, fuzzy
+msgid "Go to <a href=\"%s\">menu links</a> list to reparent this link."
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Allez à la liste <a href=\"%s\">liens de menu</a> pour changer le parent de "
+"ce lien.\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Vaya al listado de <a href=\"%s\">enlaces de menú</a> para emparentar este "
+"enlace."
+
+#, fuzzy
+msgid "Parent link"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Lien parent\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Enlace padre"
+
+#, fuzzy
+msgid "Add menu link"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajouter un lien de menu\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Agregar enlace de menú"
+
+#, fuzzy
+msgid "Add Menu Link"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajouter un Lien de Menu\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Agregar Enlace de Menú"
+
+#, fuzzy
+msgid "Delete selected link ?"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Supprimer le lien sélectionné ?\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Eliminar el enlace selecionado ?"
+
+#, fuzzy
+msgid "Show as selected:"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Montrer comme sélectionné :\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Mostrar como seleccionado:"
+
+#, fuzzy
+msgid "When following PHP code returns TRUE (experts only)"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Quand le code PHP suivant renvoie TRUE (experts uniquement)\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Cuando el siguiente código PHP retorne TRUE (sólo expertos)"
+
+#, fuzzy
+msgid "On URL matching (regular expression)"
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Lorsque les URL correspondent (expression régulière)\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Al coincidir la URL (expresión regular)"
+
+#, fuzzy
+msgid ""
+"If the PHP option is chosen, enter PHP code between &lt;?php ?&gt;. Note "
+"that executing incorrect PHP code can break your QuickApps site."
+msgstr ""
+"#-#-#-#-#  core (11).po (QuickApps v1)  #-#-#-#-#\n"
+"Si l'option PHP est sélectionnée, entrez le code PHP entre &lt;?php ?&gt;. "
+"Veuillez noter que l'exécution d'un code PHP invalide peut complètement "
+"bloquer votre site QuickApps.\n"
+"#-#-#-#-#  core (12).po  #-#-#-#-#\n"
+"Si selecciona la opción PHP, ingrese el código PHP entre &lt;?php ?&gt;. La "
+"ejecución de código PHP incorrecto puede romper su sitio QuickApps.\n"
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Si l'option PHP est choisie, tapez le code PHP entre &lt;?php ?&gt;. "
+"Veuillez noter que l'exécution d'un code PHP invalide peut bloquer "
+"complètement votre site QuickApps.\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Si se elige la opcion PHP, ingrese el código PHP entre &lt;?php ?&gt;. La "
+"ejecución de código PHP incorrecto puede romper su sitio QuickApps."
+
+#, fuzzy
+msgid "Allows content to be submitted to the site and displayed on pages."
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Permet au contenu d'être soumises sur le site et affichés sur les pages.\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Permite poner contenidos en el sitio y mostrarlos como páginas."
+
+#, fuzzy
+msgid "Contents"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Contenus\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Contenidos"
+
+#, fuzzy
+msgid "New Content"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Nouveau Contenu\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Nuevo Contenido"
+
+#, fuzzy
+msgid "Filter Options"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Options de filtre\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Opciones de Filtrado\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"Options de filtrage"
+
+#, fuzzy
+msgid "Front Page"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Page d'accueil\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"En portada"
+
+#, fuzzy
+msgid "Sticky"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Premier plan\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Destacado"
+
+#, fuzzy
+msgid "Type"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Type\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Tipo\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"Type"
+
+#, fuzzy
+msgid "Filter"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Filtre\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Filtrar\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"Filtre"
+
+#, fuzzy
+msgid "Clear cache"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Nettoyer le cache\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Limpiar cache"
+
+#, fuzzy
+msgid "Delete selected content ?"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Supprimer le contenu sélectionné ?\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Eliminar el contenido seleccionado ?"
+
+#, fuzzy
+msgid "Add Type"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajouter un type\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Nuevo Tipo"
+
+#, fuzzy
+msgid "Name"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Nom\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Nombre\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"Nom"
+
+#, fuzzy
+msgid "display"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"afficher\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"visualización"
+
+#, fuzzy
+msgid "fields"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"champs\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"campos"
+
+#, fuzzy
+msgid "Fields"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Champs\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Campos\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"Champs"
+
+#, fuzzy
+msgid "Field"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Champ\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Campo"
+
+#, fuzzy
+msgid "move up"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"monter\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"mover arriba\n"
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"monter\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"mover arriba"
+
+#, fuzzy
+msgid "move down"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"descendre\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"mover abajo\n"
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"descendre\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"mover abajo"
+
+#, fuzzy
+msgid "configure"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"configurer\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"configurar\n"
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"configurer\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"configurar"
+
+#, fuzzy
+msgid "Label"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Etiquette\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Etiqueta\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"Etiquette"
+
+#, fuzzy
+msgid "Field Display Settings"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Options d'Affichage du Champ\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Parámetros de Visualización de Campo"
+
+#, fuzzy
+msgid "Field display settings"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Options d'affichage du champ\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Parámetros de visualización de campo"
+
+#, fuzzy
+msgid "full"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"plein\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Full"
+
+#, fuzzy
+msgid "list"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"liste\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"List"
+
+msgid "rss"
+msgstr "RSS"
+
+#, fuzzy
+msgid "print"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"imprimer\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Print"
+
+#, fuzzy
+msgid "default"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"défaut\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Default"
+
+#, fuzzy
+msgid "%s Months"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"%s Mois\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"%s Meses"
+
+#, fuzzy
+msgid "%s Years"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"%s Années\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"%s Años"
+
+#, fuzzy
+msgid "Publishing"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Publication\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Publicación"
+
+#, fuzzy
+msgid "Published"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Publié\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Publicado\n"
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Publiés\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Publicados"
+
+#, fuzzy
+msgid "Promoted to front page"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Promu en page d'accueil\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Destacado en portada"
+
+#, fuzzy
+msgid "Sticky at top of lists"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Attaché en haut des listes\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Mantener encima de listas"
+
+#, fuzzy
+msgid "Cache this node for"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Mettre en cache cet article pour\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Caché para este nodo durante"
+
+#, fuzzy
+msgid "Cache"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Cache\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Caché"
+
+#, fuzzy
+msgid "-- No Cache --"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"-- Pas de Cache --\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"-- Sin Caché --"
+
+#, fuzzy
+msgid "Roles"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Rôles\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Roles\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"Rôles\n"
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Rôles\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Roles"
+
+#, fuzzy
+msgid "Show content for specific roles"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Afficher ce contenu pour des rôles spécifiques\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Mostrar este nodo para los siguientes roles"
+
+#, fuzzy
+msgid ""
+"Show this content only for the selected role(s). If you select no roles, the "
+"content will be visible to all users."
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Montrer ce contenu uniquement pour le(s) rôle(s) sélectionnés. Si aucun rôle "
+"n'est sélectionné, le contenu sera visible par tous.\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Muestra este contenido solo para el/los roles indicados. Si selecciona "
+"niguno, el contenido será visible para todos los usuarios."
+
+#, fuzzy
+msgid "Terms"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Termes\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Términos"
+
+#, fuzzy
+msgid ""
+"If no language is selected (-- Any --), node will show regardless of language"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Si aucune langue n'est sélectionnée (-- Aucune --), l'article sera vu "
+"quelque soit la langue\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Si no se elige ningún idioma (-- Cualquiera --), el se mostrará sin importar "
+"el idioma"
+
+#, fuzzy
+msgid "-- Any --"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"-- Aucune --\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"-- Cualquiera --"
+
+#, fuzzy
+msgid "Open"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Ouvrir\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Abiertos"
+
+#, fuzzy
+msgid "Closed"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Fermé\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Cerrados"
+
+#, fuzzy
+msgid "Read Only"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Lecture seule\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Sólo Lectura"
+
+#, fuzzy
+msgid "Settings"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Options\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Configuración\n"
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Paramètres\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Configurar"
+
+#, fuzzy
+msgid ""
+"A short description (255 chars. max.) about this content. Will be used as "
+"page meta-description when rendering this content node."
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Une courte description (255 car. max.) à propos de ce contenu. Sera utilisé "
+"comme meta-description lors du référencement de ce contenu.\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Una breve descripción (255 car. máx.) sobre este contenido. Será utilizado "
+"como meta-description para la página de este nodo."
+
+#, fuzzy
+msgid "Editing"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Edition\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Editando"
+
+#, fuzzy
+msgid "Editing Content"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Edition du Contenu\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Editando Contenido"
+
+#, fuzzy
+msgid "Add Content"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajouter un Contenu\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Agregar Contenido"
+
+#, fuzzy
+msgid "Select content type"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Sélectionnez le type de contenu\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Seleccione tipo de contenido"
+
+#, fuzzy
+msgid "Updated"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Mis à jour\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Modificado"
+
+#, fuzzy
+msgid "Publish selected content"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Publier le contenu sélectionné\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Pulicar los contenidos seleccionado"
+
+#, fuzzy
+msgid "Unpublish selected content"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Dépublier le contenu sélectionné\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"No publicar los contenidos seleccionados"
+
+#, fuzzy
+msgid "Promote selected content to front page"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Promouvoir le contenu sélectionné en page d'accueil\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Publicar en portada los contenidos seleccionados"
+
+#, fuzzy
+msgid "Demote selected content from front page"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Rétrograder ce contenu (ne sera plus promu en page d'accueil)\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Quitar de portada los contenidos seleccionados"
+
+#, fuzzy
+msgid "Make selected content sticky"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Remonter le contenu sélectionné en haut des listes\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Hacer `stiky` los contenidos seleccionados"
+
+#, fuzzy
+msgid "Make selected content not sticky"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Ne plus remonter ce contenu en haut des listes\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Quitar `stiky` a los contenidos seleccionados"
+
+#, fuzzy
+msgid "Delete selected content"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Supprimer le contenu sélectionné\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Eliminar los contenidos seleccionados"
+
+#, fuzzy
+msgid "updated"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"mis à jour\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"modificado"
+
+#, fuzzy
+msgid "Required"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Requis\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Requerido\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"Requis"
+
+#, fuzzy
+msgid "Add field"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajouter un champ\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Nuevo campo\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajouter un champ"
+
+#, fuzzy
+msgid "Only of the type(s)"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Seulement le(s) type(s)\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Solo del tipo(s)"
+
+#, fuzzy
+msgid "Containing any of the words"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"contenant l'un de ces mots\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Contenga alguna de estas palabras"
+
+#, fuzzy
+msgid "Containing the phrase"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Contenant l'expression\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Contenga la frase"
+
+#, fuzzy
+msgid "Containing none of the words"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Ne contenant aucun de ces mots\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"No contenga estas palabras"
+
+#, fuzzy
+msgid "Are you sure about this changes ?"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Confirmez-vous ces modifications ?\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Está seguro ?"
+
+#, fuzzy
+msgid "Your search yielded no results"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Votre recherche n'a produit aucun résultat\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Su búsqueda no produjo ningún resultado"
+
+#, fuzzy
+msgid "Check if your spelling is correct."
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Veuillez vous assurer que vous avez orthographié correctement votre "
+"recherche.\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Compruebe si su ortografía es correcta."
+
+#, fuzzy
+msgid ""
+"Remove quotes around phrases to search for each word individually. white cat "
+"will often show more results than \"white cat\"."
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Supprimer les guillemets autour des expressions pour rechercher chaque mot "
+"séparément. Chat blanc produira souvent plus de résultats que \"chat blanc"
+"\".\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Elimine las comillas alrededor de las frases para buscar cada palabra "
+"individualmente. gato blanco produce más resultados que \"gato blanco\"."
+
+#, fuzzy
+msgid ""
+"Consider loosening your query with OR. white OR cat will often show more "
+"results than white cat."
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Simplifiez votre recherche en utilisant OR. chat OR blanc produira souvent "
+"davantage de résultats que chat blanc.\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Considere debilitar su criterio usando OR. gato OR blanco produce más "
+"resultados que gato blanco."
+
+#, fuzzy
+msgid "Advanced Options"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Options avancées\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Opciones Avanzadas\n"
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Options avancées\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Opciones Avanzadas"
+
+#, fuzzy
+msgid "Node container class suffix"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Suffixe de classe du contenant de cet élément\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Sufijo de clase para contenedor de nodo"
+
+#, fuzzy
+msgid ""
+"A suffix to be applied to the CSS class of the node container. This allows "
+"for individual node styling."
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Un suffixe peut être appliqué à la classe CSS du contenant de cet élément, "
+"afin que son design soit différent de celui des autres contenants.\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Un sufijo para aplicar a las clases CSS del contenedor del nodo. Esto "
+"permite estilizar individualmente el nodo."
+
+#, fuzzy
+msgid "Add content"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajouter un contenu\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Agregar contenido"
+
+#, fuzzy
+msgid "Save content"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Enregistrer le contenu\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Guardar contenido"
+
+#, fuzzy
+msgid "Regenerate slug"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Générer un nouveau permalien\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Regenerar slug"
+
+#, fuzzy
+msgid ""
+"If this option is checked and title has changed then a new slug is generated."
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Si cette option est sélectionnée et que le titre a changé, un nouveau "
+"permalien sera généré.\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Si esta opción está marcada y el título ha cambiado entonces un nuevo slug "
+"será generado."
+
+#, fuzzy
+msgid "Name *"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Nom *\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Nombre *\n"
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Nom *\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Nombre *"
+
+#, fuzzy
+msgid ""
+"This text will be displayed as part of the list on the Add new content page"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Ce texte sera affiché dans la liste sur la page Ajouter de nouveaux "
+"contenus\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Este texto se mostrará como parte del listado en la página Agregar Contenido"
+
+#, fuzzy
+msgid ""
+"Describe this content type. The text will be displayed on the Add new "
+"content page."
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Décrivez le type de contenu. Ce texte sera affiché sur la page Ajouter un "
+"nouveau contenu.\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Describe este tipo de contenido. El texto será mostrado en la página de "
+"Agregar Contenido"
+
+#, fuzzy
+msgid "Title field label *"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Etiquette du champ Titre *\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Etiqueta campo Título *"
+
+#, fuzzy
+msgid "Display format"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Format d'affichage\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Opciones de formato"
+
+#, fuzzy
+msgid "Show author's name"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Montrer le nom de l'auteur\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Mostrar nombre del autor"
+
+#, fuzzy
+msgid "Author username will be displayed"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Le nom d'utilisateur de l'auteur sera affiché\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Mostrar nombre de usuario del autor"
+
+#, fuzzy
+msgid "Show date"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Montrer la date\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Mostrar fecha"
+
+#, fuzzy
+msgid "Publish date will be displayed"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"La date de publication sera affichée\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Mostrar fecha de publicación"
+
+#, fuzzy
+msgid "Auto approve comments"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Approuver automatiquement les commentaires\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Aprobar automáticamente"
+
+#, fuzzy
+msgid "Comments per page"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Commentaires par page\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Comentarios por página"
+
+#, fuzzy
+msgid "Anonymous commenting"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Commentaires venant de personnes anonymes\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Comentarios anónimos"
+
+#, fuzzy
+msgid "Anonymous posters may not enter their contact information"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Les visiteurs anonymes ne peuvent pas entrer d'information de contact\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Anónimos pueden no dejar su información de contacto"
+
+#, fuzzy
+msgid "Anonymous posters may leave their contact information"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Les visiteurs anonymes peuvent laisser leurs informations de contact\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Anónimos pueden dejar su información de contacto"
+
+#, fuzzy
+msgid "Anonymous posters must leave their contact information"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Les visiteurs anonymes doivent laisser leurs informations de contact\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Anónimos pueden deben dejar su información de contacto"
+
+#, fuzzy
+msgid "Allow comment title"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Autoriser les titres de commentaires\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Habilitar título de comnetario"
+
+#, fuzzy
+msgid "Default options"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Options par défaut\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Opciones por defacto"
+
+#, fuzzy
+msgid "Default comment setting for new content"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Options de commentaires par défaut pour les nouveaux contenus\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Opciones de comentarios por defecto para nuevos contenidos"
+
+#, fuzzy
+msgid "Save and add fields"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Enregistrer et ajouter des champs\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Crear y agregar campos"
+
+#, fuzzy
+msgid "Editing Type"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Edition du type\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Editando Tipo"
+
+#, fuzzy
+msgid "Content Types"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Types de Contenus\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Tipos de Contenidos\n"
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Types de contenu\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Tipos de Contenidos"
+
+#, fuzzy
+msgid "Label *"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Etiquette *\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Etiqueta *"
+
+#, fuzzy
+msgid "Field Settings"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Options du champ\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Configuración de Campo"
+
+#, fuzzy
+msgid "Basic settings"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Options basiques\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Configuración Básica"
+
+#, fuzzy
+msgid "Requied field"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Champ requis\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Campo requerido"
+
+#, fuzzy
+msgid "Help text"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Texte d'aide\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Texto de ayuda"
+
+#, fuzzy
+msgid "Display"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Afficher\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Visualización"
+
+#, fuzzy
+msgid "Display Settings"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Afficher les options\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Opciones de Visualización"
+
+#, fuzzy
+msgid "Save field"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Enregistrer le champ\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Guardar campo"
+
+#, fuzzy
+msgid ""
+"Instructions to present to the user below this field on the editing form. "
+"(hookTags are allowed)"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Instructions à afficher à l'utilisateur sous ce champ dans le formulaire "
+"d'édition. (hookTags autorisés)\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Instrucciones que se muestran debajo del campo al usuario en el formulario "
+"de edición. (hookTags permitidos)"
+
+#, fuzzy
+msgid "Format"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Format\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Formato"
+
+#, fuzzy
+msgid "edit format"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"éditer le format\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"editar formato"
+
+#, fuzzy
+msgid "View Modes"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Visualiser les Modes\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Modos de Visualización"
+
+#, fuzzy
+msgid "Use custom display settings for the following view modes"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Utiliser des options d'affichage personnalisées pour les modes de vue "
+"suivants\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Utilizar opciones de visualización personalizadas para los siguientes modos"
+
+#, fuzzy
+msgid "Field display format (view mode: %s)"
+msgstr ""
+"#-#-#-#-#  core (13).po (QuickApps v1)  #-#-#-#-#\n"
+"Format d'affichage du champ (mode: %s)\n"
+"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
+"Formato de visualización de campo (modo: %s)"
+
+msgid "Sticky at top"
+msgstr "Destacado en listas"
+
+msgid "Promoted in front page"
+msgstr "Destacado en portada"
+
+msgid "Cache activated"
+msgstr "Caché activado"
+
+#, fuzzy
+msgid "System Kernel."
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Noyau du système.\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Núcleo del sistema."
+
+#, fuzzy
+msgid "Blocks"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Blocs\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Bloques\n"
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Blocs\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Bloques"
+
+#, fuzzy
+msgid ""
+"Configure what block content appears in your site's sidebars and other "
+"regions."
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Configurer quels blocs de contenu apparaissent dans les sidebars de votre "
+"site et les autres régions.\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Configura que bloques aparecen en las barras lateras y otras regiones de tu "
+"sitio."
+
+#, fuzzy
+msgid "Manage content types."
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Gérer les types de contenu.\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Gestión de tipos de contenidos."
+
+#, fuzzy
+msgid ""
+"Add new menus to your site, edit existing menus, and rename and reorganize "
+"menu links."
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajouter de nouveaux menus à votre site, éditer les menus existants, et "
+"renommer / réorganiser les liens de menu.\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Agrege nuevos menus a su sitio, edite menus ya existentes, y renombre y "
+"reorganice los vínculos de sus menus."
+
+#, fuzzy
+msgid "Taxonomy"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Taxonomie\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Taxonomía\n"
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Taxonomie\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Taxonomía"
+
+#, fuzzy
+msgid "Manage tagging, categorization, and classification of your content."
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Gérer les tags, les catégories et la classification de votre contenu.\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Gestión de etiquetado, categorización, y clasificación de su contenido."
+
+#, fuzzy
+msgid "Install New Module"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Installer un Nouveau Module\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Instalar Nuevo Módulo"
+
+#, fuzzy
+msgid "Site information"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Information sur le site\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Información del sitio"
+
+#, fuzzy
+msgid "Site name *"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Nom du site *\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Nombre del sitio *"
+
+#, fuzzy
+msgid "Slogan"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Slogan\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Eslogan"
+
+#, fuzzy
+msgid ""
+"A brief description about your site, this will be used as default meta-"
+"description in layout."
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Une brève description de votre site qui sera utilisée comme meta-description "
+"par défaut\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Una breve descripción sobre su sitio, será utilizado como meta-description "
+"por defecto."
+
+#, fuzzy
+msgid "How this is used depends on your site's theme."
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"La façon dont ceci est utilisé dépend du thème de votre site.\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Su utilización depende del theme de su sitio."
+
+#, fuzzy
+msgid "E-mail address *"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Adresse E-mail *\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Dirección E-mail *"
+
+#, fuzzy
+msgid ""
+"The From address in automated e-mails sent during registration and new "
+"password requests, and other notifications. (Use an address ending in your "
+"site's domain to help prevent this e-mail being flagged as spam.)"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"L'adresse de l'expéditeur dans les mails envoyés automatiquement pendant "
+"l'enregistrement ou lors de la requête d'un nouveau mot de passe et autres "
+"notifications. (Utilisez une adresse ce terminant par le nom de domaine de "
+"votre site pour éviter que votre e-mail ne soit automatiquement classé comme "
+"du spam.)\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"La dirección 'DE' en los envios de e-mails automatizados como solicitudes de "
+"registro, recuperación de contraseñas y otras notificaciones. (Utilice una "
+"dirección acabada en el dominio de su sitio para evitar que los e-mails sean "
+"marcados como SPAM)"
+
+#, fuzzy
+msgid "Front page"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Page d'accueil\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Portada"
+
+#, fuzzy
+msgid "Number of posts on front page"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Nombre de publications sur la page d'accueil\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Número de publicaciones en portada"
+
+#, fuzzy
+msgid ""
+"The maximum number of posts displayed on overview pages such as the front "
+"page."
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Le nombre maximum de publications affichées sur les pages de vue globale "
+"telles que la page d'accueil\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"El número máximo de nodos mostrado en listados como por ejemplo la portada."
+
+#, fuzzy
+msgid "Default front page"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Page d'accueil par défaut\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Portada por defecto"
+
+#, fuzzy
+msgid ""
+"Optionally, specify a relative URL to display as the front page. Leave blank "
+"to display the default content feed"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Indiquez une adresse URL relative à afficher en guise de page d'accueil "
+"(facultatif). Laissez vide pour que soit affiché le fil de contenu par "
+"défaut\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Opcional, indique una URL relativa al sitio para mostrar como portada. "
+"Déjelo en blanco para mostrar los nodos destacados en portada"
+
+#, fuzzy
+msgid "Regional settings"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Options de régions\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Opciones Regionales"
+
+#, fuzzy
+msgid "Default time zone"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Fuseau horaire par défaut\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Zona horaria por defecto"
+
+#, fuzzy
+msgid "Users settings"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Paramètres des utilisateurs\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Parámetros de usuarios"
+
+#, fuzzy
+msgid "Default avatar"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Image de profil par défaut\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Avatar por defecto"
+
+#, fuzzy
+msgid ""
+"URL of picture to display for users with no custom picture selected or "
+"anonymous users."
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"URL de l'image à afficher pour les utilisateurs n'ayant pas sélectionné "
+"d'image personnalisée ou les visiteurs anonymes.\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"URL de la imágen a mostrar para usuarios sin avatar personalizado o usuarios "
+"anónimos."
+
+#, fuzzy
+msgid "Help topics"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Sujets d'aide\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Temas de ayuda"
+
+#, fuzzy
+msgid "Help is available on the following items"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"L'aide est disponible pour les sujets suivants\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"La ayuda está disponible para los siguientes elementos"
+
+#, fuzzy
+msgid "Package"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Package\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Paquete"
+
+#, fuzzy
+msgid "Install"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Installer\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Instalar"
+
+#, fuzzy
+msgid "Frontend themes"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Thèmes de l'interface utilisateur du site\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Themes principales"
+
+#, fuzzy
+msgid "Backend themes"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Thèmes de l'interface d'administration\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Themes de gestión"
+
+#, fuzzy
+msgid "Configure"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Configurer\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Configurar"
+
+#, fuzzy
+msgid "Set as default"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Définir par défaut\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Utilizar"
+
+#, fuzzy
+msgid "Site details"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Details du site\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Detalles del sitio"
+
+#, fuzzy
+msgid "Save all"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Enregistrer tout\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Guardar todo"
+
+#, fuzzy
+msgid "Other module settings"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Autres options de module\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Otros parámetros de módulos"
+
+#, fuzzy
+msgid "Install New Theme"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Installer un Nouveau Thème\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Instalar un nuevo tema"
+
+#, fuzzy
+msgid "Theme could not been installed"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Le thème n'a pas pu être installé\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"No se puedo instalar el tema"
+
+#, fuzzy
+msgid "Leave blank for use default logo."
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Laissez vide pour utiliser le logo par défaut.\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Dejar en blanco para usar el logo por defecto."
+
+#, fuzzy
+msgid "Leave blank for use default favicon."
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Laissez vide pour utiliser le favicon par défaut\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Dejar en blanco para usar el favicon por defecto."
+
+#, fuzzy
+msgid "\"%s\" Theme"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Thème \"%s\"\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Tema \"%s\""
+
+#, fuzzy
+msgid "Toggle display"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Options de visualisation\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Opciones de visualización"
+
+msgid "Logo"
+msgstr "Logo"
+
+#, fuzzy
+msgid "Site name"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Nom du site\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Nombre del sitio"
+
+#, fuzzy
+msgid "Site slogan"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Slogan du site\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Eslogan del sitio"
+
+msgid "Shortcut icon"
+msgstr "Favicon"
+
+#, fuzzy
+msgid "Logo image URL"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"URL du logo\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"URL de imágen del logo"
+
+#, fuzzy
+msgid "Shortcut icon URL"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"URL du favicon\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"URL de favicon"
+
+#, fuzzy
+msgid "Enable"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Activer\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Activar"
+
+#, fuzzy
+msgid "Disable"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Désactiver\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Desactivar"
+
+#, fuzzy
+msgid "Uninstall"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Désinstaller\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Desinstalar"
+
+#, fuzzy
+msgid "Dependencies"
+msgstr ""
+"#-#-#-#-#  core (15).po (QuickApps v1)  #-#-#-#-#\n"
+"Dépendances\n"
+"#-#-#-#-#  core (16).po  #-#-#-#-#\n"
+"Dependencias"
+
+#, fuzzy
+msgid "Enables the categorization of content."
+msgstr ""
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Permet la catégorisation du contenu.\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Permite la categorización de contenidos."
+
+#, fuzzy
+msgid "There are no vocabularies to display"
+msgstr ""
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Il n'y a aucun vocabulaire à afficher\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"No hay vocabularios disponibles"
+
+#, fuzzy
+msgid "New Vocabulary"
+msgstr ""
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Nouveau vocabulaire\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Nuevo Vocabulario"
+
+#, fuzzy
+msgid "Add Vocabulary"
+msgstr ""
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajouter un vocabulaire\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Agregar Vocabulario"
+
+#, fuzzy
+msgid "Save vocabulary"
+msgstr ""
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Enregistrer le vocabulaire\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Guardar vocabulario"
+
+#, fuzzy
+msgid "%s Terms"
+msgstr ""
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Termes %s\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Términos %s"
+
+#, fuzzy
+msgid "Add New Term"
+msgstr ""
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Ajouter un nouveau terme\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Agregar Nuevo Término"
+
+#, fuzzy
+msgid "Parent term"
+msgstr ""
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Terme parent\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Término padre"
+
+#, fuzzy
+msgid "Saving..."
+msgstr ""
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Enregistrement...\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Guardando..."
+
+#, fuzzy
+msgid "Saved!"
+msgstr ""
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Enregistré!\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Guardado!"
+
+#, fuzzy
+msgid "Vocabulary name"
+msgstr ""
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Nom du vocabulaire\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Nombre vocabulario"
+
+#, fuzzy
+msgid "terms"
+msgstr ""
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"termes\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"términos"
+
+#, fuzzy
+msgid "mover up"
+msgstr ""
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"déplacement vers le haut\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"mover arriba"
+
+#, fuzzy
+msgid "mover down"
+msgstr ""
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"déplacement vers le bas\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"mover abajo"
+
+#, fuzzy
+msgid "Delete selected vocabulary and all its terms ?"
+msgstr ""
+"#-#-#-#-#  core (17).po (QuickApps v1)  #-#-#-#-#\n"
+"Supprimer le vocabulaire sélectionné et tous ses termes ?\n"
+"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
+"Eliminar el vocabulario seleccionado y todos sus términos ?"
+
+#, fuzzy
+msgid "user_account"
+msgstr ""
+"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
+"User account\n"
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"compte utilisateur"
+
+msgid "Manages the user registration and login system."
+msgstr "Gère l'inscription de l'utilisateur et le système de login."
+
+msgid "Permissions"
+msgstr "Permissions"
+
+msgid "active"
+msgstr "actif"
+
+msgid "blocked"
+msgstr "bloqué"
+
+msgid "Block selected users"
+msgstr "Bloquer les utilisateurs sélectionnés"
+
+msgid "Unblock selected users"
+msgstr "Débloquer les utilisateurs sélectionnés"
+
+msgid "Delete selected users"
+msgstr "Supprimer les utilisateurs sélectionnés"
+
+msgid "User Name"
+msgstr "Nom d'utilisateur"
+
+msgid "Log out successful"
+msgstr "Déconnexion effectuée avec succès"
+
+msgid "Log in"
+msgstr "Connexion"
+
+msgid "User Permissions"
+msgstr "Permissions utilisateur"
+
+msgid "User Roles"
+msgstr "Rôles des utilisateurs"
+
+msgid "Manage User Fields"
+msgstr "Gérer les champs des utilisateurs"
+
+msgid "Field settings"
+msgstr "Options des champs"
+
+msgid "Add new user"
+msgstr "Ajouter un nouvel utilisateur"
+
+msgid "Real name *"
+msgstr "Votre vrai nom *"
+
+msgid ""
+"Your real name, it is used only for identification purposes. i.e: John Locke"
+msgstr ""
+"Votre véritable nom, utilisé exclusivement à des fins d'identifications. "
+"exemple: John Locke"
+
+msgid "User name *"
+msgstr "Nom d'utilisateur *"
+
+msgid "Usernames cannot be changed"
+msgstr "Les noms d'utilisateurs ne peuvent pas être changés"
+
+msgid "Nick used to login. Must be unique and alphanumeric."
+msgstr ""
+"Surnom utilisé pour se connecter. Doit être unique et contenir uniquement "
+"des caractères alphanumériques"
+
+msgid ""
+"Full url to avatar image file. i.e: http://www.some-domain.com/my-avatar.jpg"
+msgstr ""
+"Chemin d'accès de l'image de profil. exemple: http://www.domain.com/my-"
+"avatar.jpg"
+
+msgid "Time zone"
+msgstr "Fuseau horaire"
+
+msgid "New password"
+msgstr "Nouveau mot de passe"
+
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+"Si vous souhaitez changer votre mot de passe, tapez en un nouveau. Sinon "
+"laissez ce champ vide."
+
+msgid "Confirm password"
+msgstr "Confirmer le mot de passe"
+
+msgid "User roles"
+msgstr "Rôles des utilisateurs"
+
+msgid "Update user"
+msgstr "Mettre à jour l'utilisateur"
+
+msgid "Sorry, %s is not recognized as e-mail address."
+msgstr "Désolé, %s ne semble pas être une adresse email valide"
+
+msgid "invalid email"
+msgstr "email invalide"
+
+msgid "Further instructions have been sent to your e-mail address."
+msgstr ""
+"De plus amples instructions vous ont été envoyées par email à l'adresse "
+"indiquée."
+
+msgid "E-mail new password"
+msgstr "M'envoyer un nouveau mot de passe par email"
+
+msgid "Save All"
+msgstr "Enregistrer tout "
+
+msgid "Add New Role"
+msgstr "Ajouter un nouveau rôle"
+
+msgid "Manage Fields"
+msgstr "Gérer les champs"
+
+msgid "Manage Display"
+msgstr "Gérer l'affichage"
+
+msgid "There are no fields to display"
+msgstr "Il n'y a aucun champ à afficher"
+
+msgid "User Display Settings"
+msgstr "Option d'affichage de l'utilisateur"
+
+msgid "Add User"
+msgstr "Ajouter un utilisateur"
+
+#, fuzzy
+msgid "Active"
+msgstr ""
+"#-#-#-#-#  core (20).po (QuickApps v1)  #-#-#-#-#\n"
+"Actif\n"
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Activer\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Activo"
+
+msgid "Create user"
+msgstr "Créer un utilisateur"
+
+msgid "Public email"
+msgstr "E-mail public"
+
+msgid "Editing User"
+msgstr "Edition de l'Utilisateur"
+
+msgid "Editing user"
+msgstr "Edition de l'utilisateur"
+
+#, fuzzy
+msgid ""
+"Controls the visual building blocks a page is constructed with. Blocks are "
+"boxes of content rendered into an area, or region, of a web page."
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Contrôles les blocs de construction visuelle d'une page est construite avec. "
+"Les blocs sont des boîtes de contenu rendu dans une zone ou une région, "
+"d'une page web.\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Gestiona los bloques visuales con los que una págian se construye. Los "
+"bloques son cajas de contenido que se renderizan en un área o región de una "
+"página web."
+
+#, fuzzy
+msgid "New Block"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Nouveau Bloc\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Nuevo Bloque"
+
+#, fuzzy
+msgid "Save block"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Enregistrer le bloc\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Guardar bloque"
+
+#, fuzzy
+msgid "Unassigned"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Non assignés\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"No Asignados"
+
+#, fuzzy
+msgid "clone"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"cloner\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"clonar"
+
+#, fuzzy
+msgid "Block has been saved"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Le bloc a bien été enregistré\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Bloque ha sido guardado"
+
+#, fuzzy
+msgid "Block"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Bloc\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Bloque"
+
+#, fuzzy
+msgid "Duplicate this block?"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Dupliquer ce bloc?\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Duplicar este bloque?"
+
+#, fuzzy
+msgid "Block title"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Titre du bloc\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Título de bloque"
+
+#, fuzzy
+msgid "The title of the block as shown to the user."
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Le titre du bloc, tel qu'il sera vu par l'utilisateur.\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Título de bloque que se mostrara al usuario."
+
+#, fuzzy
+msgid "Block description *"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Description du bloc *\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Descripción de bloque *"
+
+#, fuzzy
+msgid ""
+"A brief description of your block. Used on the Blocks administration page."
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Une brève description de votre bloc. Utilisé sur la page d'administration "
+"des blocs.\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Breve descripción del bloque. Utilizado en la sección de gestión de bloques."
+
+#, fuzzy
+msgid "Block body *"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Corps du bloc *\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Cuerpo de bloque *"
+
+#, fuzzy
+msgid "Translations"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Traductions\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Traducciones"
+
+#, fuzzy
+msgid "Show this block for these languages"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Afficher ce bloc pour ces langues\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Mostrar este bloque para los siguientes idiomas"
+
+#, fuzzy
+msgid "If no language is selected, block will show regardless of language."
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Si aucune langue n'est sélectionnée, le bloc s'affichera dans toutes les "
+"langues.\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Si ningún idioma se indica, el bloque se mostrara independientemente del "
+"idioma."
+
+#, fuzzy
+msgid "Visibility settings"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Paramètres de visibilité\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Opciones de visualización"
+
+#, fuzzy
+msgid "Theme Region"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Thème de cette région\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Región de Theme"
+
+#, fuzzy
+msgid "Specify in which themes and regions this block is displayed."
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Indiquez dans quel thème et dans quelle région ce bloc doit être affiché.\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Indica en que theme y región este bloque se debe mostrar."
+
+#, fuzzy
+msgid "Pages"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Pages\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Páginas"
+
+#, fuzzy
+msgid "All pages except those listed"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Toutes les pages sauf celles listées\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"En todas las páginas excepto en las listadas"
+
+#, fuzzy
+msgid "Only the listed pages"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Seulement sur les pages listées\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Sólo en las páginas listadas"
+
+#, fuzzy
+msgid ""
+"Specify pages by using their paths. Enter one path per line. The '*' "
+"character is a wildcard. Example paths are blog for the blog page and blog/* "
+"for every blog entry. '/' is the front page."
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Indiquez les pages en utilisant leurs chemins. Entrez un chemin par ligne. "
+"Le caractère '*' est un joker. Des chemins sont écrits à titre d'exemple "
+"pour la page blog et blog / * pour chaque entrée de blog. '/' Est la page "
+"d'accueil.\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Indique páginas usando su ruta. Ingrese una ruta por línea. El caracter '*' "
+"es un comodín. Ejemplos de rutas son blog para la página de blog y /blog/* "
+"para cualquier entrada de blog. '/' es la página principal."
+
+#, fuzzy
+msgid "Show block for specific roles"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Montrer ce bloc pour des rôles spécifiques\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Mostrar bloque para los roles indicados"
+
+#, fuzzy
+msgid ""
+"Show this block only for the selected role(s). If you select no roles, the "
+"block will be visible to all users."
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Afficher cette section seulement pour le(s) rôle(s) sélectionné (s). Si vous "
+"ne sélectionnez aucun rôle, le bloc sera visible pour tous les "
+"utilisateurs.\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Muestra este bloque solo para el(los) rol(es) seleccionado(s). Si no se "
+"indica(n) rol(es), el bloque será visible para todos los usuarios."
+
+#, fuzzy
+msgid "Block class suffix"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Suffixe de classe du bloc\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Sufijo de clase para bloque"
+
+#, fuzzy
+msgid ""
+"A suffix to be applied to the CSS class of the block. This allows for "
+"individual block styling."
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Un suffixe qui sera appliqué à la classe CSS du bloc. Ceci permet "
+"d'attribuer un style particulier à ce bloc.\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Un sufijo para aplicar a las clases CSS del bloque. Esto permite estilizar "
+"individualmente el bloque."
+
+#, fuzzy
+msgid "Editing Block"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Modification de bloc\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Editando Bloque"
+
+#, fuzzy
+msgid "Add new block"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Ajouter un nouveau bloc\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Agregar nuevo bloque"
+
+#, fuzzy
+msgid "Pages on which this PHP code returns TRUE (experts only)"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Pages sur lesquelles le code PHP renvoie TRUE (experts uniquement)\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Páginas en las que este código PHP retorne TRUE (sólo expertos)"
+
+#, fuzzy
+msgid "Block moved %s!"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"Bloc déplacé %s!\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"Bloque movido %s!"
+
+#, fuzzy
+msgid "up"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"en haut\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"arriba"
+
+#, fuzzy
+msgid "down"
+msgstr ""
+"#-#-#-#-#  core (3).po (Quickapps v1)  #-#-#-#-#\n"
+"en bas\n"
+"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
+"abajo"
+
+#, fuzzy
+msgid "Allows users to comment on and discuss published content."
+msgstr ""
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Permet aux utilisateurs de commenter et de discuter du contenu publié.\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Permite a los usuarios comentar y discutir contenidos publicados."
+
+#, fuzzy
+msgid "Comment"
+msgstr ""
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Commentaire\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Comentario"
+
+#, fuzzy
+msgid "Published comments"
+msgstr ""
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Commentaires publiés\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Comentarios publicados"
+
+#, fuzzy
+msgid "Unpublished (%s)"
+msgstr ""
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Dépubliés (%s)\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"No publicados (%s)"
+
+#, fuzzy
+msgid "Unapprove selected comments"
+msgstr ""
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Désapprouver les commentaires sélectionnés\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"No aprobar comentarios sleccioandos"
+
+#, fuzzy
+msgid "Approve selected comments"
+msgstr ""
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Approuver les commentaires sélectionnés\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Aprobar comentarios sleccioandos"
+
+#, fuzzy
+msgid "Delete selected comments"
+msgstr ""
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Supprimer les commentaires sélectionnés\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Eliminar comentarios seleccionados"
+
+#, fuzzy
+msgid "Author"
+msgstr ""
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Auteur\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Autor"
+
+#, fuzzy
+msgid "Posted in"
+msgstr ""
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Publié dans\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Publicado en"
+
+#, fuzzy
+msgid "Posted on"
+msgstr ""
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Publié le\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"Publicado el"
+
+#, fuzzy
+msgid "There are no comments to display"
+msgstr ""
+"#-#-#-#-#  core (5).po (QuickApps v1)  #-#-#-#-#\n"
+"Il n'y a aucun commentaire à afficher\n"
+"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
+"No hay comentarios para mostrar"
+
+#, fuzzy
+msgid "Field API to add fields to entities like nodes and users."
+msgstr ""
+"#-#-#-#-#  core (7).po (QuickApps v1)  #-#-#-#-#\n"
+"Champ API pour ajouter des champs à des entités comme les noeuds et les "
+"utilisateurs.\n"
+"#-#-#-#-#  core (8).po  #-#-#-#-#\n"
+"API Campos, permite agregar campos a entidades como nodos y usuarios."
