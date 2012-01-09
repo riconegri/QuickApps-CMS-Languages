@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-07 21:04+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gabri <sheepinside@yhaoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-KeywordsList: __t;__\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Field API to add fields to entities like nodes and users."
+msgstr "API Campo, permette di aggiungere campi a entità come nodi e utenti."
+
+msgid "Invalid field label."
+msgstr "Etichetta del campo non valida."
+
+msgid "Field name must only contain letters and numbers. Between 3-32 characters are required (character '_' is allowed)."
+msgstr "Il nome di campo deve solo contenere lettere e numeri. Sono richiesti tra 3 e 32 caratteri (il carattere '_' è permesso)."
+
+msgid "Select a field type."
+msgstr "Seleziona un tipo di campo."
+
+msgid "Display language flag icon"
+msgstr "Mostra l'icona della bandiera della lingua"
+
+msgid "Display language name"
+msgstr "Mostra il nome della lingua"
+

@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-07 21:04+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gabri <sheepinside@yhaoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-KeywordsList: __t;__\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Vocabulary *"
+msgstr "Vocabolario *"
+
+msgid "The vocabulary which supplies the options for this field."
+msgstr "Il vocabolario che fornisce le opzioni per questo campo."
+
+msgid "Element Type"
+msgstr "Tipo di Elemento"
+
+msgid "Check boxes/radio buttons"
+msgstr "Check boxes/radio buttons"
+
+msgid "The type of form element you would like to present to the user when creating this field."
+msgstr "Il tipo di elemento form che tu vorresti mostrare all'utente quando creerà questo campo."
+
+msgid "Unlimited"
+msgstr "Non limitato"
+
+msgid "Number of values"
+msgstr "Numero di valori"
+
+msgid "Maximum number of values users can enter for this field."
+msgstr "Massimo numero di valori che gli utenti possono inserire per questo campo."
+
+msgid "This field cannot hold more than 2 values."
+msgstr "Questo campo non può tenere più di 2 valori."
+
+msgid "You must select at least on option."
+msgstr "Devi selezionare almeno una opzione."
+
+msgid "Plain"
+msgstr "Non formattato"
+
+msgid "Link (localized)"
+msgstr "Link (tradotto)"
+
+msgid "URL prefix"
+msgstr "Prefisso di URL"
+
+msgid "Valid only when format is \"Link (localized)\". Adds a prefix to each term link url."
+msgstr "Valido solo quando il formato è \"Link (tradotto)\". Aggiungi un prefisso ad ogni link url."
+
+msgid "Plain (localized)"
+msgstr "Non formattato (tradotto)"
+
+msgid "Select list"
+msgstr "Lista di selezione"
+
+msgid "Type in a search term"
+msgstr "Tipo in termine di ricerca"
+
+msgid "No results"
+msgstr "Nessun risultato"
+
+msgid "Searching"
+msgstr "Ricerca..."
+
+msgid "x"
+msgstr "x"
+
+msgid "You must <a href="%s">select a vocabulary</a> for this field!"
+msgstr "Devi <a href="%s">selezionare un vocabolario</a> per questo campo!"
+
