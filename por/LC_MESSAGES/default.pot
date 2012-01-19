@@ -1,1688 +1,832 @@
-# #-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#
-# LANGUAGE translation of CakePHP Application
-# Copyright YEAR NAME <EMAIL@ADDRESS>
-#
-#, fuzzy
-msgid ""
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"POT-Creation-Date: 2012-01-09 01:49+0000\n"
-"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 00:00+0100\n"
+﻿"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: Ricardo Negri <riconegri@gmail.com>"
+"POT-Creation-Date: 2012-01-16 00:00+0100\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Christopher Castro <chris@quickapps.es>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: __t;__\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (11).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 00:00+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Giovanni <giovanni.desouza0.1@gmail.com>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: __t;__\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 00:00+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Giovanni <giovanni.desouza0.1@gmail.com>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: __t;__\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 00:00+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Christopher Castro <chris@quickapps.es>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: __t;__\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 00:00+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Giovanni <giovanni.desouza0.1@gmail.com>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: __t;__\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 00:00+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Giovanni <giovanni.desouza0.1@gmail.com>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: __t;__\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 00:00+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Christopher Castro <chris@quickapps.es>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: __t;__\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 00:00+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Giovanni <giovanni.desouza0.1@gmail.com>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: __t;__\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (2).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-07-28 21:04+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Giovanni <giovanni.desouza0.1@gmail.com>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: BRAZIL\n"
-"X-Poedit-KeywordsList: _e;__e;__;_\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 00:00+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Christopher Castro <chris@quickapps.es>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: __t;__\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 00:00+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Giovanni <giovanni.desouza0.1@gmail.com>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: __t;__\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (22).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 00:00+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Christopher Castro <chris@quickapps.es>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: __t;__\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 00:00+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Christopher Castro <chris@quickapps.es>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: __t;__\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (24).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-07-28 21:04+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator:  Giovanni <giovanni.desouza0.1@gmail.com>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: _e;__e;__;_\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (3).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-07-28 21:04+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Christopher C <y2k2000@gmail.com>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: _e;__e;__;_\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 00:00+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Giovanni <giovanni.desouza0.1@gmail.com>\n"
+"Last-Translator: Ricardo <riconegri@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Country: BRAZIL\n"
 "X-Poedit-KeywordsList: __t;__\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 00:00+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Christopher Castro <chris@quickapps.es>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: __t;__\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 00:00+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Giovanni <giovanni.desouza0.1@gmail.com>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: __t;__\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 00:00+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Christopher Castro <chris@quickapps.es>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: __t;__\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (8).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 00:00+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Christopher Castro <chris@quickapps.es>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: __t;__\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core (9).po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-01 00:00+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Giovanni <giovanni.desouza0.1@gmail.com>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: __t;__\n"
-"X-Poedit-Basepath: ../../../\n"
-"X-Poedit-SearchPath-0: .\n"
-"#-#-#-#-#  core.po  #-#-#-#-#\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-07-28 21:04+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Christopher C <y2k2000@gmail.com>\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-KeywordsList: _e;__e;__;_\n"
 "X-Poedit-Basepath: ../../../\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: Controller\Component\InstallerComponent.php:78
 msgid "Package upload error"
-msgstr ""
+msgstr "Erro no upload do pacote"
 
-#: Controller\Component\InstallerComponent.php:88
 msgid "Unzip error."
-msgstr ""
+msgstr "Erro ao deszipar"
 
-#: Controller\Component\InstallerComponent.php:108
 msgid "Invalid package structure after unzip"
-msgstr ""
+msgstr "Estrutura de pacote inválido após deszipar"
 
-#: Controller\Component\InstallerComponent.php:124
 msgid "Forbidden Names"
-msgstr ""
+msgstr "Nomes Perdidos"
 
-#: Controller\Component\InstallerComponent.php:125
 msgid "Forbidden module name \"%s\""
-msgstr ""
+msgstr "Perdido o nome do módulo"
 
-#: Controller\Component\InstallerComponent.php:129;182
 msgid "Theme name"
-msgstr ""
+msgstr "Nome do template"
 
-#: Controller\Component\InstallerComponent.php:130
 msgid "Invalid module name (got \"%s\", expected: \"%s\")"
-msgstr ""
+msgstr "Nome inválido do módulo (tem \"%s\", esperado: \"%s\")"
 
-#: Controller\Component\InstallerComponent.php:137;190
 msgid "Already Installed"
-msgstr ""
+msgstr "Já instalado"
 
-#: Controller\Component\InstallerComponent.php:138
 msgid "This module is already installed"
-msgstr ""
+msgstr "Este módulo já está instalado"
 
-#: Controller\Component\InstallerComponent.php:142;210
 msgid "Config Folder"
-msgstr ""
+msgstr "Diretório Configuração"
 
-#: Controller\Component\InstallerComponent.php:143;211
 msgid "\"Config\" folder not found"
-msgstr ""
+msgstr "Diretório \"Config\" não foi encontrado"
 
-#: Controller\Component\InstallerComponent.php:147;215
 msgid "Bootstrap File"
-msgstr ""
+msgstr "Arquivo Bootstrap"
 
-#: Controller\Component\InstallerComponent.php:148;216
 msgid "\"Config/bootstrap.php\" file not found"
-msgstr ""
+msgstr " arquivo \"Config/bootstrap.php\" não encontrado"
 
-#: Controller\Component\InstallerComponent.php:152
 msgid "Routes File"
-msgstr ""
+msgstr "Arquivo de rotas"
 
-#: Controller\Component\InstallerComponent.php:153;221
 msgid "\"Config/routes.php\" file not found"
-msgstr ""
+msgstr "Arquivo \"Config/routes.php\" não encontrado"
 
-#: Controller\Component\InstallerComponent.php:157
 msgid "Controller Folder"
-msgstr ""
+msgstr "Diretório Controller"
 
-#: Controller\Component\InstallerComponent.php:158
 msgid "\"Controller\" folder not found"
-msgstr ""
+msgstr "Diretório \"Config/routes.php\" não encontrado"
 
-#: Controller\Component\InstallerComponent.php:162
 msgid "Component Folder"
-msgstr ""
+msgstr "Pasta de componente"
 
-#: Controller\Component\InstallerComponent.php:163
 msgid "\"Component\" folder not found"
-msgstr ""
+msgstr "Diretório \"Component\" não encontrado"
 
-#: Controller\Component\InstallerComponent.php:167;225
 msgid "Installer File"
-msgstr ""
+msgstr "Arquivo Installer"
 
-#: Controller\Component\InstallerComponent.php:168;226
 msgid "Installer file (InstallComponent.php) not found"
-msgstr ""
+msgstr "Arquivo Installer (InstallComponent) não encontrado"
 
-#: Controller\Component\InstallerComponent.php:172;235
 msgid "YAML File"
-msgstr ""
+msgstr "Arquivo YAML"
 
-#: Controller\Component\InstallerComponent.php:173;236
 msgid "YAML File (%s) not found"
-msgstr ""
+msgstr "Arquivo YAML não encontrado"
 
-#: Controller\Component\InstallerComponent.php:183
 msgid "Invalid theme name (got \"%s\", expected: \"%s\")"
-msgstr ""
+msgstr "Nome inválido de template(retornou \"%s\", esperado: \"%s\")"
 
-#: Controller\Component\InstallerComponent.php:191
 msgid "This theme is already installed"
-msgstr ""
+msgstr "Este template já está instalado"
 
-#: Controller\Component\InstallerComponent.php:195
 msgid "Layouts Folder"
-msgstr ""
+msgstr "Diretório Layouts"
 
-#: Controller\Component\InstallerComponent.php:196
 msgid "\"Layouts\" folder not found"
-msgstr ""
+msgstr "Diretório \"Layouts\" não encontrado"
 
-#: Controller\Component\InstallerComponent.php:200
 msgid "app Folder"
-msgstr ""
+msgstr "Diretório app"
 
-#: Controller\Component\InstallerComponent.php:201
 msgid "\"app\" folder not found"
-msgstr ""
+msgstr "Diretório \"app\" não encontrado"
 
-#: Controller\Component\InstallerComponent.php:205
 msgid "Plugin app"
-msgstr ""
+msgstr "Plugin app"
 
-#: Controller\Component\InstallerComponent.php:206
-msgid "Module app (\"%s\") folder not found"
-msgstr ""
+msgid "Module folder not found"
+msgstr "Diretório do Módulo app(\"%s\") não encontrado"
 
-#: Controller\Component\InstallerComponent.php:220
 msgid "Routes file"
-msgstr ""
+msgstr "Arquvio de Rotas"
 
-#: Controller\Component\InstallerComponent.php:230
 msgid "webroot Folder"
-msgstr ""
+msgstr "Diretório webroot"
 
-#: Controller\Component\InstallerComponent.php:231
 msgid "\"webroot\" folder not found"
-msgstr ""
+msgstr "Diretório \"webroot\" não encontrado"
 
-#: Controller\Component\InstallerComponent.php:240
 msgid "Theme thumbnail"
-msgstr ""
+msgstr "Miniatura do Template"
 
-#: Controller\Component\InstallerComponent.php:241
 msgid "Thumbnail image (\"%s\") not found"
-msgstr ""
+msgstr "Imagem miniatura não encotrada"
 
-#: Controller\Component\InstallerComponent.php:266;282
 msgid "YAML Validation"
-msgstr ""
+msgstr "Validação YAML"
 
-#: Controller\Component\InstallerComponent.php:267
 msgid "Module configuration file (%s) appears to be invalid."
-msgstr ""
+msgstr "Arquivo de configuração do módulo (%s) parece estar inválido."
 
-#: Controller\Component\InstallerComponent.php:283
 msgid "Theme configuration file (%s) appears to be invalid."
-msgstr ""
+msgstr "Arquivo de configuração do Template (%s) parece estar inválido."
 
-#: Controller\Component\InstallerComponent.php:290
 msgid "Invalid information file (.yaml)"
-msgstr ""
+msgstr "Arquivo de informação inválido (.yaml)"
 
-#: Controller\Component\InstallerComponent.php:301;1276
 msgid "This module is incompatible with your QuickApps version."
-msgstr ""
+msgstr "Este módulo é incompatível com sua versão de QuickApps"
 
-#: Controller\Component\InstallerComponent.php:303;1278
 msgid "This theme is incompatible with your QuickApps version."
-msgstr ""
+msgstr "Este template é incompatível com sua versão atual do QuickApps"
 
-#: Controller\Component\InstallerComponent.php:314;1289
-msgid ""
-"This module depends on other modules that you do not have or doesn't meet "
-"the version required: %s"
-msgstr ""
+msgid "This module depends on other modules that you do not have or doesn't meet "
+msgstr "Este módulo depende de outros módulos que não foram encontrados na versão necessária: %s"
 
-#: Controller\Component\InstallerComponent.php:316;1291
-msgid ""
-"This theme depends on other modules that you do not have or doesn't meet the "
-"version required: %s"
-msgstr ""
+msgid "This theme depends on other modules that you do not have or doesn't meet the version required: %s"
+msgstr "Este template depende de outros módulos que foram perdidos, ou conferem com a versão necessária: %s"
 
-#: Controller\Component\InstallerComponent.php:340
 msgid "invalid information file (.yaml). Field \"%s\""
-msgstr ""
+msgstr "arquivo de informação inválido (.yaml). Campo '%s'"
 
-#: Controller\Component\InstallerComponent.php:344
 msgid "Invalid field \"%s\". Information file (.yaml) not found."
-msgstr ""
+msgstr "Campo inválido \"%s\". Arquivo de informação não encontrado."
 
-#: Controller\Component\InstallerComponent.php:348
 msgid "Invalid field name \"%s\"."
-msgstr ""
+msgstr "Nome de arquivo inválido \"%s\"."
 
-#: Plugin\System\Console\Command\QuickappsShell.php:15
 msgid "Quickapps CMS - Shell"
-msgstr ""
+msgstr "Quickapps CMS - Shell"
 
-#: Plugin\System\Console\Command\Task\GuiTask.php:22
 msgid "What would you like to do"
-msgstr ""
+msgstr "O que você gostaria de fazer"
 
-#: Plugin\System\Console\Command\Task\GuiTask.php:56
 msgid "You have made an invalid selection."
-msgstr ""
+msgstr "Você fez uma seleção inválida."
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:10
 msgid "Quickapps CMS - Modules"
-msgstr ""
+msgstr "Quickapps CMS - Modules"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:62
 msgid "Which %s ?"
-msgstr ""
+msgstr "Que %s"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:71
 msgid "Machine Name: %s"
-msgstr ""
+msgstr "Nome da máquina: %s"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:72
 msgid "Active: %s"
-msgstr ""
+msgstr "Ativo: %s"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:73
-#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:20;28
 msgid "Yes"
-msgstr ""
+msgstr "Sim"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:73
-#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:20;28
 msgid "No"
-msgstr ""
+msgstr "Não"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:75
 msgid "Description: %s"
-msgstr ""
+msgstr "Descrição: %s"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:78
 msgid "Category: %s"
-msgstr ""
+msgstr "Categoria: %s"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:81
 msgid "Core: %s"
-msgstr ""
+msgstr "Core: %s"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:84
 msgid "Dependencies:"
-msgstr ""
+msgstr "Dependências:"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:92
 msgid "Theme regions:"
-msgstr ""
+msgstr "Regiões do template:"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:104
-#: Plugin\System\Console\Command\Task\ThemeTask.php:40
 msgid "Write permission ERROR: %s"
-msgstr ""
+msgstr "Erro na permissão de escrita: %s"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:114
 msgid "Your module has been compressed and saved in: %s"
-msgstr ""
+msgstr "Seu módulo foi compactado e salvo em: %s"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:166
-#, fuzzy
 msgid "Region"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Região\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Región"
+msgstr "Região"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:206
 msgid "Alias name of the module, in CamelCase. e.g.: \"MyTestModule\" [R]"
-msgstr ""
+msgstr "Alias do módulo, em CamelCase. ex.: \"MyTestModule\" [R]"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:210
 msgid "Human readable name of the module. e.g.: \"My Test Module\" [R]"
-msgstr ""
+msgstr "Nome humano legível do módulo. ex.: \"My Test Module\" [R]"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:214
-#: Plugin\System\Console\Command\Task\ThemeTask.php:83
 msgid "Brief description [R]"
-msgstr ""
+msgstr "Breve descrição[R]"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:218
 msgid "Category [R]"
-msgstr ""
+msgstr "Categoria [R]"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:223
 msgid "Invalid category name."
-msgstr ""
+msgstr "Nome de categora inválido."
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:228
 msgid "Module version. e.g.: 1.0, 2.0.1 [R]"
-msgstr ""
+msgstr "Versão do módulo. ex.: 1.0, 2.0.1 [R]"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:232
-#: Plugin\System\Console\Command\Task\ThemeTask.php:93;97
 msgid "Required version of Quickapps CMS. e.g: 1.x, >=1.0 [R]"
-msgstr ""
+msgstr "Versão necessária do Quickapps CMS. ex.: 1.x, >=1.0 [R]"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:235
-#: Plugin\System\Console\Command\Task\ThemeTask.php:100
 msgid "Author name [O]"
-msgstr ""
+msgstr "Nome do autor [O]"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:236
-#: Plugin\System\Console\Command\Task\ThemeTask.php:101
 msgid "Author email [O]"
-msgstr ""
+msgstr "Email do Author [O]"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:246
 msgid "Does your module depends of other modules ?"
-msgstr ""
+msgstr "O módulo depende de outros módulos ?"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:258
-#: Plugin\System\Console\Command\Task\ThemeTask.php:119
 msgid "#%s"
-msgstr ""
+msgstr "#%s"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:261
-#: Plugin\System\Console\Command\Task\ThemeTask.php:122
 msgid "Module alias"
-msgstr ""
+msgstr "Alias do Módulo"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:264
-#: Plugin\System\Console\Command\Task\ThemeTask.php:125
-msgid "Module version. (Optional)"
-msgstr ""
+msgid "Module Version. (Optional)"
+msgstr "Versão do Módulo (Opcional)"
 
-#: Plugin\System\Console\Command\Task\ModuleTask.php:267
-#: Plugin\System\Console\Command\Task\ThemeTask.php:128
 msgid "Add other module dependency ?"
-msgstr ""
+msgstr "Adicionar outra dependência de módulo ?"
 
-#: Plugin\System\Console\Command\Task\ThemeTask.php:10
 msgid "Quickapps CMS - Themes"
-msgstr ""
+msgstr "Quickapps CMS - Templates"
 
-#: Plugin\System\Console\Command\Task\ThemeTask.php:50
 msgid "Your theme has been compressed and saved in: %s"
-msgstr ""
+msgstr "Seu template foi compactado e salvo em: %s"
 
-#: Plugin\System\Console\Command\Task\ThemeTask.php:71
 msgid "Is your theme an admin theme ?"
-msgstr ""
+msgstr "O template é de admin ?"
 
-#: Plugin\System\Console\Command\Task\ThemeTask.php:75
 msgid "Alias name of the theme, in CamelCase. e.g.: \"MyTestTheme\" [R]"
-msgstr ""
+msgstr "Alias do nome do template, em CamelCase. e.g.: \"MyTestTheme\" [R]"
 
-#: Plugin\System\Console\Command\Task\ThemeTask.php:79
 msgid "Human readable name of the theme. e.g.: \"My Test Theme\" [R]"
-msgstr ""
+msgstr "Nome legível do template. ex.:  \"My Test Theme\" [R]"
 
-#: Plugin\System\Console\Command\Task\ThemeTask.php:86
 msgid "Theme version. e.g.: 1.0, 2.0.1 [O]"
-msgstr ""
+msgstr "Versão do Template. ex.: 1.0, 2.0.1 [O]"
 
-#: Plugin\System\Console\Command\Task\ThemeTask.php:109
 msgid "Does your theme depends of some modules ?"
-msgstr ""
+msgstr "Seu template depende de algum módulo ?"
 
-#: Plugin\System\Console\Command\Task\ThemeTask.php:144
 msgid "Adding theme regions"
-msgstr ""
+msgstr "Adicionando regiões no template"
 
-#: Plugin\System\Console\Command\Task\ThemeTask.php:147
 msgid "Do you want to add regions present in the actual theme?"
-msgstr ""
+msgstr "Você quer adicionar regiões presentes no template atual?"
 
-#: Plugin\System\Console\Command\Task\ThemeTask.php:171
 msgid "Type in regions separated by comma `,`."
-msgstr ""
+msgstr "Digite as regiões separados por vírgula `,`."
 
-#: Plugin\System\Console\Command\Task\ThemeTask.php:185
 msgid "Add more regions?"
-msgstr ""
+msgstr "Adicionar mais regiões?"
 
-#: Plugin\System\Console\Command\Task\ThemeTask.php:192
 msgid "Region name:"
-msgstr ""
+msgstr "Nome da região:"
 
-#: Plugin\System\Console\Command\Task\ThemeTask.php:198
 msgid "Add other region"
-msgstr ""
+msgstr "Adicionar outra região"
 
-#: Plugin\System\Console\Command\Task\UtilityTask.php:9
 msgid "Quickapps CMS - Utilities"
-msgstr ""
+msgstr "Quickapps CMS - Utilitários"
 
-#: Plugin\System\Console\Command\Task\UtilityTask.php:49
 msgid "Type in your password"
-msgstr ""
+msgstr "Digite sua senha"
 
-#: Plugin\System\Console\Command\Task\UtilityTask.php:50
 msgid "Hash for \"%s\": %s"
-msgstr ""
+msgstr "Hash para \"%s\": %s"
 
-#: Plugin\System\Console\Command\Task\UtilityTask.php:65
-msgid ""
-"Type in the table name you want to export (no prefix). Leave empty to export "
-"all."
-msgstr ""
+msgid "Type in the table name you want to export (no prefix). Leave empty to export "
+msgstr "Digite o nome da tabela que deseja exportar (sem prefixo). Deixe em branco para exportar tudo."
 
-#: Plugin\System\View\Helper\SystemHookHelper.php:32
-#, fuzzy
 msgid "Recent Content"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Conteudos recentes\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Contenidos Recientes"
+msgstr "Conteúdos recentes"
 
-#: Vendor\DummyLocale.php:2
 msgid "Dashboard"
-msgstr "Resumen"
+msgstr "Área de trabalho"
 
-#: Vendor\DummyLocale.php:3
 msgid "Structure"
-msgstr "Estructura"
+msgstr "Estrutura"
 
-#: Vendor\DummyLocale.php:4
 msgid "Content"
-msgstr "Contenidos"
+msgstr "Conteúdos"
 
-#: Vendor\DummyLocale.php:5
 msgid "Appearance"
-msgstr "Apariencia"
+msgstr "Aparência"
 
-#: Vendor\DummyLocale.php:6
 msgid "Modules"
 msgstr "Módulos"
 
-#: Vendor\DummyLocale.php:7
 msgid "Users"
-msgstr "Usuarios"
+msgstr "Usuários"
 
-#: Vendor\DummyLocale.php:8
 msgid "Configuration"
-msgstr "Configuración"
+msgstr "Configuração"
 
-#: Vendor\DummyLocale.php:9
 msgid "Help"
-msgstr "Ayuda"
+msgstr "Ajuda"
 
-#: Vendor\DummyLocale.php:10
 msgid "Hidden"
 msgstr "Oculto"
 
-#: Vendor\DummyLocale.php:11
 msgid "Languages"
 msgstr "Idiomas"
 
-#: Vendor\DummyLocale.php:12
 msgid "View Site"
-msgstr "Ver Sitio"
+msgstr "Ver Site"
 
-#: Vendor\DummyLocale.php:13 View\Themed\Admin\Layouts\default.ctp:51
 msgid "Log out"
-msgstr "Cerrar Sesión"
+msgstr "Logout"
 
-#: Vendor\DummyLocale.php:14
 msgid "Logout"
-msgstr "Cerrar Sesión"
+msgstr "Logout"
 
-#: Vendor\DummyLocale.php:15
 msgid "My account"
-msgstr "My Cuenta"
+msgstr "Minha conta"
 
-#: Vendor\DummyLocale.php:16
-#, fuzzy
 msgid "« Previous "
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"« Anterior\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"« Anterior "
+msgstr "« Anterior "
 
-#: Vendor\DummyLocale.php:17
 msgid " Next »"
-msgstr " Siguiente »"
+msgstr " Próximo »"
 
-#: View\Helper\LayoutHelper.php:285
 msgid "The node could not be rendered"
-msgstr ""
+msgstr "O nó não pode ser renderizado"
 
-#: Controller\Component\QuickappsComponent.php:262
 msgid "You are not authorized to access that location."
-msgstr ""
+msgstr "Você não está autorizado a acessar esta página."
 
 msgid "User not found."
-msgstr "Usuario no encontrado."
+msgstr "Usuário não encontrado."
 
-#: Plugin\User\Controller\Component\MailerComponent.php:75
 msgid "This message has been marked as \"do not notify\"."
-msgstr ""
+msgstr "Esta mensagem foi marcada com \"não notificar\"."
 
 msgid "Email could not be send."
-msgstr "No se puedo enviar el email."
+msgstr "Problema ao enviar email."
 
 msgid "Invalid message preset."
-msgstr "Mensaje preestablecido inválido."
+msgstr "Mensagem configurada inválida."
 
-#: Plugin\User\Model\User.php:110
 msgid "Password missmatch."
-msgstr ""
+msgstr "Senhas digitadas não conferem."
 
-#: Plugin\User\View\Elements\settings.ctp:16
-#, fuzzy
 msgid "Mailing notifications"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Notificaçõe de e-mail\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Notificaciones email"
+msgstr "Notificações por emal"
 
-#: Plugin\User\View\Elements\settings.ctp:19
-#, fuzzy
 msgid "Welcome"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Bem vindo!\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Bienvenida"
+msgstr "Bem-vindo"
 
-#: Plugin\User\View\Elements\settings.ctp:26;50;97;121
-#: View\Elements\theme_node_comments_form.ctp:56
-#, fuzzy
 msgid "Subject"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Assunto\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Asunto\n"
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Asunto\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Asunto"
+msgstr "Assunto"
 
-#: Plugin\User\View\Elements\settings.ctp:34;58;75;82;105;129
-#, fuzzy
 msgid "Body"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Corpo\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Cuerpo"
+msgstr "Corpo"
 
-#: Plugin\User\View\Elements\settings.ctp:42
-#, fuzzy
 msgid "User activation"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Ativação de conta\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Activación de cuenta"
+msgstr "Ativação da conta"
 
-#: Plugin\User\View\Elements\settings.ctp:46
-#, fuzzy
 msgid "Notify user when account is activated."
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Notificar quando a contar estiver ativa.\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Notificar cuando la cuenta es activada."
+msgstr "Notificar quando a contar estiver ativa."
 
-#: Plugin\User\View\Elements\settings.ctp:66
-#, fuzzy
 msgid "Account blocked"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Conta Bloqueada\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Bloqueo de cuenta"
+msgstr "Conta Bloqueada"
 
-#: Plugin\User\View\Elements\settings.ctp:70
-#, fuzzy
 msgid "Notify user when account is blocked."
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Notificar quando a conta estiver bloqueada.\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Notificar cuando la cuenta es bloqueada."
+msgstr "Notificar quando a conta estiver bloqueada."
 
-#: Plugin\User\View\Elements\settings.ctp:90
-#, fuzzy
 msgid "Password recovery"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Recuperar senha\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Recuperación de contraseña"
+msgstr "Recuper senha"
 
-#: Plugin\User\View\Elements\settings.ctp:113
-#, fuzzy
 msgid "Account canceled"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Conta cancelada\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Cancelación de cuenta"
+msgstr "Conta cancelada"
 
-#: Plugin\User\View\Elements\settings.ctp:117
-#, fuzzy
 msgid "Notify user when account is canceled."
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Notificar quando a conta for cancelada.\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Notificar cuando la cuenta es cancelada (eliminada)."
+msgstr "Notificar quando a conta for cancelada."
 
-#: Plugin\User\View\Elements\user_login_block.ctp:5
-#: Plugin\User\View\User\profile.ctp:9
-#, fuzzy
 msgid "Username"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Nome de usuário\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Nombre de usuario"
+msgstr "Nome de usuário"
 
-#: Plugin\User\View\Elements\user_login_block.ctp:6
-#, fuzzy
 msgid "Password"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Senha\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Contraseña"
+msgstr "Senha"
 
-#: Plugin\User\View\Elements\user_login_block.ctp:9
-#: Plugin\User\View\Helper\UserHookHelper.php:41
 msgid "Login"
-msgstr ""
+msgstr "Login"
 
-#: Plugin\User\View\Elements\user_login_block.ctp:11
-#, fuzzy
 msgid "Create new account"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Cria nova Conta\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Crear nueva cuenta"
+msgstr "Criar nova conta"
 
-#: Plugin\User\View\Elements\user_login_block.ctp:12
-#, fuzzy
 msgid "Request new password"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Solicitar Nova Senha\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Solicitar nueva contraseña"
+msgstr "Solicitar Nova Senha"
 
-#: Plugin\User\View\Elements\user_new_block_settings.ctp:6
 msgid "Number of users"
-msgstr ""
+msgstr "Número de usuários"
 
-#: Plugin\User\View\Helper\UserHookHelper.php:28
-#, fuzzy
 msgid "Who's New"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Novos Usuários\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Nuevos Usuarios"
+msgstr "Novos Usuários"
 
-#: Plugin\User\View\User\profile.ctp:2
 msgid "Profile"
-msgstr ""
+msgstr "Perfil"
 
-#: Plugin\User\View\User\profile.ctp:10
-#, fuzzy
 msgid "Real name"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Nome real\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Nombre real"
+msgstr "Nome Real"
 
 msgid "Email"
 msgstr "Email"
 
-#: Plugin\User\View\User\profile.ctp:19
-#, fuzzy
 msgid "User since"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Usuário desde\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Usuario desde"
+msgstr "Usuário desde"
 
-#: Plugin\User\View\User\profile.ctp:20
-#, fuzzy
 msgid "Last connection"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Última conexão\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Última conexión"
+msgstr "Última conexão"
 
-#: Lib\Routing\Router.php:252
 msgid "Route classes must extend CakeRoute"
-msgstr ""
+msgstr "A classe Route deve ser extendita de CakeRoute"
 
 msgid "No subject"
-msgstr "Sin asunto"
+msgstr "Sem assunto"
 
-#: Plugin\Comment\Model\Behavior\BBCodeBehavior.php:89
-#, fuzzy
 msgid "wrote"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"escrever\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"escribió"
+msgstr "escrever"
 
-#: Plugin\Comment\View\Elements\settings.ctp:1
 msgid "Anti-Spam Protection"
-msgstr ""
+msgstr "Proteção anti-spam"
 
-#: Plugin\Comment\View\Elements\settings.ctp:7
 msgid "Use ReCaptcha"
-msgstr ""
+msgstr "Usar ReCaptcha"
 
-#: Plugin\Comment\View\Elements\settings.ctp:13
 msgid "ReCaptcha Public Key"
-msgstr ""
+msgstr "Chave pública do ReCaptcha"
 
-#: Plugin\Comment\View\Elements\settings.ctp:14
 msgid "ReCaptcha Private Key"
-msgstr ""
+msgstr "Chave privada do ReCaptcha"
 
-#: Plugin\Comment\View\Elements\settings.ctp:19
 msgid "Theme"
-msgstr ""
+msgstr "Template"
 
-#: Plugin\Comment\View\Elements\settings.ctp:21
 msgid "Red"
-msgstr ""
+msgstr "Vermelho"
 
-#: Plugin\Comment\View\Elements\settings.ctp:22
 msgid "White"
-msgstr ""
+msgstr "Branco"
 
-#: Plugin\Comment\View\Elements\settings.ctp:23
 msgid "Black Glass"
-msgstr ""
+msgstr "Preto vidro"
 
-#: Plugin\Comment\View\Elements\settings.ctp:24
-#: Plugin\Comment\webroot\js\markItUp\locale.js:18
 msgid "Clean"
-msgstr ""
+msgstr "Limpo"
 
 msgid "Language"
 msgstr "Idioma"
 
-#: Plugin\Comment\View\Elements\settings.ctp:35
 msgid "Auto-Detect"
-msgstr ""
+msgstr "Auto-Detectar"
 
-#: Plugin\Comment\View\Elements\settings.ctp:36
 msgid "English"
-msgstr ""
+msgstr "Inglês"
 
-#: Plugin\Comment\View\Elements\settings.ctp:37
 msgid "Dutch"
-msgstr ""
+msgstr "Alemão"
 
-#: Plugin\Comment\View\Elements\settings.ctp:38
 msgid "French"
-msgstr ""
+msgstr "Francês"
 
-#: Plugin\Comment\View\Elements\settings.ctp:39
 msgid "German"
-msgstr ""
+msgstr "Alemão"
 
-#: Plugin\Comment\View\Elements\settings.ctp:40
 msgid "Portuguese"
-msgstr ""
+msgstr "Brasil"
 
-#: Plugin\Comment\View\Elements\settings.ctp:41
 msgid "Russian"
-msgstr ""
+msgstr "Russia"
 
-#: Plugin\Comment\View\Elements\settings.ctp:42
 msgid "Spanish"
-msgstr ""
+msgstr "Espanha"
 
-#: Plugin\Comment\View\Elements\settings.ctp:43
 msgid "Turkish"
-msgstr ""
+msgstr "Turquia"
 
-#: Plugin\Comment\View\Elements\settings.ctp:44;51
 msgid "Custom Translation"
-msgstr ""
+msgstr "Tradução personalizada"
 
-#: Plugin\Comment\View\Elements\settings.ctp:73
 msgid "Use Akismet"
-msgstr ""
+msgstr "Usar Akismet"
 
-#: Plugin\Comment\View\Elements\settings.ctp:80
 msgid "Akismet API Key"
-msgstr ""
+msgstr "Chave APU Akismet"
 
-#: Plugin\Comment\View\Elements\settings.ctp:85
 msgid "On SPAM detected"
-msgstr ""
+msgstr "Detectado sobre SPAM"
 
-#: Plugin\Comment\View\Elements\settings.ctp:88
 msgid "Mark as SPAM"
-msgstr ""
+msgstr "Marcar como SPAM"
 
-#: Plugin\Comment\View\Elements\settings.ctp:89
 msgid "Delete"
-msgstr ""
+msgstr "Apagar"
 
-#: Plugin\Comment\View\Helper\CommentHookHelper.php:120
 msgid "Invalid security code."
-msgstr ""
+msgstr "Código de segurança inválido"
 
-#: Plugin\Comment\webroot\js\markItUp\locale.js:1
 msgid "Bold"
-msgstr ""
+msgstr "Negrito"
 
-#: Plugin\Comment\webroot\js\markItUp\locale.js:2
 msgid "Italic"
-msgstr ""
+msgstr "Itálica"
 
-#: Plugin\Comment\webroot\js\markItUp\locale.js:3;13
 msgid "Underline"
-msgstr ""
+msgstr "Underline"
 
-#: Plugin\Comment\webroot\js\markItUp\locale.js:4
 msgid "Picture"
-msgstr ""
+msgstr "Imagem"
 
-#: Plugin\Comment\webroot\js\markItUp\locale.js:5
 msgid "Link"
-msgstr ""
+msgstr "Link"
 
-#: Plugin\Comment\webroot\js\markItUp\locale.js:6
 msgid "Your text to link here..."
-msgstr ""
+msgstr "O texto de seu link aqui..."
 
 msgid "Size"
-msgstr "Tamaño"
+msgstr "Tamanho"
 
-#: Plugin\Comment\webroot\js\markItUp\locale.js:8
 msgid "Text size"
-msgstr ""
+msgstr "Tamanho do texto"
 
-#: Plugin\Comment\webroot\js\markItUp\locale.js:9
 msgid "Big"
-msgstr ""
+msgstr "Grande"
 
-#: Plugin\Comment\webroot\js\markItUp\locale.js:10
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
-#: Plugin\Comment\webroot\js\markItUp\locale.js:11
 msgid "Small"
-msgstr ""
+msgstr "Pequena"
 
-#: Plugin\Comment\webroot\js\markItUp\locale.js:12
 msgid "Bulleted list"
-msgstr ""
+msgstr "Lista bulleted"
 
-#: Plugin\Comment\webroot\js\markItUp\locale.js:14
 msgid "Starting number"
-msgstr ""
+msgstr "Número inicial"
 
-#: Plugin\Comment\webroot\js\markItUp\locale.js:15
 msgid "List item"
-msgstr ""
+msgstr "Item de lista"
 
-#: Plugin\Comment\webroot\js\markItUp\locale.js:16
 msgid "Quotes"
-msgstr ""
+msgstr "Aspas"
 
 msgid "Code"
 msgstr "Código"
 
-msgid ""
-"Your comment has been queued for review by site administrators and will be "
-"published after approval."
-msgstr ""
-"Tu comentario ha sido puesto en espera de revisar por algun administrador y "
-"será publicado después de su aprobación."
+msgid "Your comment has been queued for review by site administrators and will be published after approval."
+msgstr "Seu comentário está aguardando por aprovação e em breve será publicado"
 
 msgid "Your comment has been posted."
-msgstr "Tu comentario ha sido publicado."
+msgstr "Seu comentário foi publicado."
 
 msgid "Comment could not be saved. Please try again."
-msgstr "No se ha podido procesar el comentario. Por favor intenta otra vez."
+msgstr "Problema ao salvar comentário. Tente novamente."
 
-#: View\Elements\theme_node_comments.ctp:16
-#, fuzzy
 msgid "Comments"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Comentários\n"
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Comentários\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Comentarios"
+msgstr "Comentários"
 
-#: View\Elements\theme_node_comments.ctp:20;84
-#: Plugin\Node\View\Node\search.ctp:21
 msgid "«"
-msgstr ""
+msgstr "«"
 
-#: View\Elements\theme_node_comments.ctp:22;86
-#: Plugin\Node\View\Node\search.ctp:23
 msgid "»"
-msgstr ""
+msgstr "»"
 
-#: View\Elements\theme_node_comments.ctp:55
-#, fuzzy
 msgid "said on %s"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"disse em %s\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"dijo el %s"
+msgstr "disse em %s"
 
-#: View\Elements\theme_node_comments.ctp:56
 msgid "Permalink"
-msgstr ""
+msgstr "Permalink"
 
 msgid "Quote"
 msgstr "Citar"
 
-#: View\Elements\theme_node_comments_form.ctp:16
-#, fuzzy
 msgid "Add new comment"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Adicionar um novo comentário\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Nuevo comentario"
+msgstr "Adicionar um novo comentário"
 
-#: View\Elements\theme_node_comments_form.ctp:21;28;37
-#, fuzzy
 msgid "Your name"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Nome\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Tu nombre"
+msgstr "Nome"
 
 msgid "Web page"
 msgstr "Página web"
 
-#: View\Elements\theme_node_comments_form.ctp:48
-#, fuzzy
 msgid "Your name *"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Nome *\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Tu nombre *"
+msgstr "Nome *"
 
-#: View\Elements\theme_node_comments_form.ctp:49
 msgid "Email *"
-msgstr ""
+msgstr "Email *"
 
-#: View\Elements\theme_node_comments_form.ctp:59
-#, fuzzy
 msgid "Comment *"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Comentário *\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Comentario *"
+msgstr "Comentário *"
 
-#: View\Elements\theme_node_comments_form.ctp:64
-#, fuzzy
 msgid "Save"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Salvar\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Guardar\n"
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Salvar\n"
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Salvar\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Guardar"
+msgstr "Salvar"
 
-#: Plugin\Field\Fields\FieldDate\Model\Behavior\FieldDateHookBehavior.php:50
 msgid "Date cannot be empty."
-msgstr ""
+msgstr "Data não pode ficar vazio."
 
-#: Plugin\Field\Fields\FieldDate\View\Elements\settings_from.ctp:5
 msgid "Date format"
-msgstr ""
+msgstr "Formato da data"
 
-#: Plugin\Field\Fields\FieldDate\View\Elements\settings_from.ctp:12
 msgid "Display button bar"
-msgstr ""
+msgstr "Mostrar barra de botões"
 
-#: Plugin\Field\Fields\FieldDate\View\Elements\settings_from.ctp:19
 msgid "Display month & year menu"
-msgstr ""
+msgstr "Mostrar menus de mês e ano"
 
-#: Plugin\Field\Fields\FieldDate\View\Elements\settings_from.ctp:26
 msgid "Show week of the year"
-msgstr ""
+msgstr "Mostrar semana do ano"
 
-#: Plugin\Field\Fields\FieldDate\View\Elements\settings_from.ctp:41
 msgid "Display multiple months"
-msgstr ""
+msgstr "Mostrar múltiplos meses"
 
-#: Plugin\Field\Fields\FieldDate\View\Elements\settings_from.ctp:115
 msgid "Localize"
-msgstr ""
+msgstr "Localizar"
 
-#: Plugin\Field\Fields\FieldFile\Controller\UploadifyController.php:52
 msgid "Invalid file extension."
-msgstr ""
+msgstr "Extesão de arquivo inválida."
 
-#: Plugin\Field\Fields\FieldFile\Controller\UploadifyController.php:75
 msgid "Error: %s"
-msgstr ""
+msgstr "Erro: %s"
 
-#: Plugin\Field\Fields\FieldFile\Model\Behavior\FieldFileHookBehavior.php:138
 msgid "You must upload at least one file."
-msgstr ""
+msgstr "Você deve subir ao menos um arquivo."
 
 msgid "Remove"
-msgstr "Eliminar"
+msgstr "Apagar"
 
 msgid "Files must be less than <b>%sB</b>."
-msgstr "Archivos deben menores a <b>%sB</b>."
+msgstr "Arquivos devem ser menores que <b>%sB</b>."
 
 msgid "Allowed file types: <b>%s</b>."
-msgstr "Extensiones admitidas: <b>%s</b>."
+msgstr "Extensões permitidas: <b>%s</b>."
 
-#: Plugin\Field\Fields\FieldFile\View\Elements\formatter_from.ctp:8
 msgid "Link to file"
-msgstr ""
+msgstr "Link para arquivo"
 
-#: Plugin\Field\Fields\FieldFile\View\Elements\formatter_from.ctp:9
 msgid "Table of Files"
-msgstr ""
+msgstr "Tabela de arquivos"
 
-#: Plugin\Field\Fields\FieldFile\View\Elements\formatter_from.ctp:10
 msgid "File URL"
-msgstr ""
+msgstr "URL do arquivo"
 
-#: Plugin\Field\Fields\FieldFile\View\Elements\settings_from.ctp:5
 msgid "Allowed extensions"
-msgstr ""
+msgstr "Extensões permitidas"
 
-#: Plugin\Field\Fields\FieldFile\View\Elements\settings_from.ctp:9
-msgid "Comma separated. i.e.: jpg,gif,png"
-msgstr ""
+msgid "Comma separated. "
+msgstr "Separado por vírgula. i.e.: jpg,gif,png"
 
-#: Plugin\Field\Fields\FieldFile\View\Elements\settings_from.ctp:16
 msgid "Number of files"
-msgstr ""
+msgstr "Número de arquivos"
 
-#: Plugin\Field\Fields\FieldFile\View\Elements\settings_from.ctp:20
 msgid "Maximum number of files users can upload for this field."
-msgstr ""
+msgstr "Número máximo de arquivos que usuários pode subir para este campo."
 
-#: Plugin\Field\Fields\FieldFile\View\Elements\settings_from.ctp:26
 msgid "Upload folder"
-msgstr ""
+msgstr "Pasta de upload"
 
-#: Plugin\Field\Fields\FieldFile\View\Elements\settings_from.ctp:30
-msgid ""
-"Optional subdirectory within the upload destination where files will be "
-"stored. Do not include preceding or trailing slashes."
-msgstr ""
+msgid "Optional subdirectory within the upload destination where files will be stored. Do not include preceding or trailing slashes."
+msgstr "Sub-diretório opcional, que será o destino dos arquivos. Não inclua símbolos"
 
-#: Plugin\Field\Fields\FieldFile\View\Elements\settings_from.ctp:36
 msgid "Enable Description field"
-msgstr ""
+msgstr "Ativar descrição do campo"
 
-#: Plugin\Field\Fields\FieldFile\View\Elements\settings_from.ctp:40
-msgid ""
-"The description field allows users to enter a description about the uploaded "
-"file."
-msgstr ""
+msgid "The description field allows users to enter a description about the uploaded file."
+msgstr "A descrição do campo permite usuários entrar uma descrição sobre o arquivo subido."
 
 msgid "Attachment"
-msgstr "Adjuntos"
+msgstr "Anexo"
 
-#: Plugin\Field\Fields\FieldFile\webroot\js\locale.js:2
-#, fuzzy
 msgid "Description"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Descrição\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Descripción\n"
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Descrição\n"
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Descrição\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Descripción\n"
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Descrição\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Descripción\n"
-"#-#-#-#-#  core (8).po  #-#-#-#-#\n"
-"Descripción"
+msgstr "Descrição"
 
 msgid "Upload"
 msgstr "Upload"
 
-#: Plugin\Field\Fields\FieldList\Model\Behavior\FieldListHookBehavior.php:53
-#: Plugin\Taxonomy\Fields\FieldTerms\Model\Behavior\FieldTermsHookBehavior.php:154
 msgid "You must select at least one option."
-msgstr ""
+msgstr "Você deve selecionar ao menos uma opção."
 
-#: Plugin\Field\Fields\FieldList\View\Elements\formatter_from.ctp:8
 msgid "Default"
-msgstr ""
+msgstr "Padrão"
 
-#: Plugin\Field\Fields\FieldList\View\Elements\formatter_from.ctp:9
 msgid "Key"
-msgstr ""
+msgstr "Chave"
 
-#: Plugin\Field\Fields\FieldList\View\Elements\settings_from.ctp:5
 msgid "Radio buttons"
-msgstr ""
+msgstr "Radio buttons"
 
-#: Plugin\Field\Fields\FieldList\View\Elements\settings_from.ctp:5
 msgid "Checkboxes"
-msgstr ""
+msgstr "Checkboxes"
 
-#: Plugin\Field\Fields\FieldList\View\Elements\settings_from.ctp:7
 msgid "List Type"
-msgstr ""
+msgstr "Listar tipos"
 
-#: Plugin\Field\Fields\FieldList\View\Elements\settings_from.ctp:14
 msgid "Options"
-msgstr ""
+msgstr "Opções"
 
-#: Plugin\Field\Fields\FieldList\View\Elements\settings_from.ctp:20
-msgid ""
-"The possible values this field can contain. Enter one value per line, in the "
-"format <b>key|label</b>."
-msgstr ""
+msgid "The possible values this field can contain. Enter one value per line, in the format <b>key|label</b>."
+msgstr "Valores possíveis que este campo pode conter. Entre um valor por linha, no formato <b>key|label</b>."
 
-#: Plugin\Field\Fields\FieldList\View\Elements\settings_from.ctp:21
-msgid ""
-"The key is the stored value. The label will be used in displayed values and "
-"edit forms."
-msgstr ""
+msgid "The key is the stored value. The label will be used in displayed values and edit forms."
+msgstr "A chave é o valor guardado. A etiqueta será usada nos valores mostrados e formulários editados."
 
-#: Plugin\Field\Fields\FieldList\View\Elements\settings_from.ctp:22
-msgid ""
-"The label is optional: if a line contains a single string, it will be used "
-"as key and label."
-msgstr ""
+msgid "The label is optional: if a line contains a single string, it will be used as key and label."
+msgstr "A etiqueta é opcional: se uma linha contem uma simples strin, ele será usada como chave da etiqueta."
 
-#: Plugin\Field\Fields\FieldText\Model\Behavior\FieldTextHookBehavior.php:73
 msgid "Max. %s characters length."
-msgstr ""
+msgstr "Máximo de %s letras de comprimento"
 
-#: Plugin\Field\Fields\FieldText\Model\Behavior\FieldTextHookBehavior.php:84
 msgid "Field required."
-msgstr ""
+msgstr "Campo necessário."
 
-#: Plugin\Field\Fields\FieldText\Model\Behavior\FieldTextHookBehavior.php:93
 msgid "Invalid field."
-msgstr ""
+msgstr "Campo inválido"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\formatter_from.ctp:10
 msgid "Full"
-msgstr ""
+msgstr "Cheio"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\formatter_from.ctp:11
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\formatter_from.ctp:8
 msgid "Plain"
-msgstr ""
+msgstr "Pleno"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\formatter_from.ctp:12
 msgid "Trimmed"
-msgstr ""
+msgstr "Aparado"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\formatter_from.ctp:26
 msgid "Trim length or read-more-cutter"
-msgstr ""
+msgstr "Tamanho do corte ou read-more-cutter"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\formatter_from.ctp:32
-msgid ""
-"Numeric value will convert content to plain text and then trim it to the "
-"especified number of chars. i.e.: 400"
-msgstr ""
+msgid "Numeric value will convert content to plain text and then trim it to the especified number of chars. i.e.: 400"
+msgstr "Valor numérico que converterá o conteúdo para pleno texto e então corta-o no tamanho especificado de caracteres. ex.: 400"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\formatter_from.ctp:33
-msgid ""
-"String value will cut the content in two by the specified string, the first "
-"part will be displayed. i.e.: &lt;!-- readmore --&gt;"
-msgstr ""
+msgid "String value will cut the content in two by the specified string, the first part will be displayed. i.e.: &lt;!-- readmore --&gt;"
+msgstr "Tamanho da string que cortará o conteúdo em 2, o primeiro será mostrado. ex.: &lt;!-- leia mais --&gt;"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:7
 msgid "Text field"
-msgstr ""
+msgstr "Campo de texto"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:8
 msgid "Long text"
-msgstr ""
+msgstr "Texto longo"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:10
 msgid "Type of content"
-msgstr ""
+msgstr "Tipo de conteúdo"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:20;32
 msgid "Plain text"
-msgstr ""
+msgstr "Texto pleno"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:21;41
 msgid "Full HTML"
-msgstr ""
+msgstr "Full HTML"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:22;48
 msgid "Filtered HTML"
-msgstr ""
+msgstr "HTML filtrado"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:23;57
 msgid "Markdown"
-msgstr ""
+msgstr "Markdown"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:25
 msgid "Text processing"
-msgstr ""
+msgstr "Processando texto"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:34
 msgid "No HTML tags allowed."
-msgstr ""
+msgstr "Nenhuma tag HTML permitido."
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:35;43;50
 msgid "Web page addresses and e-mail addresses turn into links automatically."
-msgstr ""
+msgstr "Transformar automaticamente links e endereços de email em links"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:36;52
 msgid "Lines and paragraphs break automatically."
-msgstr ""
+msgstr "Quebrar linhas e parágrafos automaticamente."
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:51
-msgid ""
-"Allowed HTML tags: &lt;a&gt; &lt;em&gt; &lt;strong&gt; &lt;cite&gt; &lt;"
-"blockquote&gt; &lt;code&gt; &lt;ul&gt; &lt;ol&gt; &lt;li&gt; &lt;dl&gt; &lt;"
-"dt&gt; &lt;dd&gt;"
-msgstr ""
+msgid "Allowed HTML tags: &lt;a&gt; &lt;em&gt; &lt;strong&gt; &lt;cite&gt; &lt;blockquote&gt; &lt;code&gt; &lt;ul&gt; &lt;ol&gt; &lt;li&gt; &lt;dl&gt; &lt;dt&gt; &lt;dd&gt;"
+msgstr "Permitir tags HTML: &lt;a&gt; &lt;em&gt; &lt;strong&gt; &lt;cite&gt; &lt;blockquote&gt; &lt;code&gt; &lt;ul&gt; &lt;ol&gt; &lt;li&gt; &lt;dl&gt; &lt;dt&gt; &lt;dd&gt;"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:59
 msgid "<a href=\"%s\" target=\"_blank\">Markdown</a> text format allowed only."
-msgstr ""
+msgstr "<a href=\"%s\" target=\"_blank\">Markdown</a> permitido somente no formato de texto."
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:75
 msgid "Max lenght"
-msgstr ""
+msgstr "Comprimento máximo"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:79
-msgid ""
-"This is only used if your Type of content is a `Text field`. This will limit "
-"the subscriber to typing X number of characters in your textbox."
-msgstr ""
+msgid "This is only used if your Type of content is a `Text field`. This will limit the subscriber to typing X number of characters in your textbox."
+msgstr "Isto só é usado se seu tipo de conteúdo é um `Text field`. Ele limitará o inscrito de digitar X números de letras no textbox."
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:85
 msgid "Validation rule"
-msgstr ""
+msgstr "Regra de validação"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:89
-msgid ""
-"Enter your custom regular expression. i.e.: \"/^[a-z0-9]{3,}$/i\" (Only "
-"letters and integers, min 3 characters)"
-msgstr ""
+msgid "Enter your custom regular expression. i.e.: \"/^[a-z0-9]{3,}$/i\" (Only letters and integers, min 3 characters)"
+msgstr "Entre sua expressão regular customizada. ex.: \"/^[a-z0-9]{3,}$/i\" (Somente letras e integrais, min 3 letras)"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:95
 msgid "Validation message"
-msgstr ""
+msgstr "Mensagem de validação"
 
-#: Plugin\Field\Fields\FieldText\View\Elements\settings_from.ctp:99
 msgid "This is only used if `Validation rule` has been set."
-msgstr ""
+msgstr "Isto é somente usado se `Regra de Validação` não for configurada."
 
-#: Plugin\Field\Fields\FieldText\View\Helper\FieldTextHookHelper.php:198
 msgid "Turn on JavaScript to see the email address."
-msgstr ""
+msgstr "Ativar JavaScript para visuzlizar o endereço de email."
 
-#: Plugin\Locale\View\Elements\locale_language_switcher_settings.ctp:1
 msgid "Display language flag icon"
-msgstr ""
+msgstr "Mostrar o ícone da bandeira do idioma"
 
-#: Plugin\Locale\View\Elements\locale_language_switcher_settings.ctp:2
 msgid "Display language name"
-msgstr ""
+msgstr "Mostrar o nome do idioma"
 
-#: Plugin\User\Controller\PermissionsController.php:101
 msgid "Field: %s"
-msgstr ""
+msgstr "Campo: %s"
 
 msgid "Theme: %s"
 msgstr "Tema: %s"
@@ -1690,30 +834,23 @@ msgstr "Tema: %s"
 msgid "Module: %s"
 msgstr "Módulo: %s"
 
-#: Plugin\Node\View\Elements\search_block.ctp:25
 msgid "Keywords"
-msgstr ""
+msgstr "Palavra-chave"
 
 msgid "Search"
 msgstr "Buscar"
 
-#: Plugin\Node\View\Elements\search_block_settings.ctp:16
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\formatter_from.ctp:18
-#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:61
 msgid "URL prefix"
-msgstr ""
+msgstr "Prefixo da URL"
 
-#: Plugin\Node\View\Elements\search_block_settings.ctp:20
 msgid "Adds a prefix to each search URL query."
-msgstr ""
+msgstr "Adicionar um parâmetro para cada URL"
 
-#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:38;39;40
 msgid "%s Minutes"
-msgstr ""
+msgstr "%s Minutos"
 
-#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:41
 msgid "%s Hour"
-msgstr ""
+msgstr "%s Hora"
 
 msgid "%s Hours"
 msgstr "%s Horas"
@@ -1727,273 +864,155 @@ msgstr "%s Semanas"
 msgid "published by <a href=\"%s\">%s</a>"
 msgstr "publicado por <a href=\"%s\">%s</a>"
 
-#: View\Elements\theme_node.ctp:29
-#, fuzzy
 msgid "on %s"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"no %s\n"
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"no %s\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"el %s"
+msgstr "no %s"
 
-#: View\Elements\theme_node.ctp:29
-#, fuzzy
 msgid "M d, Y H:i"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"d/m/Y \\a \\l\\a\\s H:i\n"
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"d \\d\\e M, Y H:i\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"d \\d\\e M, Y H:i"
+msgstr "d/m/Y \\a \\l\\a\\s H:ii"
 
 msgid "Read More"
 msgstr "Ler Mais"
 
-#: Plugin\System\Console\Command\Task\UtilityTask.php:141
 msgid "Your database does not have any tables."
-msgstr ""
+msgstr "Seu banco de dados está vazio"
 
-#: Plugin\Taxonomy\Fields\FieldTerms\Model\Behavior\FieldTermsHookBehavior.php:141
 msgid "This field cannot hold more than 2 values."
-msgstr ""
+msgstr "Este campo não pode ter mais do que 2 valores"
 
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\edit.ctp:23
 msgid "You must <a href=\"%s\">select a vocabulary</a> for this field!"
-msgstr ""
+msgstr "Você deve <a href=\"%s\">selecionar um vocabulário</a> para este campo!"
 
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\formatter_from.ctp:9
 msgid "Link (localized)"
-msgstr ""
+msgstr "Link (localizado)"
 
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\formatter_from.ctp:10
 msgid "Plain (localized)"
-msgstr ""
+msgstr "Plemo(localized)"
 
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\formatter_from.ctp:23
-msgid ""
-"Valid only when format is \"Link (localized)\". Adds a prefix to each term "
-"link url."
-msgstr ""
+msgid "Valid only when format is \"Link (localized)\". Adds a prefix to each term link url."
+msgstr "Válido somente quando o formato é \"Link (localized)\". Adiciona um prefixo para cada url do termo"
 
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:7
 msgid "Vocabulary *"
-msgstr ""
+msgstr "Vocabulário *"
 
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:11
 msgid "The vocabulary which supplies the options for this field."
-msgstr ""
+msgstr "O vocabulário que fornece as opções para este campo."
 
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:18
 msgid "Check boxes/radio buttons"
-msgstr ""
+msgstr "Check boxes/radio buttons"
 
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:19
 msgid "Select list"
-msgstr ""
+msgstr "Lista de seleção"
 
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:20
 msgid "Autocomplete term (tagging)"
-msgstr ""
+msgstr "Termo autocompletar (tagging)"
 
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:23
 msgid "Element Type"
-msgstr ""
+msgstr "Tipo de elemento"
 
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:27
-msgid ""
-"The type of form element you would like to present to the user when creating "
-"this field."
-msgstr ""
+msgid "The type of form element you would like to present to the user when creating this field."
+msgstr "O tipo de elemento que você gostaria de apresentar para o usuário quando criar este campo"
 
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:33
 msgid "Unlimited"
-msgstr ""
+msgstr "Ilimitado"
 
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:35
 msgid "Number of values"
-msgstr ""
+msgstr "Valores de números"
 
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Elements\settings_from.ctp:39
 msgid "Maximum number of values users can enter for this field."
-msgstr ""
+msgstr "Número máximo de valores de usuários podem entrar neste campo."
 
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Helper\FieldTermsHookHelper.php:85
 msgid "Type in a search term"
-msgstr ""
+msgstr "Digite um termo para buscar"
 
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Helper\FieldTermsHookHelper.php:86
 msgid "No results"
-msgstr ""
+msgstr "Sem resultados"
 
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Helper\FieldTermsHookHelper.php:87
 msgid "Searching..."
-msgstr ""
+msgstr "Buscando"
 
-#: Plugin\Taxonomy\Fields\FieldTerms\View\Helper\FieldTermsHookHelper.php:88
 msgid "x"
-msgstr ""
+msgstr "x"
 
-#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:9
-#, fuzzy
 msgid "Vocabularies"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Vocabulários\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Vocabularios"
+msgstr "Vocabulários"
 
-#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:21
 msgid "Show content count"
-msgstr ""
+msgstr "Mostrar contador de conteúdo"
 
-#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:29
 msgid "Show vocabulary and its terms as tree"
-msgstr ""
+msgstr "Mostrar vocabulário e seus termos como árvore"
 
-#: Plugin\Taxonomy\View\Elements\taxonomy_vocabularies_settings.ctp:36
-#, fuzzy
 msgid "Cache terms counters for"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Cache os contadores por\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Cachear los contadores por"
+msgstr "Cache os contadores por"
 
-#: View\Errors\error400.ctp:4 View\Errors\error500.ctp:4
-#: View\Errors\private_action.ctp:4
 msgid "Error"
-msgstr ""
+msgstr "Erro"
 
-#: View\Errors\error400.ctp:5
-msgid ""
-"The requested address %s was not found. <br/> There are no translations "
-"available or you have not the sufficient permissions."
-msgstr ""
+msgid "The requested address %s was not found. <br/> There are no translations available or you have not the sufficient permissions."
+msgstr "Endereço solicitado não foi encontrado. <br/>Não há traduções disponíveis ou você não tem as permissões necessárias."
 
-#: View\Errors\error400.ctp:6 View\Errors\error500.ctp:6
-#: View\Errors\private_action.ctp:13
 msgid "<a href=\"%s\">Go to home page</a>"
-msgstr ""
+msgstr "<a href=\"%s\">Ir para home</a>"
 
-#: View\Errors\error500.ctp:5
 msgid "An Internal Error Has Occurred."
-msgstr ""
+msgstr "Um erro interno ocorreu."
 
-#: View\Errors\private_action.ctp:2
 msgid "Private Method in %s"
-msgstr ""
+msgstr "Método privado em %s"
 
-#: View\Errors\private_action.ctp:5
 msgid "%s%s cannot be accessed directly."
-msgstr ""
+msgstr "%s%s não pode ser acessado diretamente."
 
-#: View\Errors\private_action.ctp:9
 msgid "Notice"
-msgstr ""
+msgstr "Aviso"
 
-#: View\Errors\private_action.ctp:10
 msgid "If you want to customize this error message, create %s"
-msgstr ""
+msgstr "Se desejar customizar este erro crie %S"
 
-#: View\Themed\Admin\Layouts\default.ctp:52
-#, fuzzy
 msgid "View site"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (24).po  #-#-#-#-#\n"
-"Exibir site\n"
-"#-#-#-#-#  core.po  #-#-#-#-#\n"
-"Ver sitio"
+msgstr "Exibir site"
 
-#: View\Themed\Default\app\ThemeDefault\View\Elements\settings.ctp:1
 msgid "Image slider folder"
-msgstr ""
+msgstr "Arquivo dos sliders"
 
-#: View\Themed\Default\app\ThemeDefault\View\Elements\settings.ctp:17
 msgid "Header top"
-msgstr ""
+msgstr "Cabeçalho superior"
 
-#: View\Themed\Default\app\ThemeDefault\View\Elements\settings.ctp:18
 msgid "Header bottom"
-msgstr ""
+msgstr "Cabeçalho inferior"
 
-#: View\Themed\Default\app\ThemeDefault\View\Elements\settings.ctp:19
-#, fuzzy
 msgid "Links"
-msgstr ""
-"#-#-#-#-#  default.pot (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  merge.pot  #-#-#-#-#\n"
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Links\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Enlaces"
+msgstr "Links"
 
 msgid "Text"
 msgstr "Texto"
 
-#: View\Themed\Default\app\ThemeDefault\View\Elements\settings.ctp:21
 msgid "Main Background"
-msgstr ""
+msgstr "Background Principal"
 
-#: View\Themed\Default\app\ThemeDefault\View\Elements\settings.ctp:22
 msgid "Footer"
-msgstr ""
+msgstr "Rodapé"
 
-#: View\Themed\Default\app\ThemeDefault\View\Elements\theme_default_slider_settings.ctp:2
-msgid ""
-"Enter one image per line, in the format <b>file name|url|caption</b>. e.g.:"
-msgstr ""
+msgid "Enter one image per line, in the format <b>file name|url|caption</b>. e.g.:"
+msgstr "Entre uma imagem por linha, no formato <b>file name|url|caption</b>. e.g.:"
 
-#: View\Themed\Default\app\ThemeDefault\View\Elements\theme_default_slider_settings.ctp:9
-msgid ""
-"Image files should be stoted in /files/<b>%s</b>, you can change this folder "
-"in the <a href=\"%s\">theme settings panel</a>"
-msgstr ""
+msgid "Image files should be stoted in /files/<b>%s</b>, you can change this folder in the <a href=\"%s\">theme settings panel</a>"
+msgstr "Arquivos de imagem devem ser salvos em /files/<b>%s</b>, você pode alterar esta pasta em <a href=\"%s\">configurações de template no painel</a>"
 
-#: View\Themed\Default\app\ThemeDefault\View\Elements\theme_default_slider_settings.ctp:10
 msgid "Special tags are allowed"
-msgstr ""
+msgstr "Tags especiais são permitidas"
 
-#: View\Themed\Default\app\ThemeDefault\View\Elements\settings.ctp:3
 msgid "Recomended images size:"
-msgstr ""
+msgstr "Tamanho de imagem recomendado:"
 
-#, fuzzy
 msgid "Field API to add fields to entities like nodes and users."
-msgstr ""
-"#-#-#-#-#  core (10).po  #-#-#-#-#\n"
-"API Campos, permite agregar campos a entidades como nodos y usuarios.\n"
-"#-#-#-#-#  core (9).po  #-#-#-#-#\n"
-"Campos API, permite agregar campos a entidades como nodes e usuários."
+msgstr "Campos API, permite agregar campos a entidades como nodes e usuários."
 
-msgid ""
-"Adds language handling functionality and enables the translation of the user "
-"interface to languages other than English"
-msgstr ""
-"Permite gerenciar idiomas e traduzir a interface dos usuários de outras "
-"linguas alémd o inglês."
+msgid "Adds language handling functionality and enables the translation of the user interface to languages other than English"
+msgstr "Permite gerenciar idiomas e traduzir a interface dos usuários de outras linguas alémd o inglês."
 
-#, fuzzy
 msgid "List"
-msgstr ""
-"#-#-#-#-#  core (11).po  #-#-#-#-#\n"
-"Lista\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Lista\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Listado"
+msgstr "Lista"
 
 msgid "Translatable entries"
 msgstr "Entradas traduzíveis"
@@ -2007,21 +1026,8 @@ msgstr "Pacotes de tradução"
 msgid "Add New Language"
 msgstr "Novo Idioma"
 
-#, fuzzy
 msgid "Update Options"
-msgstr ""
-"#-#-#-#-#  core (11).po  #-#-#-#-#\n"
-"Opções de modificação\n"
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Opções de atualização\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Opções de atualização.\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Opciones de Modificación\n"
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Opções de atualização\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Opciones de Modificación"
+msgstr "Opções de atualização"
 
 msgid "Language name"
 msgstr "Nome do idioma"
@@ -2029,11 +1035,8 @@ msgstr "Nome do idioma"
 msgid "Language code *"
 msgstr "Código do idioma *"
 
-msgid ""
-"<a href=\"%s\" target=\"_blank\">ISO 639-3</a> compliant language identifier."
-msgstr ""
-"Identificador de idioma compatível <a href=\"%s\" target=\"_blank\">ISO "
-"639-3</a>."
+msgid "<a href=\"%s\" target=\"_blank\">ISO 639-3</a> compliant language identifier."
+msgstr "Identificador de idioma compatível <a href=\"%s\" target=\"_blank\">ISO 639-3</a>."
 
 msgid "Language name in English *"
 msgstr "Nome do idioma em Inglês *"
@@ -2056,17 +1059,8 @@ msgstr "Direita para a esquerda"
 msgid "Direction that text in this language is presented."
 msgstr "Direção deste texto nesta linguagem está presente."
 
-#, fuzzy
 msgid "Add"
-msgstr ""
-"#-#-#-#-#  core (11).po  #-#-#-#-#\n"
-"Adicionar\n"
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Adicionar\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Adicionar\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Agregar"
+msgstr "Adicionar"
 
 msgid "English name"
 msgstr "Nome em inglês"
@@ -2080,88 +1074,26 @@ msgstr "Direção"
 msgid "Status"
 msgstr "Estado"
 
-#, fuzzy
 msgid "Actions"
-msgstr ""
-"#-#-#-#-#  core (11).po  #-#-#-#-#\n"
-"Ações\n"
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Ações\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Acciones\n"
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Ações\n"
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Ações\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Acciones\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Ações\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Acciones\n"
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Ações\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Acciones"
+msgstr "Ações"
 
 msgid "edit"
 msgstr "editar"
 
-#, fuzzy
 msgid "delete"
-msgstr ""
-"#-#-#-#-#  core (11).po  #-#-#-#-#\n"
-"eliminar\n"
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"eliminar\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"eliminar\n"
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"apagar\n"
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Excluir\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"eliminar\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"apagar\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"borrar\n"
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"eliminar\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"eliminar"
+msgstr "eliminar"
 
 msgid "set as default"
 msgstr "Definir como padrão"
 
-#, fuzzy
 msgid "Default language"
-msgstr ""
-"#-#-#-#-#  core (11).po  #-#-#-#-#\n"
-"Idioma padrão\n"
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"idioma padrão\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Lenguaje por defecto"
+msgstr "Idioma padrão"
 
 msgid "Save language"
 msgstr "Salvar idioma"
 
-#, fuzzy
 msgid "Update"
-msgstr ""
-"#-#-#-#-#  core (11).po  #-#-#-#-#\n"
-"Atualizar\n"
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Atualizar\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Atualizar\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Modificar\n"
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Atualizar\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Modificar"
+msgstr "Atualizar"
 
 msgid "Enable selected languages"
 msgstr "Ativar idiomas selecionados"
@@ -2181,12 +1113,8 @@ msgstr "Editando idioma"
 msgid "Custom flag icon"
 msgstr "Ícone de bandeira personalizado"
 
-msgid ""
-"Optional URL of your language flag icon, if your language flag isn't in the "
-"above list."
-msgstr ""
-"URL opicional para a bandeira de idioma, se o seu idioma não está na lista "
-"acima."
+msgid "Optional URL of your language flag icon, if your language flag isn't in the above list."
+msgstr "URL opicional para a bandeira de idioma, se o seu idioma não está na lista acima."
 
 msgid "There are no translations to display"
 msgstr "Não há traduções disponíveis"
@@ -2215,17 +1143,8 @@ msgstr "Download"
 msgid "uninstall"
 msgstr "desinstalar"
 
-#, fuzzy
 msgid "Are you sure ?"
-msgstr ""
-"#-#-#-#-#  core (11).po  #-#-#-#-#\n"
-"Confirmar ?\n"
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Você tem certeza ?\n"
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Confirmar ?\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Está seguro ?"
+msgstr "Você tem certeza ?"
 
 msgid "Translation Packages"
 msgstr "Pacotesd e tradução"
@@ -2236,359 +1155,128 @@ msgstr "Editando entrada"
 msgid "Custom Language"
 msgstr "Idioma personalizado"
 
-#, fuzzy
 msgid "Allows administrators to customize the site navigation menu."
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Permite aos administradores personalizar os menus de navegação do site.\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Permite a los administradores personalizar los menú de navegación del sitio."
+msgstr "Permite aos administradores personalizar os menus de navegação do site."
 
-#, fuzzy
 msgid "New Menu"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Novo menu\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Nuevo Menú"
+msgstr "Novo menu"
 
-#, fuzzy
 msgid "Add menu"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Adicionar menu\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Agregar menú"
+msgstr "Adicionar menu"
 
-#, fuzzy
 msgid "Save & add links"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Salvar e adicionar links\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Crear y agregar enlaces"
+msgstr "Salvar e adicionar links"
 
 msgid "Title"
 msgstr "Título"
 
-#, fuzzy
 msgid "links"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"links\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"enlaces"
+msgstr "links"
 
-#, fuzzy
 msgid "add link"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"adicionar links\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"agregar enlace"
+msgstr "adicionar links"
 
-#, fuzzy
 msgid "Menus"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Menus\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Menús\n"
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Menus\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Menus"
+msgstr "Menus"
 
-#, fuzzy
 msgid "Editing menu"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Editando menu\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Editando menú"
+msgstr "Editando menu"
 
 msgid "Title *"
 msgstr "Título *"
 
-#, fuzzy
 msgid "Editing Menu Links"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Editando links do menu\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Editando Enlaces de Menú"
+msgstr "Editando links do menu"
 
-#, fuzzy
 msgid "Editing menu links"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Editando links do menu\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Editando enlaces de menú"
+msgstr "Editando links do menu"
 
-#, fuzzy
 msgid "Save changes"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Salvar modificações\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Guardar cambios\n"
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Salvar modificações\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Guardar cambios"
+msgstr "Salvar modificações"
 
-#, fuzzy
 msgid "Editing Link"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Editando link\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Editando Enlace"
+msgstr "Editando link"
 
-#, fuzzy
 msgid "Editing link"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Editando link\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Editando enlace"
+msgstr "Editando link"
 
-#, fuzzy
 msgid "Edit menu link"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Editar link do menu\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Editar enlace de menú"
+msgstr "Editar link do menuEditar enlace de menú"
 
-#, fuzzy
 msgid "Menu link title *"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Título do link *\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Título de enlace *"
+msgstr "Título do link *"
 
-#, fuzzy
 msgid "The text to be used for this link in the menu."
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Texto a ser utilizado para este link no menu.\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Texto a utilizar para este enlace en el menú."
+msgstr "Texto a ser utilizado para este link no menu."
 
-#, fuzzy
 msgid "Path *"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Caminho *\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Ruta *"
+msgstr "Caminho *"
 
-#, fuzzy
-msgid ""
-"The path for this menu link. This can be an internal QuickApps path such as /"
-"d/type-of-content/my-post or an external URL such as http://quickapps.es. "
-"Enter '/' to link to the front page."
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"O caminho para este link. Pode ser um caminho interno do QuickApps como /d/"
-"mi-node-slug ou uma URL externa como http://quickapps.es. Digite '/' para "
-"linkar com a página inicial.\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"La ruta para este enlace. Puede ser una ruta interna a QuickApps como /d/mi-"
-"node-slug or una URL externa como http://quickapps.es. Ingrese '/' para "
-"enlazar con la portada."
+msgid "The path for this menu link. This can be an internal QuickApps path such as /d/type-of-content/my-post or an external URL such as http://quickapps.es. Enter '/' to link to the front page."
+msgstr "O caminho para este link. Pode ser um caminho interno do QuickApps como /d/mi-node-slug ou uma URL externa como http://quickapps.es. Digite '/' para linkar com a página inicial."
 
-#, fuzzy
 msgid "Shown when hovering over the menu link."
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Exibir ao passar sobre o link do menu.\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Se muestra al pasar sobre el enlace."
+msgstr "Exibir ao passar sobre o link do menu."
 
-#, fuzzy
 msgid "Target window"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Abrir em\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Abrir en"
+msgstr "Abrir em"
 
-#, fuzzy
 msgid "Same window"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Mesma janela\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Misma ventana"
+msgstr "Mesma janela"
 
-#, fuzzy
 msgid "New window"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Nova janela\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Nueva ventana"
+msgstr "Nova janela"
 
-#, fuzzy
 msgid "Target browser window when the link is clicked."
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Janela de destino do navegador quando o link for clickado.\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Ventana de destino del navegador cuando el enlace es clickeado."
+msgstr "Janela de destino do navegador quando o link for clickado."
 
-#, fuzzy
 msgid "Show as expanded"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Exibir quando expandido\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Mostrar expandido"
+msgstr "Exibir quando expandido"
 
-#, fuzzy
-msgid ""
-"If selected and this menu link has children, the menu will always appear "
-"expanded."
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Se estiver marcado e este link contém filhos, o menu aparecerá como "
-"expandido.\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Si está marcado y este enlace tiene hijos, el menu aparecerá como expandido."
+msgid "If selected and this menu link has children, the menu will always appear expanded."
+msgstr "Se estiver marcado e este link contém filhos, o menu aparecerá como expandido."
 
-#, fuzzy
 msgid "Enabled"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Ativado\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Disponible"
+msgstr "Ativado"
 
-#, fuzzy
 msgid "Menu links that are not enabled will not be listed in any menu."
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Os links do menu que não estiverem disponíveis não serão exibidos em nenhum "
-"menu.\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Enlaces de menú que no estén disponibles no serán listados en ningún menú."
+msgstr "Os links do menu que não estiverem disponíveis não serão exibidos em nenhum menu."
 
-#, fuzzy
 msgid "Go to <a href=\"%s\">menu links</a> list to reparent this link."
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"ir para <a href=\"%s\">Links do menu</a> para ligar este link.\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Vaya al listado de <a href=\"%s\">enlaces de menú</a> para emparentar este "
-"enlace."
+msgstr "Vá para <a href=\"%s\">Links do menu</a> para ligar este link."
 
-#, fuzzy
 msgid "Parent link"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Link mestre\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Enlace padre"
+msgstr "Link mestre"
 
-#, fuzzy
 msgid "Add menu link"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Adicionar link do menu\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Agregar enlace de menú"
+msgstr "Adicionar link do menu"
 
-#, fuzzy
 msgid "Add Menu Link"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Adicionar link do menu\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Agregar Enlace de Menú"
+msgstr "Adicionar link do menu"
 
-#, fuzzy
 msgid "Delete selected link ?"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Eliminar o link selecionado ?\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Eliminar el enlace selecionado ?"
+msgstr "Eliminar o link selecionado ?"
 
-#, fuzzy
 msgid "Show as selected:"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Exibir como selecionado:\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Mostrar como seleccionado:"
+msgstr "Exibir como selecionado:"
 
-#, fuzzy
 msgid "When following PHP code returns TRUE (experts only)"
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Quando o seguinte código PHP RETORNAR TRUE (apenas experts)\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Cuando el siguiente código PHP retorne TRUE (sólo expertos)"
+msgstr "Quando o seguinte código PHP RETORNAR TRUE (apenas experts)"
 
 msgid "When URL match any those listed"
 msgstr "Cuando la URL coincide con cualquiera de las listadas"
 
-#, fuzzy
-msgid ""
-"Specify pages by using their paths. Enter one path per line. The '*' "
-"character is a wildcard. Example paths are blog for the blog page and blog/* "
-"for every blog entry. '/' is the front page."
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Especifique as páginas usando os seus caminhos. Insira um caminho por linha. "
-"O caracter '*' é um curinga.Exemplo, são caminhos blog para a página do "
-"blog, e blog / * para cada entrada de blog. '/' É a primeira página.\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Indique páginas usando su ruta. Ingrese una ruta por línea. El caracter '*' "
-"es un comodín. Ejemplos de rutas son blog para la página de blog y /blog/* "
-"para cualquier entrada de blog. '/' es la página principal.\n"
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Especifique as páginas ultilizando seu caminho. Insira um caminho por lista. "
-"o caracter '*' é um coringa. Exemplo, são caminhos blog para a página do "
-"blog e blog /blog/* para qualquer entrada de blog. '/' é a página "
-"principal.\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Indique páginas usando su ruta. Ingrese una ruta por línea. El caracter '*' "
-"es un comodín. Ejemplos de rutas son blog para la página de blog y /blog/* "
-"para cualquier entrada de blog. '/' es la página principal."
+msgid "Specify pages by using their paths. Enter one path per line. The '*' character is a wildcard. Example paths are blog for the blog page and blog/* for every blog entry. '/' is the front page."
+msgstr "Especifique as páginas ultilizando seu caminho. Insira um caminho por lista. o caracter '*' é um coringa. Exemplo, são caminhos blog para a página do blog e blog /blog/* para qualquer entrada de blog. '/' é a página principal."
 
-#, fuzzy
-msgid ""
-"If the PHP option is chosen, enter PHP code between &lt;?php ?&gt;. Note "
-"that executing incorrect PHP code can break your QuickApps site."
-msgstr ""
-"#-#-#-#-#  core (13).po  #-#-#-#-#\n"
-"Se a opção for escolhida PHP, insira o código PHP entre &lt;?php ?&gt;. Note-"
-"se que a execução de código PHP incorreto pode quebrar o seu site "
-"QuickApps..\n"
-"#-#-#-#-#  core (14).po  #-#-#-#-#\n"
-"Si selecciona la opción PHP, ingrese el código PHP entre &lt;?php ?&gt;. La "
-"ejecución de código PHP incorrecto puede romper su sitio QuickApps.\n"
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-" Se a opção PHP for marcada, insira o código entre &lt;?php ?&gt;. A "
-"execução incorreta do código PHP pode comprometer a estrutura do site.\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Si se elige la opcion PHP, ingrese el código PHP entre &lt;?php ?&gt;. La "
-"ejecución de código PHP incorrecto puede romper su sitio QuickApps."
+msgid "If the PHP option is chosen, enter PHP code between &lt;?php ?&gt;. Note that executing incorrect PHP code can break your QuickApps site."
+msgstr "Se a opção for escolhida PHP, insira o código PHP entre &lt;?php ?&gt;. Note-QuickApps.."
 
 msgid "Allows content to be submitted to the site and displayed on pages."
 msgstr "Permite colocar conteúdo no site e mostrá-lo como página."
 
-msgid ""
-"Use articles for time-sensitive content like news, press releases or blog "
-"posts."
-msgstr ""
-"Use artigos para conteúdo essitivo ao tempo, como notícias, lançamentos ou "
-"posts de blog."
+msgid "Use articles for time-sensitive content like news, press releases or blog posts."
+msgstr "Use artigos para conteúdo essitivo ao tempo, como notícias, lançamentos ou posts de blog."
 
 msgid "Contents"
 msgstr "Conteúdo"
@@ -2596,15 +1284,8 @@ msgstr "Conteúdo"
 msgid "New Content"
 msgstr "Novo conteúdo"
 
-#, fuzzy
 msgid "Filter Options"
-msgstr ""
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Opções de filtro\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Opções de filtro.\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Opciones de Filtrado"
+msgstr "Opções de filtro"
 
 msgid "Front Page"
 msgstr "Página inicial"
@@ -2615,15 +1296,8 @@ msgstr "Destacado"
 msgid "Type"
 msgstr "Tipo"
 
-#, fuzzy
 msgid "Filter"
-msgstr ""
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Filtro\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Filtro\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Filtrar"
+msgstr "Filtro"
 
 msgid "Clear cache"
 msgstr "Limpar cache"
@@ -2634,15 +1308,8 @@ msgstr "Eliminar o conteúdo selecionado ?"
 msgid "Add Type"
 msgstr "Novo Tipo"
 
-#, fuzzy
 msgid "Name"
-msgstr ""
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Nome\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Nome\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Nombre"
+msgstr "Nome"
 
 msgid "display"
 msgstr "visualização"
@@ -2656,38 +1323,17 @@ msgstr "Campos"
 msgid "Field"
 msgstr "Campo"
 
-#, fuzzy
 msgid "move up"
-msgstr ""
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"mover para cima\n"
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"mover acima\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"mover arriba"
+msgstr "mover acima"
 
-#, fuzzy
 msgid "move down"
-msgstr ""
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"mover para baixo\n"
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"mover abaixo\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"mover abajo"
+msgstr "mover abaixo"
 
 msgid "configure"
 msgstr "configurar"
 
-#, fuzzy
 msgid "Label"
-msgstr ""
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Rótulo\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Rótulo\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Etiqueta"
+msgstr "Rótulo"
 
 msgid "Field Display Settings"
 msgstr "Configurações de visualização de Campo"
@@ -2719,15 +1365,8 @@ msgstr "%s Anos"
 msgid "Publishing"
 msgstr "Publicação"
 
-#, fuzzy
 msgid "Published"
-msgstr ""
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Publicado\n"
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Publicados\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Publicados"
+msgstr "Publicado"
 
 msgid "Promoted to front page"
 msgstr "Destacado na Página Inicial"
@@ -2744,38 +1383,20 @@ msgstr "Cache"
 msgid "-- No Cache --"
 msgstr "-- Sem Cache --"
 
-#, fuzzy
 msgid "Roles"
-msgstr ""
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"regras\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Regras\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Roles\n"
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Regras\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Roles"
+msgstr "Regras"
 
 msgid "Show content for specific roles"
 msgstr "Mostrar este node para as siguintes regras"
 
-msgid ""
-"Show this content only for the selected role(s). If you select no roles, the "
-"content will be visible to all users."
-msgstr ""
-"Mostrar o conteúdo apenas nas regras .Se você não selecionar regras, o "
-"conteúdo aparecerá para todos os usuários."
+msgid "Show this content only for the selected role(s). If you select no roles, the content will be visible to all users."
+msgstr "Mostrar o conteúdo apenas nas regras .Se você não selecionar regras, o conteúdo aparecerá para todos os usuários."
 
 msgid "Terms"
 msgstr "Termos"
 
-msgid ""
-"If no language is selected (-- Any --), node will show regardless of language"
-msgstr ""
-"Se nenhum idioma for selecionado (-- Qualquer --), o node mostrará "
-"independentemente do idioma"
+msgid "If no language is selected (-- Any --), node will show regardless of language"
+msgstr "Se nenhum idioma for selecionado (-- Qualquer --), o node mostrará independentemente do idioma"
 
 msgid "-- Any --"
 msgstr "-- Qualquer --"
@@ -2787,24 +1408,13 @@ msgid "Closed"
 msgstr "Fechado"
 
 msgid "Read Only"
-msgstr "Ler apenas"
+msgstr "Apenas leitura"
 
-#, fuzzy
 msgid "Settings"
-msgstr ""
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Configurações\n"
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Configurações\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Configurar"
+msgstr "Configurações"
 
-msgid ""
-"A short description (255 chars. max.) about this content. Will be used as "
-"page meta-description when rendering this content node."
-msgstr ""
-"uma breve descrição(255 car. máx.) sobre este conteúdo. Será utilizado como "
-"meta-descrição para a página deste node."
+msgid "A short description (255 chars. max.) about this content. Will be used as page meta-description when rendering this content node."
+msgstr "uma breve descrição(255 car. máx.) sobre este conteúdo. Será utilizado como meta-descrição para a página deste node."
 
 msgid "Editing"
 msgstr "Editando"
@@ -2848,15 +1458,8 @@ msgstr "atualizado"
 msgid "Required"
 msgstr "Requerido"
 
-#, fuzzy
 msgid "Add field"
-msgstr ""
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Novo campo\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Novo campo\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Nuevo campo"
+msgstr "Novo campo"
 
 msgid "Only of the type(s)"
 msgstr "Somente do tipo(s)"
@@ -2879,39 +1482,20 @@ msgstr "Nenhum resultado encontrado"
 msgid "Check if your spelling is correct."
 msgstr "Confira se a sua ortografia está correta."
 
-msgid ""
-"Remove quotes around phrases to search for each word individually. white cat "
-"will often show more results than \"white cat\"."
-msgstr ""
-"Elimine as aspas das frases para buscar cada palavra individualmente. Gato "
-"Branco produz mais resultados que \"Gato Branco\"."
+msgid "Remove quotes around phrases to search for each word individually. white cat will often show more results than \"white cat\"."
+msgstr "Elimine as aspas das frases para buscar cada palavra individualmente. Gato Branco produz mais resultados que \"Gato Branco\"."
 
-msgid ""
-"Consider loosening your query with OR. white OR cat will often show more "
-"results than white cat."
-msgstr ""
-"Considere alargar a sua pesquisa com 'OU'. branco 'OU' gato normalmente "
-"apresentará mais resultados que 'gato branco'."
+msgid "Consider loosening your query with OR. white OR cat will often show more results than white cat."
+msgstr "Considere alargar a sua pesquisa com 'OU'. branco 'OU' gato normalmente apresentará mais resultados que 'gato branco'."
 
-#, fuzzy
 msgid "Advanced Options"
-msgstr ""
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Opções avançadas\n"
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Opções avançadas\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Opciones Avanzadas"
+msgstr "Opções avançadas"
 
 msgid "Node container class suffix"
 msgstr "Node contém classe sufixo"
 
-msgid ""
-"A suffix to be applied to the CSS class of the node container. This allows "
-"for individual node styling."
-msgstr ""
-"Um sufixo para aplicar as classes CSS do conteúdo do node.isso permite "
-"utilizar individualmente o node."
+msgid "A suffix to be applied to the CSS class of the node container. This allows for individual node styling."
+msgstr "Um sufixo para aplicar as classes CSS do conteúdo do node.isso permite utilizar individualmente o node."
 
 msgid "Add content"
 msgstr "Adicionar conteúdo"
@@ -2922,33 +1506,17 @@ msgstr "Salvar conteúdo"
 msgid "Regenerate slug"
 msgstr "Regenerar slug"
 
-msgid ""
-"If this option is checked and title has changed then a new slug is generated."
-msgstr ""
-"Se esta opção está marcada e o título foi modificado então um novo slug foi "
-"criado."
+msgid "If this option is checked and title has changed then a new slug is generated."
+msgstr "Se esta opção está marcada e o título foi modificado então um novo slug foi criado."
 
-#, fuzzy
 msgid "Name *"
-msgstr ""
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Nome *\n"
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Nome *\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Nombre *"
+msgstr "Nome *"
 
-msgid ""
-"This text will be displayed as part of the list on the Add new content page"
-msgstr ""
-"Este texto se mostrará como parte da lista na página Adicionar Conteúdo"
+msgid "This text will be displayed as part of the list on the Add new content page"
+msgstr "Este texto se mostrará como parte da lista na página Adicionar Conteúdo"
 
-msgid ""
-"Describe this content type. The text will be displayed on the Add new "
-"content page."
-msgstr ""
-"Descrerver este tipo de conteúdo.O texto será exibido na página Adicionar "
-"Conteúdo"
+msgid "Describe this content type. The text will be displayed on the Add new content page."
+msgstr "Descrever este tipo de conteúdo.O texto será exibido na página Adicionar Conteúdo"
 
 msgid "Title field label *"
 msgstr "Título do rótulo do campo *"
@@ -3001,15 +1569,8 @@ msgstr "Salvar e adicionar campos"
 msgid "Editing Type"
 msgstr "Editando Tipo"
 
-#, fuzzy
 msgid "Content Types"
-msgstr ""
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Tipos de Conteúdo\n"
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Tipo de Conteúdo\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Tipos de Contenidos"
+msgstr "Tipos de Conteúdo"
 
 msgid "Label *"
 msgstr "Rótulo *"
@@ -3035,12 +1596,8 @@ msgstr "Opções de Visualização"
 msgid "Save field"
 msgstr "Salvar campo"
 
-msgid ""
-"Instructions to present to the user below this field on the editing form. "
-"(hookTags are allowed)"
-msgstr ""
-"Instruções para apresentar ao utilizador abaixo deste campo no formulário de "
-"edição. (hookTags permitidos)"
+msgid "Instructions to present to the user below this field on the editing form. (hookTags are allowed)"
+msgstr "Instruções para apresentar ao utilizador abaixo deste campo no formulário de edição. (hookTags permitidos)"
 
 msgid "Format"
 msgstr "Formato"
@@ -3069,613 +1626,235 @@ msgstr "Cache ativado"
 msgid "New ID *"
 msgstr "Novo ID *"
 
-msgid ""
-"A unique name for this content type. It must only contain lowercase letters, "
-"numbers, and underscores."
+msgid "A unique name for this content type. It must only contain lowercase letters, numbers, and underscores."
 msgstr ""
-"Identificador único para este tipo de conteúdo. Deve conter apenas letras "
-"minúsculas, numeros e underline (_)."
+"Identificador único para este tipo de conteúdo. Deve conter apenas letras minúsculas, numeros e underline (_)."
 
-#, fuzzy
 msgid "There are no fields to display"
-msgstr ""
-"#-#-#-#-#  core (15).po  #-#-#-#-#\n"
-"Não há campos a serem exibidos\n"
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Não há campos a serem mostrados\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"No hay campos para mostar"
+msgstr "Não há campos a serem mostrados"
 
-msgid ""
-"Are you sure that you want to delete this type of content. ? This action "
-"cannot be undone."
-msgstr ""
-"Tem certeza que deseja eliminar este tipo de conteúdo? Não é possível "
-"desfazer esta ação."
+msgid "Are you sure that you want to delete this type of content. ? This action cannot be undone."
+msgstr "Tem certeza que deseja eliminar este tipo de conteúdo? Não é possível desfazer esta ação."
 
 msgid "Field has been saved."
 msgstr "O campo foi salvo."
 
-msgid ""
-"Content items can be displayed using different view modes: Full, List, RSS, "
-"Print, etc. List is a short format that is typically used in lists of "
-"multiple content items. Full content is typically used when the content is "
-"displayed on its own page."
-msgstr ""
-"Os conteúdos podem ser exibidos em diferentes modos de visualização: Tela "
-"Cheia, Lista, RSS, Impressão, etc. Lista é um formato resumido que comumente "
-"se utiliza para exibir listas de conteúdos múltiplos. Tela cheia se ultiliza "
-"momumente quando o conteúdo é exibido na sua própria página."
+msgid "Content items can be displayed using different view modes: Full, List, RSS, Print, etc. List is a short format that is typically used in lists of multiple content items. Full content is typically used when the content is displayed on its own page."
+msgstr "Os conteúdos podem ser exibidos em diferentes modos de visualização: Tela Cheia, Lista, RSS, Impressão, etc. Lista é um formato resumido que comumente se utiliza para exibir listas de conteúdos múltiplos. Tela cheia se ultiliza momumente quando o conteúdo é exibido na sua própria página."
 
-msgid ""
-"Here, you can define which fields are shown and hidden when <em>%s</em> "
-"content is displayed in each view mode, and define how the fields are "
-"displayed in each view mode."
-msgstr ""
-"Aqui você pode definir quais campos devem ser exibidos ou ocultar quando o "
-"tipo de conteúdo <em>%s</em> é mostrado em cada um dos modos de "
-"visualização, asism como também a forma com que os campos são exibidos em "
-"cada modo de visualização."
+msgid "Here, you can define which fields are shown and hidden when <em>%s</em> content is displayed in each view mode, and define how the fields are displayed in each view mode."
+msgstr "Aqui você pode definir quais campos devem ser exibidos ou ocultar quando o tipo de conteúdo <em>%s</em> é mostrado em cada um dos modos de visualização, asism como também a forma com que os campos são exibidos em cada modo de visualização."
 
-#, fuzzy
 msgid "System Kernel."
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Núcleo de sistema.\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Núcleo del sistema."
+msgstr "Núcleo de sistema."
 
-#, fuzzy
-msgid "Blocks"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Blocos\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Bloques\n"
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Blocos\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Bloques"
+msgid "Blocos"
+msgstr "Blocos"
 
-#, fuzzy
 msgid ""
-"Configure what block content appears in your site's sidebars and other "
-"regions."
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Configura quais blocos aparecem nas barras laterais e outras regiões do "
-"site.\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Configura que bloques aparecen en las barras lateras y otras regiones de tu "
-"sitio."
+"Configure what block content appears in your site's sidebars and other regions."
+msgstr "Configura quais blocos aparecem nas barras laterais e outras regiões do site."
 
-#, fuzzy
 msgid "Manage content types."
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Gestão de conteúdo.\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Gestión de tipos de contenidos."
+msgstr "Gestão de conteúdo."
 
-#, fuzzy
 msgid ""
-"Add new menus to your site, edit existing menus, and rename and reorganize "
-"menu links."
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Adicionar um menu novo ao seu site,editar menu existente, renomear e "
-"reorganizar os links do menu.\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Agrege nuevos menus a su sitio, edite menus ya existentes, y renombre y "
-"reorganice los vínculos de sus menus."
+"Add new menus to your site, edit existing menus, and rename and reorganize menu links."
+msgstr "Adicionar um menu novo ao seu site,editar menu existente, renomear e reorganizar os links do menu."
 
-#, fuzzy
 msgid "Taxonomy"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Taxonomia\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Taxonomía\n"
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Taxonomia\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Taxonomía"
+msgstr "Taxonomia"
 
-#, fuzzy
 msgid "Manage tagging, categorization, and classification of your content."
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Gerenciar tagging, categorização e classificação do seu conteúdo.\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Gestión de etiquetado, categorización, y clasificación de su contenido."
+msgstr "Gerenciar tagging, categorização e classificação do seu conteúdo."
 
-#, fuzzy
 msgid "Install New Module"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Instalar Novo Módulo\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Instalar Nuevo Módulo"
+msgstr "Instalar Novo Módulo"
 
-#, fuzzy
 msgid "Site information"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Informação do site\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Información del sitio"
+msgstr "Informação do site"
 
-#, fuzzy
 msgid "Site name *"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Nome do site *\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Nombre del sitio *"
+msgstr "Nome do site *"
 
-#, fuzzy
 msgid "Slogan"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Slogan\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Eslogan"
+msgstr "Slogan"
 
-#, fuzzy
-msgid ""
-"A brief description about your site, this will be used as default meta-"
-"description in layout."
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"uma breve descrição sobre o seu site, ele será usado como padrão meta-"
-"descrição no layout.\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Una breve descripción sobre su sitio, será utilizado como meta-description "
-"por defecto."
+msgid "A brief description about your site, this will be used as default meta-description in layout."
+msgstr "Uma breve descrição sobre o seu site, ele será usado como padrão meta-"
+"descrição no layout."
 
-#, fuzzy
 msgid "How this is used depends on your site's theme."
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Sua utilização depende to tema do seu site.\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Su utilización depende del theme de su sitio."
+msgstr "Sua utilização depende to tema do seu site."
 
-#, fuzzy
 msgid "E-mail address *"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Endereço de E-mail *\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Dirección E-mail *"
+msgstr "Endereço de E-mail *"
 
-#, fuzzy
-msgid ""
-"The From address in automated e-mails sent during registration and new "
-"password requests, and other notifications. (Use an address ending in your "
-"site's domain to help prevent this e-mail being flagged as spam.)"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"O endereço de 'Para' nos e-mails automáticos envia durante o registro a "
-"solicitação de nova senha e outras notificações. ( Use um endereço de "
-"término no domínio do seu site para evitar que este e-mail seja marcado como "
-"spam.)\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"La dirección 'DE' en los envios de e-mails automatizados como solicitudes de "
-"registro, recuperación de contraseñas y otras notificaciones. (Utilice una "
-"dirección acabada en el dominio de su sitio para evitar que los e-mails sean "
-"marcados como SPAM)"
+msgid "The From address in automated e-mails sent during registration and new password requests, and other notifications. (Use an address ending in your site's domain to help prevent this e-mail being flagged as spam.)"
+msgstr "O endereço de 'Para' nos e-mails automáticos envia durante o registro a solicitação de nova senha e outras notificações. ( Use um endereço de término no domínio do seu site para evitar que este e-mail seja marcado como spam.)"
 
-#, fuzzy
 msgid "Front page"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Página inicial\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Portada"
+msgstr "Página inicial"
 
-#, fuzzy
 msgid "Number of posts on front page"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Número de posts na página inicial\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Número de publicaciones en portada"
+msgstr "Número de posts na página inicial"
 
-#, fuzzy
-msgid ""
-"The maximum number of posts displayed on overview pages such as the front "
-"page."
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"O número máximo de posts exibidos em Overview é o tal qual a Página "
-"inicial.\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"El número máximo de nodos mostrado en listados como por ejemplo la portada."
+msgid "The maximum number of posts displayed on overview pages such as the front page."
+msgstr "O número máximo de posts exibidos em Overview é o tal qual a Página inicial."
 
-#, fuzzy
 msgid "Default front page"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Página inicial padrão\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Portada por defecto"
+msgstr "Página inicial padrão"
 
-#, fuzzy
 msgid ""
-"Optionally, specify a relative URL to display as the front page. Leave blank "
-"to display the default content feed"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Opcional, indique uma URL relativa ao site a ser mostrado como página "
-"inicial. Deixe em branco para mostrar a transmissão de conteúdo padrão\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Opcional, indique una URL relativa al sitio para mostrar como portada. "
-"Déjelo en blanco para mostrar los nodos destacados en portada"
+"Optionally, specify a relative URL to display as the front page. Leave blank to display the default content feed"
+msgstr "Opcional, indique uma URL relativa ao site a ser mostrado como página inicial. Deixe em branco para mostrar a transmissão de conteúdo padrão"
 
-#, fuzzy
 msgid "Regional settings"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Opções Regionais\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Opciones Regionales"
+msgstr "Opções Regionais"
 
-#, fuzzy
 msgid "Default time zone"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Fuso horário padrão\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Zona horaria por defecto"
+msgstr "Fuso horário padrão"
 
-#, fuzzy
 msgid "Users settings"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Definições de usuário\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Parámetros de usuarios"
+msgstr "Definições de usuário"
 
-#, fuzzy
 msgid "Default avatar"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Avatar padrão\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Avatar por defecto"
+msgstr "Avatar padrão"
 
-#, fuzzy
-msgid ""
-"URL of picture to display for users with no custom picture selected or "
-"anonymous users. Leave empty to use <a href='http://www.gravatar."
-"com'>Gravatar</a> based on user's email."
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"URL da imagem a ser exibida para os usuários sem imgem personalizada "
-"selecionados ou para Usuários anonimos.. Deixar em branco para ultilzar <a "
-"href='http://www.gravatar.com'>Gravatar</a> com base no e-mail de usuário.\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"URL de la imágen a mostrar para usuarios sin avatar personalizado o usuarios "
-"anónimos. Dejar en blanco para utilizar <a href='http://www.gravatar."
-"com'>Gravatar</a> basado en email de usuario."
+msgid "URL of picture to display for users with no custom picture selected or anonymous users. Leave empty to use <a href='http://www.gravatar.com'>Gravatar</a> based on user's email."
+msgstr "URL da imagem a ser exibida para os usuários sem imgem personalizada selecionados ou para Usuários anonimos.. Deixar em branco para ultilzar <a href='http://www.gravatar.com'>Gravatar</a> com base no e-mail de usuário."
 
-#, fuzzy
 msgid "Help topics"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Tópicos de ajuda\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Temas de ayuda"
+msgstr "Tópicos de ajuda"
 
-#, fuzzy
 msgid "Help is available on the following items"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"A ajuda está disponível para os seguintes items\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"La ayuda está disponible para los siguientes elementos"
+msgstr "A ajuda está disponível para os seguintes items"
 
-#, fuzzy
 msgid "Package"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Pacote\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Paquete"
+msgstr "Pacote"
 
 msgid "Install"
 msgstr "Instalar"
 
-#, fuzzy
 msgid "Frontend themes"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Temas principais\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Themes principales"
+msgstr "Temas principais"
 
-#, fuzzy
 msgid "Backend themes"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"temas de Backend\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Themes de gestión"
+msgstr "Template de admin"
 
 msgid "Configure"
 msgstr "Configurar"
 
-#, fuzzy
 msgid "Set as default"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Definir padrão\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Utilizar"
+msgstr "Definir como padrão"
 
-#, fuzzy
 msgid "Site details"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Detalhes do site\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Detalles del sitio"
+msgstr "Detalhes do site"
 
-#, fuzzy
 msgid "Save all"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Salvar\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Guardar todo"
+msgstr "Salvar tudo"
 
-#, fuzzy
 msgid "Other module settings"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Outras configurações de módulos\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Otros parámetros de módulos"
+msgstr "Outras configurações de módulos"
 
-#, fuzzy
 msgid "Install New Theme"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Instalar novo tema\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Instalar un nuevo tema"
+msgstr "Instalar novo tema"
 
-#, fuzzy
 msgid "Theme could not been installed"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"O tema não pode ser instalado\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"No se puedo instalar el tema"
+msgstr "O tema não pode ser instalado"
 
-#, fuzzy
 msgid "Leave blank for use default logo."
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Deixar em branco para usar o logo padrão\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Dejar en blanco para usar el logo por defecto."
+msgstr "Deixar em branco para usar o logo padrão"
 
-#, fuzzy
 msgid "Leave blank for use default favicon."
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Deixar em branco para ultilizar o favicon padrão.\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Dejar en blanco para usar el favicon por defecto."
+msgstr "Deixar em branco para ultilizar o favicon padrão"
 
 msgid "\"%s\" Theme"
 msgstr "Tema \"%s\""
 
-#, fuzzy
 msgid "Toggle display"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Opções de vizualização\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Opciones de visualización"
+msgstr "Opções de vizualização"
 
 msgid "Logo"
 msgstr "Logo"
 
-#, fuzzy
 msgid "Site name"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Nome do site\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Nombre del sitio"
+msgstr "Nome do site"
 
-#, fuzzy
 msgid "Site slogan"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Slogan do site\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Eslogan del sitio"
+msgstr "Slogan do site"
 
 msgid "Shortcut icon"
 msgstr "Favicon"
 
-#, fuzzy
 msgid "Logo image URL"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"URL da logo\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"URL de imágen del logo"
+msgstr "URL da logo"
 
-#, fuzzy
 msgid "Shortcut icon URL"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"URL da favicon\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"URL de favicon"
+msgstr "URL da favicon"
 
-#, fuzzy
 msgid "Enable"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Ativar\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Activar"
+msgstr "Ativarr"
 
-#, fuzzy
 msgid "Disable"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Desativar\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Desactivar"
+msgstr "Desativar"
 
 msgid "Uninstall"
 msgstr "Desinstalar"
 
-#, fuzzy
 msgid "Dependencies"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Dependências\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Dependencias"
+msgstr "Dependências"
 
-#, fuzzy
 msgid "Delete selected module ? This change cant be undone!"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Excluir o módulo selecionado? Esta operação não pode ser revertida!\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Eliminar el módulo seleccionado ? Esta operación no puede ser revertida!"
+msgstr "Excluir o módulo selecionado? Esta operação não pode ser revertida!"
 
-#, fuzzy
 msgid "Activate after install"
-msgstr ""
-"#-#-#-#-#  core (17).po  #-#-#-#-#\n"
-"Ativar após a instalação\n"
-"#-#-#-#-#  core (18).po  #-#-#-#-#\n"
-"Activar tras instalar"
+msgstr "Ativar após a instalação"
 
 msgid "Enables the categorization of content."
 msgstr "Permite la categorización de contenidos."
 
-#, fuzzy
 msgid "There are no vocabularies to display"
-msgstr ""
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Não há vocabulários disponíveis\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"No hay vocabularios disponibles"
+msgstr "Não há vocabulários disponíveis"
 
-#, fuzzy
 msgid "New Vocabulary"
-msgstr ""
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Vocabulário Novo\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Nuevo Vocabulario"
+msgstr "Vocabulário Novoo"
 
-#, fuzzy
 msgid "Add Vocabulary"
-msgstr ""
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Adicionar Vocabulário\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Agregar Vocabulario"
+msgstr "Adicionar Vocabulário"
 
-#, fuzzy
 msgid "Save vocabulary"
-msgstr ""
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Salvar vocabulário\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Guardar vocabulario"
+msgstr "Salvar vocabulário"
 
-#, fuzzy
 msgid "%s Terms"
-msgstr ""
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Termos %s\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Términos %s"
+msgstr "Termos %s"
 
-#, fuzzy
 msgid "Add New Term"
-msgstr ""
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Adicionar um novo termo\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Agregar Nuevo Término"
+msgstr "Adicionar um novo termo"
 
-#, fuzzy
 msgid "Parent term"
-msgstr ""
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Termo mestre\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Término padre"
+msgstr "Termo mestre"
 
-#, fuzzy
 msgid "Saving..."
-msgstr ""
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Salvando...\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Guardando..."
+msgstr "Salvando..."
 
-#, fuzzy
 msgid "Saved!"
-msgstr ""
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Salvo!\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Guardado!"
+msgstr "Salvo!"
 
-#, fuzzy
 msgid "Vocabulary name"
-msgstr ""
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Nome do vocabulário\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Nombre vocabulario"
+msgstr "Nome do vocabulário"
 
-#, fuzzy
 msgid "terms"
-msgstr ""
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"termos\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"términos"
+msgstr "termos"
 
-#, fuzzy
 msgid "mover up"
-msgstr ""
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"mover para cima\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"mover arriba"
+msgstr "mover para cima"
 
-#, fuzzy
 msgid "mover down"
-msgstr ""
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"mover para baixo\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"mover abajo"
+msgstr "mover para baixo"
 
-#, fuzzy
 msgid "Delete selected vocabulary and all its terms ?"
-msgstr ""
-"#-#-#-#-#  core (19).po  #-#-#-#-#\n"
-"Eliminaro vocabulário selecionado e todos os seus termos ?\n"
-"#-#-#-#-#  core (20).po  #-#-#-#-#\n"
-"Eliminar el vocabulario seleccionado y todos sus términos ?"
+msgstr "Eliminaro vocabulário selecionado e todos os seus termos ?"
 
 msgid "Maintenance message"
 msgstr "Mensagem de manutenção"
@@ -3683,361 +1862,143 @@ msgstr "Mensagem de manutenção"
 msgid "Site under maintenance"
 msgstr "Site em manutenção"
 
-#, fuzzy
 msgid "Manages the user registration and login system."
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Gerencia o registro do usuário e sistema de login.\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Control de registro e identificación de usuarios en el sistema."
+msgstr "Gerencia o registro do usuário e sistema de login."
 
-#, fuzzy
 msgid "Permissions"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Permissões\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Permisos"
+msgstr "Permissões"
 
-#, fuzzy
 msgid "active"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"ativo\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"activo"
+msgstr "ativo"
 
 msgid "blocked"
 msgstr "bloqueado"
 
-#, fuzzy
 msgid "Block selected users"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Bloquear usuários selecionados\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Bloquear usuarios seleccionados"
+msgstr "Bloquear usuários selecionados"
 
-#, fuzzy
 msgid "Unblock selected users"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Desbloquear usuários selecionados\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Desqloquear usuarios seleccionados"
+msgstr "Desbloquear usuários selecionados"
 
-#, fuzzy
 msgid "Delete selected users"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Excluir usuários selecionados\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Eliminar usuarios seleccionados"
+msgstr "Excluir usuários selecionados"
 
-#, fuzzy
 msgid "User Name"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Nome de usuário\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Nombre de usuario"
+msgstr "Nome de usuário"
 
-#, fuzzy
 msgid "Log out successful"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"seção terminada com êxito\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Sesión terminada con éxito"
+msgstr "seção terminada com êxito"
 
-#, fuzzy
+
 msgid "Log in"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Iniciar seção\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Inicio de sesión"
+msgstr "Iniciar seção"
 
-#, fuzzy
 msgid "User Permissions"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Permissões de usuários\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Permisos de usuarios"
+msgstr "Permissões de usuários"
 
-#, fuzzy
 msgid "User Roles"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Regras de Usuário\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Roles de Usuario"
+msgstr "Regras de Usuário"
 
-#, fuzzy
 msgid "Manage User Fields"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Gerenciar Campos de Usuário\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Gestión de Campos de Usuario"
+msgstr "Gerenciar Campos de Usuário"
 
-#, fuzzy
 msgid "Field settings"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Configurações de campo\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Configuración de campo"
+msgstr "Configurações de campo"
 
-#, fuzzy
 msgid "user_account"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Conta de usuário\n"
-"#-#-#-#-#  core (22).po  #-#-#-#-#\n"
-"User account\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Cuenta de usuario"
+msgstr "Conta de usuário"
 
-#, fuzzy
 msgid "Add new user"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Criar novo usuário\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Agregar nuevo usuario"
+msgstr "Criar novo usuário"
 
-#, fuzzy
 msgid "Real name *"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Nome real *\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Nombre real *"
+msgstr "Nome real *"
 
-#, fuzzy
-msgid ""
-"Your real name, it is used only for identification purposes. i.e: John Locke"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Seu nome verdadeiro, ele é usado somente para fins de identificação. i.e: "
-"John Locke\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Tu nombre real, utilizado sólo con fines de identificación. e.j.: John Locke"
+msgid "Your real name, it is used only for identification purposes. i.e: John Locke"
+msgstr "Seu nome verdadeiro, ele é usado somente para fins de identificação. i.e: John Locke"
 
-#, fuzzy
 msgid "User name *"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Nome de usuário *\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Nombre de usuario *"
+msgstr "Nome de usuário *"
 
-#, fuzzy
 msgid "Usernames cannot be changed"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Não foi possivel mudar nome de usuário\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"El nombre de usuario no puede ser modificado"
+msgstr "Não foi possivel mudar nome de usuário"
 
-#, fuzzy
 msgid "Nick used to login. Must be unique and alphanumeric."
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Nick de indentificação ultilizado no Login. deve ser único e alfanumérico.\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Nick de identificación utilizado para logearte. Debe ser único y "
-"alfanumérico."
+msgstr "Nick de indentificação ultilizado no Login. deve ser único e alfanumérico."
 
-#, fuzzy
-msgid ""
-"Full url to avatar image file. i.e: http://www.some-domain.com/my-avatar.jpg"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"URL completa para imagem de avatar. i.e.: http://www.domain.com/my-avatar."
-"jpg\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"URL completa hacia tu imagen de avatar. e.j.: http://www.domain.com/my-"
-"avatar.jpg"
+msgid "Full url to avatar image file. i.e: http://www.some-domain.com/my-avatar.jpg"
+msgstr "URL completa para imagem de avatar. i.e.: http://www.domain.com/my-avatar.jpg"
 
-#, fuzzy
 msgid "Time zone"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Fuso Horário\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Zona horaria"
+msgstr "Fuso Horário"
 
-#, fuzzy
 msgid "New password"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Nova senha\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Nueva contraseña"
+msgstr "Nova senha"
 
-#, fuzzy
-msgid ""
-"If you would like to change the password type a new one. Otherwise leave "
+msgid "If you would like to change the password type a new one. Otherwise leave "
 "this blank."
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Se você gostaria de mudar sua senha digite uma nova. Caso contrário, deixe "
-"este campo em branco.\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Si desea cambiar la contraseña escriba una nueva. De lo contrario dejarlo en "
-"blanco."
+msgstr "Se você gostaria de mudar sua senha digite uma nova. Caso contrário, deixe "
+"este campo em branco."
 
-#, fuzzy
 msgid "Confirm password"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Confirme sua senha\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Confirme contraseña"
+msgstr "Confirme sua senha"
 
-#, fuzzy
 msgid "User roles"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Regras do usuário\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Roles de usuario"
+msgstr "Regras do usuário"
 
-#, fuzzy
 msgid "Update user"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Atualizar usuário\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Actualizar usuario"
+msgstr "Atualizar usuário"
 
-#, fuzzy
 msgid "Sorry, %s is not recognized as e-mail address."
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Desculpe, %s não é um e-mail válido.\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Lo sentimos, %s no es un email válido."
+msgstr "Desculpe, %s não é um e-mail válido."
 
 msgid "invalid email"
 msgstr "email inválido"
 
-#, fuzzy
 msgid "Further instructions have been sent to your e-mail address."
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Outras instruções foram enviadas para o seu endereço de e-mail.\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Instrucciones adicionales han sido enviados a su email."
+msgstr "Outras instruções foram enviadas para o seu endereço de e-mail."
 
-#, fuzzy
 msgid "E-mail new password"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Enviar Nova Senha\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Enviar nueva contraseña"
+msgstr "Enviar Nova Senha"
 
-#, fuzzy
 msgid "Save All"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Salvar tudo\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Guardar Todo"
+msgstr "Salvar tudo"
 
 msgid "Body *"
 msgstr "Corpo *"
 
-#, fuzzy
 msgid "Add New Role"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Adicionar novo documento\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Agregar Nuevo Rol"
+msgstr "Adicionar novo documento"
 
-#, fuzzy
 msgid "Manage Fields"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Gerenciar Campos\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Gestionar Campos"
+msgstr "Gerenciar Campos"
 
-#, fuzzy
 msgid "Manage Display"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Gerenciar Visualização\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Gestionar Visualización"
+msgstr "Gerenciar Visualização"
 
-#, fuzzy
 msgid "User Display Settings"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Configurações de vizualização de usuário\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Configuración de Visualización de Usuarios"
+msgstr "Configurações de vizualização de usuário"
 
-#, fuzzy
 msgid "Add User"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Criar Usuário\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Agregar Usuario"
+msgstr "Criar Usuário"
 
-#, fuzzy
 msgid "Active"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Ativo\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Activo\n"
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Ativo\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Activo"
+msgstr "Ativo"
 
-#, fuzzy
 msgid "Create user"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Criar usuário\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Crear usuario"
+msgstr "Criar usuário"
 
 msgid "Public email"
 msgstr "E-mail público"
 
-#, fuzzy
 msgid "Editing User"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Editando Usuário\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Editando Usuario"
+msgstr "Editando Usuário"
 
-#, fuzzy
 msgid "Editing user"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"Editando usuário\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"Editando usuario"
+msgstr "Editando usuário"
 
-#, fuzzy
 msgid "M d, Y"
-msgstr ""
-"#-#-#-#-#  core (21).po  #-#-#-#-#\n"
-"D M, A\n"
-"#-#-#-#-#  core (23).po  #-#-#-#-#\n"
-"d M, Y"
+msgstr "D M, A"
 
 msgid "User could not be saved. Please, try again."
 msgstr "Problema ao salvar o usuário, tente novamente."
@@ -4046,37 +2007,16 @@ msgid "User has been saved"
 msgstr "Usuário salvo."
 
 msgid "This message has been marked as `do not notify`."
-msgstr "Este mensaje ha sido marcado como `no notificar`"
+msgstr "Está mensagem foi marcada como `não noticificar`"
 
-#, fuzzy
-msgid ""
-"Controls the visual building blocks a page is constructed with. Blocks are "
-"boxes of content rendered into an area, or region, of a web page."
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Gerenciar os blocos visuais  con los que una págian se construye. Los "
-"bloques son cajas de contenido que se renderizan en un área o región de una "
-"página web.\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Gestiona los bloques visuales con los que una págian se construye. Los "
-"bloques son cajas de contenido que se renderizan en un área o región de una "
-"página web."
+msgid "Controls the visual building blocks a page is constructed with. Blocks are boxes of content rendered into an area, or region, of a web page."
+msgstr "Gerenciar a construção visuais que constroem uma página. Os blocos são caixas de conteúdo que renderiza em uma área ou região de uma página web."
 
-#, fuzzy
 msgid "New Block"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Novo bloco\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Nuevo Bloque"
+msgstr "Novo bloco"
 
-#, fuzzy
 msgid "Save block"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Salvar bloco\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Guardar bloque"
+msgstr "Salvar bloco"
 
 msgid "Unassigned"
 msgstr "Não atribuído"
@@ -4084,355 +2024,140 @@ msgstr "Não atribuído"
 msgid "clone"
 msgstr "clonar"
 
-#, fuzzy
 msgid "Block has been saved"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"O bloco foi salvo\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Bloque ha sido guardado"
+msgstr "O bloco foi salvo"
 
-#, fuzzy
 msgid "Block"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Bloco\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Bloque"
+msgstr "Bloco"
 
-#, fuzzy
 msgid "Duplicate this block?"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Duplicar este bloco?\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Duplicar este bloque?"
+msgstr "Duplicar este bloco?"
 
-#, fuzzy
 msgid "Block title"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Título do bloco\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Título de bloque"
+msgstr "Título do bloco"
 
-#, fuzzy
 msgid "The title of the block as shown to the user."
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Título do bloco que se mostrará ao usuário.\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Título de bloque que se mostrara al usuario."
+msgstr "Título do bloco que se mostrará ao usuário."
 
-#, fuzzy
 msgid "Block description *"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Descrição do bloco *\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Descripción de bloque *"
+msgstr "Descrição do bloco *"
 
-#, fuzzy
-msgid ""
-"A brief description of your block. Used on the Blocks administration page."
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Breve descrição do bloco. Utilizado na seção de gestão de blocos.\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Breve descripción del bloque. Utilizado en la sección de gestión de bloques."
+msgid "A brief description of your block. Used on the Blocks administration page."
+msgstr "Breve descrição do bloco. Utilizado na seção de gestão de blocos."
 
-#, fuzzy
 msgid "Block body *"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Corpo do bloco *\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Cuerpo de bloque *"
+msgstr "Corpo do bloco *"
 
-#, fuzzy
 msgid "Translations"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Traduções\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Traducciones"
+msgstr "Traduções"
 
-#, fuzzy
 msgid "Show this block for these languages"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Mostrar este bloco para os seguintes idiomas\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Mostrar este bloque para los siguientes idiomas"
+msgstr "Mostrar este bloco para os seguintes idiomas"
 
-#, fuzzy
 msgid "If no language is selected, block will show regardless of language."
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Se nenhum idioma foi indicado, o bloco se mostrará independente do idioma.\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Si ningún idioma se indica, el bloque se mostrara independientemente del "
-"idioma."
+msgstr "Se nenhum idioma foi indicado, o bloco se mostrará independente do idioma."
 
-#, fuzzy
 msgid "Visibility settings"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Opções de vizualização\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Opciones de visualización"
+msgstr "Opções de vizualização"
 
-#, fuzzy
 msgid "Theme Region"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Região do tema\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Región de Theme"
+msgstr "Região do tema"
 
-#, fuzzy
 msgid "Specify in which themes and regions this block is displayed."
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Indica em que tema e região o bloco deve ser exibido.\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Indica en que theme y región este bloque se debe mostrar."
+msgstr "Indica em que tema e região o bloco deve ser exibido."
 
 msgid "Pages"
 msgstr "Páginas"
 
-#, fuzzy
 msgid "All pages except those listed"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-" Em todas as páginas, exceto nas listadas\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"En todas las páginas excepto en las listadas"
+msgstr "Em todas as páginas, exceto nas listadas"
 
-#, fuzzy
 msgid "Only the listed pages"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Somente nas páginas listadas\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Sólo en las páginas listadas"
+msgstr "Somente nas páginas listadas"
 
-#, fuzzy
 msgid "Show block for specific roles"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Mostrar blocos para as regras indicadas\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Mostrar bloque para los roles indicados"
+msgstr "Mostrar blocos para as regras indicadas"
 
-#, fuzzy
-msgid ""
-"Show this block only for the selected role(s). If you select no roles, the "
-"block will be visible to all users."
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"exibir este bloco apenas para a(s) regra(s) selecionada(s). Se nenhuma regra "
-"for selecionada, o bloco será visível a todos os usuários.\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Muestra este bloque solo para el(los) rol(es) seleccionado(s). Si no se "
-"indica(n) rol(es), el bloque será visible para todos los usuarios."
+msgid "Show this block only for the selected role(s). If you select no roles, the block will be visible to all users."
+msgstr "Mostrar este bloco apenas para a(s) regra(s) selecionada(s). Se nenhuma regra for selecionada, o bloco será visível a todos os usuários."
 
-#, fuzzy
 msgid "Block class suffix"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Sufixo de classe de blocos\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Sufijo de clase para bloque"
+msgstr "Sufixo de classe de blocos"
 
-#, fuzzy
-msgid ""
-"A suffix to be applied to the CSS class of the block. This allows for "
-"individual block styling."
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Um sufixo para ser aplicado às classes de CSS do bloco. Isso permite "
-"estilizar individualmente o bloco.\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Un sufijo para aplicar a las clases CSS del bloque. Esto permite estilizar "
-"individualmente el bloque."
+msgid "A suffix to be applied to the CSS class of the block. This allows for individual block styling."
+msgstr "Um sufixo para ser aplicado às classes de CSS do bloco. Isso permite estilizar individualmente o bloco."
 
-#, fuzzy
 msgid "Editing Block"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Editando Bloco\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Editando Bloque"
+msgstr "Editando Bloco"
 
-#, fuzzy
 msgid "Add new block"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Adicionar um novo Bloco\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Agregar nuevo bloque"
+msgstr "Adicionar um novo Bloco"
 
-#, fuzzy
 msgid "Pages on which this PHP code returns TRUE (experts only)"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Páginas em que este código PHP retorna TRUE (apenas especialistas)\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Páginas en las que este código PHP retorne TRUE (sólo expertos)"
+msgstr "Páginas em que este código PHP retorna TRUE (apenas especialistas)"
 
-#, fuzzy
 msgid "Block moved %s!"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Bloco movido %s!\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"Bloque movido %s!"
+msgstr "Bloco movido %s!"
 
-#, fuzzy
 msgid "up"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"Acima\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"arriba"
+msgstr "acima"
 
-#, fuzzy
 msgid "down"
-msgstr ""
-"#-#-#-#-#  core (4).po  #-#-#-#-#\n"
-"abaixo\n"
-"#-#-#-#-#  core (5).po  #-#-#-#-#\n"
-"abajo"
+msgstr "abaixo"
 
 msgid "Unassigned or Disabled"
-msgstr "No Asignados o Desactivados"
+msgstr "Não assinados ou disabilitados"
 
-#, fuzzy
 msgid "Allows users to comment on and discuss published content."
-msgstr ""
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Permite aos usuários comentar e discutir os conteúdos publicados.\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Permite a los usuarios comentar y discutir contenidos publicados."
+msgstr "Permite aos usuários comentar e discutir os conteúdos publicados."
 
-#, fuzzy
 msgid "Comment"
-msgstr ""
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Comentário\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Comentario"
+msgstr "Comentário"
 
-#, fuzzy
 msgid "Published comments"
-msgstr ""
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Comentários publicados\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Comentarios publicados"
+msgstr "Comentários publicados"
 
-#, fuzzy
 msgid "Unpublished (%s)"
-msgstr ""
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Não publicados (%s)\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"No publicados (%s)"
+msgstr "Não publicados (%s)"
 
-#, fuzzy
 msgid "Unapprove selected comments"
-msgstr ""
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Não aprovar os comentários selecionados\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"No aprobar comentarios sleccioandos"
+msgstr "Não aprovar os comentários selecionados"
 
-#, fuzzy
 msgid "Approve selected comments"
-msgstr ""
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Aprovar os comentários selecionados\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Aprobar comentarios sleccioandos"
+msgstr "Aprovar os comentários selecionados"
 
-#, fuzzy
 msgid "Delete selected comments"
-msgstr ""
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Eliminar os comentários selecionados\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Eliminar comentarios seleccionados"
+msgstr "Eliminar os comentários selecionados"
 
 msgid "Author"
 msgstr "Autor"
 
-#, fuzzy
 msgid "Posted in"
-msgstr ""
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Publicado no\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Publicado en"
+msgstr "Publicado no"
 
-#, fuzzy
 msgid "Posted on"
-msgstr ""
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Publicado em\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Publicado el"
+msgstr "Publicado em"
 
-#, fuzzy
 msgid "There are no comments to display"
-msgstr ""
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Não há comentários à serem exibidos.\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"No hay comentarios para mostrar"
+msgstr "Não há comentários à serem exibidos."
 
-#, fuzzy
 msgid "Comment Details"
-msgstr ""
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Detalhes dos comentários\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Detalle de Comentario"
+msgstr "Detalhes dos comentários"
 
-#, fuzzy
 msgid "Comment details"
-msgstr ""
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Detalhes dos comentários\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Detalle de comentario"
+msgstr "Detalhes dos comentários"
 
-#, fuzzy
 msgid "Published in content"
-msgstr ""
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Publicado no conteúdo\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Publicado en contenido"
+msgstr "Publicado no conteúdo"
 
 msgid "Published by"
 msgstr "Publicado por"
 
-#, fuzzy
 msgid "Hostname"
-msgstr ""
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Nome do host\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Nombre de host"
+msgstr "Nome do host"
 
-#, fuzzy
 msgid "Message"
-msgstr ""
-"#-#-#-#-#  core (6).po  #-#-#-#-#\n"
-"Mensagem\n"
-"#-#-#-#-#  core (7).po  #-#-#-#-#\n"
-"Mensaje"
+msgstr "Mensagem"
 
 msgid "Quoting"
 msgstr "Citando"
