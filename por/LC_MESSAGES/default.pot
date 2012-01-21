@@ -25,13 +25,13 @@ msgid "Forbidden Names"
 msgstr "Nomes Perdidos"
 
 msgid "Forbidden module name \"%s\""
-msgstr "Perdido o nome do módulo"
+msgstr "Perdido o nome do módulo \"%s\""
 
 msgid "Theme name"
 msgstr "Nome do template"
 
 msgid "Invalid module name (got \"%s\", expected: \"%s\")"
-msgstr "Nome inválido do módulo (tem \"%s\", esperado: \"%s\")"
+msgstr "Nome inválido do módulo (recebido \"%s\", esperado: \"%s\")"
 
 msgid "Already Installed"
 msgstr "Já instalado"
@@ -40,7 +40,7 @@ msgid "This module is already installed"
 msgstr "Este módulo já está instalado"
 
 msgid "Config Folder"
-msgstr "Diretório Configuração"
+msgstr "Diretório Config"
 
 msgid "\"Config\" folder not found"
 msgstr "Diretório \"Config\" não foi encontrado"
@@ -49,7 +49,7 @@ msgid "Bootstrap File"
 msgstr "Arquivo Bootstrap"
 
 msgid "\"Config/bootstrap.php\" file not found"
-msgstr " arquivo \"Config/bootstrap.php\" não encontrado"
+msgstr "Arquivo \"Config/bootstrap.php\" não encontrado"
 
 msgid "Routes File"
 msgstr "Arquivo de rotas"
@@ -64,7 +64,7 @@ msgid "\"Controller\" folder not found"
 msgstr "Diretório \"Config/routes.php\" não encontrado"
 
 msgid "Component Folder"
-msgstr "Pasta de componente"
+msgstr "Diretório componente"
 
 msgid "\"Component\" folder not found"
 msgstr "Diretório \"Component\" não encontrado"
@@ -104,9 +104,6 @@ msgstr "Plugin app"
 
 msgid "Module folder not found"
 msgstr "Diretório do Módulo app(\"%s\") não encontrado"
-
-msgid "Routes file"
-msgstr "Arquvio de Rotas"
 
 msgid "webroot Folder"
 msgstr "Diretório webroot"
@@ -166,7 +163,7 @@ msgid "Quickapps CMS - Modules"
 msgstr "Quickapps CMS - Modules"
 
 msgid "Which %s ?"
-msgstr "Que %s"
+msgstr "Que %s ?"
 
 msgid "Machine Name: %s"
 msgstr "Nome da máquina: %s"
