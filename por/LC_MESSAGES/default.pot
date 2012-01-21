@@ -1,4 +1,4 @@
-﻿"Project-Id-Version: \n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: Ricardo Negri <riconegri@gmail.com>"
 "POT-Creation-Date: 2012-01-16 00:00+0100\n"
 "PO-Revision-Date: \n"
@@ -385,7 +385,7 @@ msgid "User activation"
 msgstr "Ativação da conta"
 
 msgid "Notify user when account is activated."
-msgstr "Notificar quando a contar estiver ativa."
+msgstr "Notificar quando a conta estiver ativa."
 
 msgid "Account blocked"
 msgstr "Conta Bloqueada"
@@ -469,7 +469,7 @@ msgid "White"
 msgstr "Branco"
 
 msgid "Black Glass"
-msgstr "Preto vidro"
+msgstr "Vidro Preto"
 
 msgid "Clean"
 msgstr "Limpo"
@@ -493,16 +493,16 @@ msgid "German"
 msgstr "Alemão"
 
 msgid "Portuguese"
-msgstr "Brasil"
+msgstr "Português"
 
 msgid "Russian"
-msgstr "Russia"
+msgstr "Russo"
 
 msgid "Spanish"
-msgstr "Espanha"
+msgstr "Espanhol"
 
 msgid "Turkish"
-msgstr "Turquia"
+msgstr "Turco"
 
 msgid "Custom Translation"
 msgstr "Tradução personalizada"
@@ -511,7 +511,7 @@ msgid "Use Akismet"
 msgstr "Usar Akismet"
 
 msgid "Akismet API Key"
-msgstr "Chave APU Akismet"
+msgstr "Chave API Akismet"
 
 msgid "On SPAM detected"
 msgstr "Detectado sobre SPAM"
@@ -574,10 +574,10 @@ msgid "Code"
 msgstr "Código"
 
 msgid "Your comment has been queued for review by site administrators and will be published after approval."
-msgstr "Seu comentário está aguardando por aprovação e em breve será publicado"
+msgstr "Comentário aguardando por aprovação e em breve será publicado"
 
 msgid "Your comment has been posted."
-msgstr "Seu comentário foi publicado."
+msgstr "Comentário publicado."
 
 msgid "Comment could not be saved. Please try again."
 msgstr "Problema ao salvar comentário. Tente novamente."
@@ -592,7 +592,7 @@ msgid "»"
 msgstr "»"
 
 msgid "said on %s"
-msgstr "disse em %s"
+msgstr "dito em %s"
 
 msgid "Permalink"
 msgstr "Permalink"
@@ -622,7 +622,7 @@ msgid "Save"
 msgstr "Salvar"
 
 msgid "Date cannot be empty."
-msgstr "Data não pode ficar vazio."
+msgstr "Data não pode ficar em branco."
 
 msgid "Date format"
 msgstr "Formato da data"
@@ -742,7 +742,7 @@ msgid "Invalid field."
 msgstr "Campo inválido"
 
 msgid "Full"
-msgstr "Cheio"
+msgstr "Completo"
 
 msgid "Plain"
 msgstr "Pleno"
@@ -772,7 +772,7 @@ msgid "Plain text"
 msgstr "Texto pleno"
 
 msgid "Full HTML"
-msgstr "Full HTML"
+msgstr "HTML completo"
 
 msgid "Filtered HTML"
 msgstr "HTML filtrado"
@@ -817,7 +817,7 @@ msgid "This is only used if `Validation rule` has been set."
 msgstr "Isto é somente usado se `Regra de Validação` não for configurada."
 
 msgid "Turn on JavaScript to see the email address."
-msgstr "Ativar JavaScript para visuzlizar o endereço de email."
+msgstr "Ativar JavaScript para visualizar o endereço de email."
 
 msgid "Display language flag icon"
 msgstr "Mostrar o ícone da bandeira do idioma"
@@ -829,7 +829,7 @@ msgid "Field: %s"
 msgstr "Campo: %s"
 
 msgid "Theme: %s"
-msgstr "Tema: %s"
+msgstr "Template: %s"
 
 msgid "Module: %s"
 msgstr "Módulo: %s"
@@ -871,22 +871,28 @@ msgid "M d, Y H:i"
 msgstr "d/m/Y \\a \\l\\a\\s H:ii"
 
 msgid "Read More"
-msgstr "Ler Mais"
+msgstr "Leia Mais"
 
 msgid "Your database does not have any tables."
 msgstr "Seu banco de dados está vazio"
 
 msgid "This field cannot hold more than 2 values."
-msgstr "Este campo não pode ter mais do que 2 valores"
+msgstr "Este campo não pode ter mais do que 2 valores."
 
 msgid "You must <a href=\"%s\">select a vocabulary</a> for this field!"
 msgstr "Você deve <a href=\"%s\">selecionar um vocabulário</a> para este campo!"
+
+msgid "Vocabulary has been saved"
+msgstr "Vocabulário foi salvo"
+
+msgid "Editing Vocabulary \"%s\""
+msgstr "Editando vocabulário \"%s\""
 
 msgid "Link (localized)"
 msgstr "Link (localizado)"
 
 msgid "Plain (localized)"
-msgstr "Plemo(localized)"
+msgstr "Pleno(localized)"
 
 msgid "Valid only when format is \"Link (localized)\". Adds a prefix to each term link url."
 msgstr "Válido somente quando o formato é \"Link (localized)\". Adiciona um prefixo para cada url do termo"
@@ -928,7 +934,7 @@ msgid "No results"
 msgstr "Sem resultados"
 
 msgid "Searching..."
-msgstr "Buscando"
+msgstr "Buscando..."
 
 msgid "x"
 msgstr "x"
@@ -943,7 +949,7 @@ msgid "Show vocabulary and its terms as tree"
 msgstr "Mostrar vocabulário e seus termos como árvore"
 
 msgid "Cache terms counters for"
-msgstr "Cache os contadores por"
+msgstr "Cache a contagem dos termos para"
 
 msgid "Error"
 msgstr "Erro"
@@ -994,7 +1000,7 @@ msgid "Footer"
 msgstr "Rodapé"
 
 msgid "Enter one image per line, in the format <b>file name|url|caption</b>. e.g.:"
-msgstr "Entre uma imagem por linha, no formato <b>file name|url|caption</b>. e.g.:"
+msgstr "Entre uma imagem por linha, no formato <b>nome do arquivo|url|rótulo</b>. e.g.:"
 
 msgid "Image files should be stoted in /files/<b>%s</b>, you can change this folder in the <a href=\"%s\">theme settings panel</a>"
 msgstr "Arquivos de imagem devem ser salvos em /files/<b>%s</b>, você pode alterar esta pasta em <a href=\"%s\">configurações de template no painel</a>"
@@ -1057,7 +1063,7 @@ msgid "Right to Left"
 msgstr "Direita para a esquerda"
 
 msgid "Direction that text in this language is presented."
-msgstr "Direção deste texto nesta linguagem está presente."
+msgstr "Direção que o texto é apresentado nesta linguagem."
 
 msgid "Add"
 msgstr "Adicionar"
@@ -1081,7 +1087,7 @@ msgid "edit"
 msgstr "editar"
 
 msgid "delete"
-msgstr "eliminar"
+msgstr "apagar"
 
 msgid "set as default"
 msgstr "Definir como padrão"
@@ -1138,16 +1144,16 @@ msgid "Package (.po)"
 msgstr "Pacote (.po)"
 
 msgid "download"
-msgstr "Download"
+msgstr "download"
 
 msgid "uninstall"
 msgstr "desinstalar"
 
 msgid "Are you sure ?"
-msgstr "Você tem certeza ?"
+msgstr "Tem certeza ?"
 
 msgid "Translation Packages"
-msgstr "Pacotesd e tradução"
+msgstr "Pacotes de tradução"
 
 msgid "Editing translation entry"
 msgstr "Editando entrada"
@@ -1201,10 +1207,76 @@ msgid "Editing link"
 msgstr "Editando link"
 
 msgid "Edit menu link"
-msgstr "Editar link do menuEditar enlace de menú"
+msgstr "Editar link do menu"
 
-msgid "Menu link title *"
-msgstr "Título do link *"
+msgid "Menu link title"
+msgstr "Título do link"
+
+msgid "Parent item"
+msgstr "Pai"
+
+msgid "Node title can not be empty."
+msgstr "Título do nó deve ser preenchido."
+
+msgid "Type name can not be empty."
+msgstr "O nome do tipo não pode ficar vazio."
+
+msgid "Title field label can not be empty."
+msgstr "O nome do título do campo não pode ficar vazio."
+
+msgid "Configuration has been saved."
+msgstr "Configuração salva."
+
+msgid "Configuration could not be saved. Please, try again."
+msgstr "Problema ao salvar configuração, tente novamente."
+
+msgid "Module changes has been saved!"
+msgstr "Módulo atualizado com sucesso!"
+
+msgid "Configure Module"
+msgstr "Configurar Módulo"
+
+msgid "Module '%s' has been enabled"
+msgstr "Módulo '%s' foi habilitado"
+
+msgid "This module can not be disabled, because it is required by: %s"
+msgstr "Este módulo não pode ser desabilitado, porque ele é necessário para: %s"
+
+msgid "Module '%s' has been disabled"
+msgstr "Módulo '%s' foi desabilitado"
+
+msgid "This module can not be uninstalled, because it is required by: %s"
+msgstr "Este módulo não pode ser desinstalado, porque é necessário para: %s"
+
+msgid "This module can not be uninstalled because some files/folder can not be deleted, please check the permissions."
+msgstr "Este módulo não pode ser desinstalado porque alguns arquivos/diretórios não puderam ser apagados, por favor verifique as permissões."
+
+msgid "Module '%s' has been uninstalled"
+msgstr "Módulo '%s' foi desinstalado"
+
+msgid "Error uninstalling module '%s'"
+msgstr "Erro ao desinstalar módulo '%s'"
+
+msgid "Module has been installed"
+msgstr "Módulo desinstalado"
+
+msgid "Theme settings"
+msgstr "Configurações de template"
+
+msgid "Configure Theme"
+msgstr "Configurar Template"
+
+msgid "Theme '%s' has been uninstalled"
+msgstr "Template '%s' desistalado"
+
+msgid "Error uninstalling theme '%s'"
+msgstr "Erro ao desistalar template '%s'"
+
+msgid "Theme could not been installed"
+msgstr "Problema ao instalar template"
+
+msgid "Module could not been installed"
+msgstr "Problema ao instalar módulo"
 
 msgid "The text to be used for this link in the menu."
 msgstr "Texto a ser utilizado para este link no menu."
@@ -1219,7 +1291,7 @@ msgid "Shown when hovering over the menu link."
 msgstr "Exibir ao passar sobre o link do menu."
 
 msgid "Target window"
-msgstr "Abrir em"
+msgstr "Janela alvo"
 
 msgid "Same window"
 msgstr "Mesma janela"
@@ -1234,7 +1306,7 @@ msgid "Show as expanded"
 msgstr "Exibir quando expandido"
 
 msgid "If selected and this menu link has children, the menu will always appear expanded."
-msgstr "Se estiver marcado e este link contém filhos, o menu aparecerá como expandido."
+msgstr "Se estiver marcado e este link contr filhos, o menu aparecerá como expandido."
 
 msgid "Enabled"
 msgstr "Ativado"
@@ -1243,40 +1315,40 @@ msgid "Menu links that are not enabled will not be listed in any menu."
 msgstr "Os links do menu que não estiverem disponíveis não serão exibidos em nenhum menu."
 
 msgid "Go to <a href=\"%s\">menu links</a> list to reparent this link."
-msgstr "Vá para <a href=\"%s\">Links do menu</a> para ligar este link."
+msgstr "Vá para <a href=\"%s\">Links do menu</a> para reparentar este link."
 
 msgid "Parent link"
-msgstr "Link mestre"
+msgstr "Link pai"
 
 msgid "Add menu link"
-msgstr "Adicionar link do menu"
+msgstr "Novo link do menu"
 
 msgid "Add Menu Link"
-msgstr "Adicionar link do menu"
+msgstr "Novo link de menu"
 
 msgid "Delete selected link ?"
-msgstr "Eliminar o link selecionado ?"
+msgstr "Eliminar link selecionado ?"
 
 msgid "Show as selected:"
 msgstr "Exibir como selecionado:"
 
 msgid "When following PHP code returns TRUE (experts only)"
-msgstr "Quando o seguinte código PHP RETORNAR TRUE (apenas experts)"
+msgstr "Quando o seguinte código PHP retornar TRUE (apenas programadores)"
 
 msgid "When URL match any those listed"
-msgstr "Cuando la URL coincide con cualquiera de las listadas"
+msgstr "Quando a URL coincidir com qualquer uma das listadas"
 
 msgid "Specify pages by using their paths. Enter one path per line. The '*' character is a wildcard. Example paths are blog for the blog page and blog/* for every blog entry. '/' is the front page."
 msgstr "Especifique as páginas ultilizando seu caminho. Insira um caminho por lista. o caracter '*' é um coringa. Exemplo, são caminhos blog para a página do blog e blog /blog/* para qualquer entrada de blog. '/' é a página principal."
 
 msgid "If the PHP option is chosen, enter PHP code between &lt;?php ?&gt;. Note that executing incorrect PHP code can break your QuickApps site."
-msgstr "Se a opção for escolhida PHP, insira o código PHP entre &lt;?php ?&gt;. Note-QuickApps.."
+msgstr "Se PHP for escolhido, insira o código PHP entre &lt;?php ?&gt;. Note-QuickApps.."
 
 msgid "Allows content to be submitted to the site and displayed on pages."
-msgstr "Permite colocar conteúdo no site e mostrá-lo como página."
+msgstr "Permitir conteúdo ser submetido para o site e mostrado nas páginas."
 
 msgid "Use articles for time-sensitive content like news, press releases or blog posts."
-msgstr "Use artigos para conteúdo essitivo ao tempo, como notícias, lançamentos ou posts de blog."
+msgstr "Usar artigos para conteúdo sensitivo ao tempo, como notícias, lançamentos ou posts de blog."
 
 msgid "Contents"
 msgstr "Conteúdo"
@@ -1342,7 +1414,7 @@ msgid "Field display settings"
 msgstr "Configurações de visualização de campo"
 
 msgid "full"
-msgstr "cheio"
+msgstr "completo"
 
 msgid "list"
 msgstr "Lista"
@@ -1369,13 +1441,13 @@ msgid "Published"
 msgstr "Publicado"
 
 msgid "Promoted to front page"
-msgstr "Destacado na Página Inicial"
+msgstr "Promover na Página Inicial"
 
 msgid "Sticky at top of lists"
 msgstr "Manter acima das listas"
 
 msgid "Cache this node for"
-msgstr "Cache para este node durante"
+msgstr "Cache para este nó durante"
 
 msgid "Cache"
 msgstr "Cache"
@@ -1384,19 +1456,19 @@ msgid "-- No Cache --"
 msgstr "-- Sem Cache --"
 
 msgid "Roles"
-msgstr "Regras"
+msgstr "Grupos"
 
 msgid "Show content for specific roles"
-msgstr "Mostrar este node para as siguintes regras"
+msgstr "Mostrar este nó para as seguintes regras"
 
 msgid "Show this content only for the selected role(s). If you select no roles, the content will be visible to all users."
-msgstr "Mostrar o conteúdo apenas nas regras .Se você não selecionar regras, o conteúdo aparecerá para todos os usuários."
+msgstr "Mostrar o conteúdo apenas nos grupos. Se você não selecionar nenhum grupo, o conteúdo aparecerá para todos os usuários."
 
 msgid "Terms"
 msgstr "Termos"
 
 msgid "If no language is selected (-- Any --), node will show regardless of language"
-msgstr "Se nenhum idioma for selecionado (-- Qualquer --), o node mostrará independentemente do idioma"
+msgstr "Se nenhum idioma for selecionado (-- Qualquer --), o nó mostrará independentemente do idioma"
 
 msgid "-- Any --"
 msgstr "-- Qualquer --"
@@ -1414,7 +1486,7 @@ msgid "Settings"
 msgstr "Configurações"
 
 msgid "A short description (255 chars. max.) about this content. Will be used as page meta-description when rendering this content node."
-msgstr "uma breve descrição(255 car. máx.) sobre este conteúdo. Será utilizado como meta-descrição para a página deste node."
+msgstr "Uma breve descrição(255 car. máx.) sobre este conteúdo. Será utilizado como meta-descrição para a página deste node."
 
 msgid "Editing"
 msgstr "Editando"
@@ -1450,13 +1522,13 @@ msgid "Make selected content not sticky"
 msgstr "Retirar `stiky` dos conteúdos selecionados"
 
 msgid "Delete selected content"
-msgstr "Excluir os conteúdos selecionados"
+msgstr "Apagar os conteúdos selecionados"
 
 msgid "updated"
 msgstr "atualizado"
 
 msgid "Required"
-msgstr "Requerido"
+msgstr "Necessário"
 
 msgid "Add field"
 msgstr "Novo campo"
@@ -1465,13 +1537,13 @@ msgid "Only of the type(s)"
 msgstr "Somente do tipo(s)"
 
 msgid "Containing any of the words"
-msgstr "Contenha alguma dessas palavras"
+msgstr "Conter alguma dessas palavras"
 
 msgid "Containing the phrase"
-msgstr "Contenha a frase"
+msgstr "Conter a frase"
 
 msgid "Containing none of the words"
-msgstr "Não contenha estas palavras"
+msgstr "Não conter estas palavras"
 
 msgid "Are you sure about this changes ?"
 msgstr "Deseja fazer estas mudanças ?"
@@ -1486,7 +1558,7 @@ msgid "Remove quotes around phrases to search for each word individually. white 
 msgstr "Elimine as aspas das frases para buscar cada palavra individualmente. Gato Branco produz mais resultados que \"Gato Branco\"."
 
 msgid "Consider loosening your query with OR. white OR cat will often show more results than white cat."
-msgstr "Considere alargar a sua pesquisa com 'OU'. branco 'OU' gato normalmente apresentará mais resultados que 'gato branco'."
+msgstr "Considere abranger sua pesquisa com 'OU'. branco 'OU' gato normalmente apresentará mais resultados que 'gato branco'."
 
 msgid "Advanced Options"
 msgstr "Opções avançadas"
@@ -1495,7 +1567,7 @@ msgid "Node container class suffix"
 msgstr "Node contém classe sufixo"
 
 msgid "A suffix to be applied to the CSS class of the node container. This allows for individual node styling."
-msgstr "Um sufixo para aplicar as classes CSS do conteúdo do node.isso permite utilizar individualmente o node."
+msgstr "Um sufixo para aplicar as classes CSS do conteúdo do node. Permitindo utilizar individualmente o nó."
 
 msgid "Add content"
 msgstr "Adicionar conteúdo"
@@ -1516,7 +1588,7 @@ msgid "This text will be displayed as part of the list on the Add new content pa
 msgstr "Este texto se mostrará como parte da lista na página Adicionar Conteúdo"
 
 msgid "Describe this content type. The text will be displayed on the Add new content page."
-msgstr "Descrever este tipo de conteúdo.O texto será exibido na página Adicionar Conteúdo"
+msgstr "Descrever este tipo de conteúdo. O texto será exibido na página Adicionar Conteúdo."
 
 msgid "Title field label *"
 msgstr "Título do rótulo do campo *"
@@ -1546,10 +1618,10 @@ msgid "Anonymous commenting"
 msgstr "Comentários anônimos"
 
 msgid "Anonymous posters may not enter their contact information"
-msgstr "Anônimos não podem deixar suas informações de contato"
+msgstr "Anônimos não devem deixar suas informações de contato"
 
 msgid "Anonymous posters may leave their contact information"
-msgstr "Anônimos podem deixar sua informação de contato"
+msgstr "Anônimos devem deixar sua informação de contato"
 
 msgid "Anonymous posters must leave their contact information"
 msgstr "Anônimos podem deixar sua informação de contado"
@@ -1627,8 +1699,7 @@ msgid "New ID *"
 msgstr "Novo ID *"
 
 msgid "A unique name for this content type. It must only contain lowercase letters, numbers, and underscores."
-msgstr ""
-"Identificador único para este tipo de conteúdo. Deve conter apenas letras minúsculas, numeros e underline (_)."
+msgstr "Identificador único para este tipo de conteúdo. Deve conter apenas letras minúsculas, numeros e underline (_)."
 
 msgid "There are no fields to display"
 msgstr "Não há campos a serem mostrados"
@@ -1643,7 +1714,7 @@ msgid "Content items can be displayed using different view modes: Full, List, RS
 msgstr "Os conteúdos podem ser exibidos em diferentes modos de visualização: Tela Cheia, Lista, RSS, Impressão, etc. Lista é um formato resumido que comumente se utiliza para exibir listas de conteúdos múltiplos. Tela cheia se ultiliza momumente quando o conteúdo é exibido na sua própria página."
 
 msgid "Here, you can define which fields are shown and hidden when <em>%s</em> content is displayed in each view mode, and define how the fields are displayed in each view mode."
-msgstr "Aqui você pode definir quais campos devem ser exibidos ou ocultar quando o tipo de conteúdo <em>%s</em> é mostrado em cada um dos modos de visualização, asism como também a forma com que os campos são exibidos em cada modo de visualização."
+msgstr "Aqui, você pode definir quais campos devem ser exibidos ou ocultar quando o tipo de conteúdo <em>%s</em> é mostrado em cada um dos modos de visualização, asism como também a forma com que os campos são exibidos em cada modo de visualização."
 
 msgid "System Kernel."
 msgstr "Núcleo de sistema."
@@ -1651,16 +1722,14 @@ msgstr "Núcleo de sistema."
 msgid "Blocos"
 msgstr "Blocos"
 
-msgid ""
-"Configure what block content appears in your site's sidebars and other regions."
-msgstr "Configura quais blocos aparecem nas barras laterais e outras regiões do site."
+msgid "Configure what block content appears in your site's sidebars and other regions."
+msgstr "Configurar quais blocos aparecem nas laterais e outras regiões do site."
 
 msgid "Manage content types."
-msgstr "Gestão de conteúdo."
+msgstr "Gestão de tipos conteúdo."
 
-msgid ""
-"Add new menus to your site, edit existing menus, and rename and reorganize menu links."
-msgstr "Adicionar um menu novo ao seu site,editar menu existente, renomear e reorganizar os links do menu."
+msgid "Add new menus to your site, edit existing menus, and rename and reorganize menu links."
+msgstr "Adicionar novo menu ao site, editar existentes, renomear e reorganizar seus links."
 
 msgid "Taxonomy"
 msgstr "Taxonomia"
@@ -1681,17 +1750,16 @@ msgid "Slogan"
 msgstr "Slogan"
 
 msgid "A brief description about your site, this will be used as default meta-description in layout."
-msgstr "Uma breve descrição sobre o seu site, ele será usado como padrão meta-"
-"descrição no layout."
+msgstr "Uma breve descrição sobre site, ele será usado como padrão meta-descrição no layout."
 
 msgid "How this is used depends on your site's theme."
-msgstr "Sua utilização depende to tema do seu site."
+msgstr "Sua utilização depende do template do seu site."
 
 msgid "E-mail address *"
 msgstr "Endereço de E-mail *"
 
 msgid "The From address in automated e-mails sent during registration and new password requests, and other notifications. (Use an address ending in your site's domain to help prevent this e-mail being flagged as spam.)"
-msgstr "O endereço de 'Para' nos e-mails automáticos envia durante o registro a solicitação de nova senha e outras notificações. ( Use um endereço de término no domínio do seu site para evitar que este e-mail seja marcado como spam.)"
+msgstr "O endereço de 'Para' nos e-mails automáticos enviados no processo de recuperação de senha, e outras notificações. ( Use um endereço do domínio do site, para evitar que este e-mail seja marcado como spam.)"
 
 msgid "Front page"
 msgstr "Página inicial"
@@ -1700,13 +1768,12 @@ msgid "Number of posts on front page"
 msgstr "Número de posts na página inicial"
 
 msgid "The maximum number of posts displayed on overview pages such as the front page."
-msgstr "O número máximo de posts exibidos em Overview é o tal qual a Página inicial."
+msgstr "O número máximo de posts exibidos em Overview, como na Página inicial."
 
 msgid "Default front page"
 msgstr "Página inicial padrão"
 
-msgid ""
-"Optionally, specify a relative URL to display as the front page. Leave blank to display the default content feed"
+msgid "Optionally, specify a relative URL to display as the front page. Leave blank to display the default content feed"
 msgstr "Opcional, indique uma URL relativa ao site a ser mostrado como página inicial. Deixe em branco para mostrar a transmissão de conteúdo padrão"
 
 msgid "Regional settings"
@@ -1770,7 +1837,7 @@ msgid "Leave blank for use default favicon."
 msgstr "Deixar em branco para ultilizar o favicon padrão"
 
 msgid "\"%s\" Theme"
-msgstr "Tema \"%s\""
+msgstr "Template \"%s\""
 
 msgid "Toggle display"
 msgstr "Opções de vizualização"
@@ -1812,13 +1879,13 @@ msgid "Activate after install"
 msgstr "Ativar após a instalação"
 
 msgid "Enables the categorization of content."
-msgstr "Permite la categorización de contenidos."
+msgstr "Permite a categorização de conteúdos."
 
 msgid "There are no vocabularies to display"
 msgstr "Não há vocabulários disponíveis"
 
 msgid "New Vocabulary"
-msgstr "Vocabulário Novoo"
+msgstr "Vocabulário Novo"
 
 msgid "Add Vocabulary"
 msgstr "Adicionar Vocabulário"
@@ -1826,14 +1893,32 @@ msgstr "Adicionar Vocabulário"
 msgid "Save vocabulary"
 msgstr "Salvar vocabulário"
 
+msgid "Term"
+msgstr "Termo"
+
 msgid "%s Terms"
 msgstr "Termos %s"
+
+msgid "Editing term \"%s\""
+msgstr "Editando termo \"%s\""
+
+msgid "Editing term"
+msgstr "Editando termo"
+
+msgid "Save term"
+msgstr "Salvar termo"
+
+msgid "Go to <a href="%s">terms list</a> to reparent this term"
+msgstr "Vá para <a href="%s">lista de termos</a> para reparentar este termo"
 
 msgid "Add New Term"
 msgstr "Adicionar um novo termo"
 
 msgid "Parent term"
-msgstr "Termo mestre"
+msgstr "Termo pai"
+
+msgid "Term has been saved."
+msgstr "Termo salvo."
 
 msgid "Saving..."
 msgstr "Salvando..."
@@ -1854,7 +1939,7 @@ msgid "mover down"
 msgstr "mover para baixo"
 
 msgid "Delete selected vocabulary and all its terms ?"
-msgstr "Eliminaro vocabulário selecionado e todos os seus termos ?"
+msgstr "Eliminar o vocabulário selecionado e todos os seus termos ?"
 
 msgid "Maintenance message"
 msgstr "Mensagem de manutenção"
@@ -1897,7 +1982,7 @@ msgid "User Permissions"
 msgstr "Permissões de usuários"
 
 msgid "User Roles"
-msgstr "Regras de Usuário"
+msgstr "Grupos de Usuário"
 
 msgid "Manage User Fields"
 msgstr "Gerenciar Campos de Usuário"
@@ -1906,10 +1991,10 @@ msgid "Field settings"
 msgstr "Configurações de campo"
 
 msgid "user_account"
-msgstr "Conta de usuário"
+msgstr "conta_usuario"
 
 msgid "Add new user"
-msgstr "Criar novo usuário"
+msgstr "Novo usuário"
 
 msgid "Real name *"
 msgstr "Nome real *"
@@ -1921,10 +2006,10 @@ msgid "User name *"
 msgstr "Nome de usuário *"
 
 msgid "Usernames cannot be changed"
-msgstr "Não foi possivel mudar nome de usuário"
+msgstr "Nome de usuários não podem ser alterados"
 
 msgid "Nick used to login. Must be unique and alphanumeric."
-msgstr "Nick de indentificação ultilizado no Login. deve ser único e alfanumérico."
+msgstr "Nick de indentificação utilizado no Login. deve ser único e alfanumérico."
 
 msgid "Full url to avatar image file. i.e: http://www.some-domain.com/my-avatar.jpg"
 msgstr "URL completa para imagem de avatar. i.e.: http://www.domain.com/my-avatar.jpg"
@@ -1950,7 +2035,7 @@ msgid "Update user"
 msgstr "Atualizar usuário"
 
 msgid "Sorry, %s is not recognized as e-mail address."
-msgstr "Desculpe, %s não é um e-mail válido."
+msgstr "Desculpas, %s não é reconhecido como um e-mail válido."
 
 msgid "invalid email"
 msgstr "email inválido"
@@ -1968,7 +2053,7 @@ msgid "Body *"
 msgstr "Corpo *"
 
 msgid "Add New Role"
-msgstr "Adicionar novo documento"
+msgstr "Adicionar novo Grupo"
 
 msgid "Manage Fields"
 msgstr "Gerenciar Campos"
@@ -1977,7 +2062,7 @@ msgid "Manage Display"
 msgstr "Gerenciar Visualização"
 
 msgid "User Display Settings"
-msgstr "Configurações de vizualização de usuário"
+msgstr "Configurações de vizualização do usuário"
 
 msgid "Add User"
 msgstr "Criar Usuário"
@@ -2001,16 +2086,16 @@ msgid "M d, Y"
 msgstr "D M, A"
 
 msgid "User could not be saved. Please, try again."
-msgstr "Problema ao salvar o usuário, tente novamente."
+msgstr "Problema ao salvar usuário, tente novamente."
 
 msgid "User has been saved"
-msgstr "Usuário salvo."
+msgstr "Usuário salvo"
 
 msgid "This message has been marked as `do not notify`."
-msgstr "Está mensagem foi marcada como `não noticificar`"
+msgstr "Está mensagem foi marcada como `não noticificar`."
 
 msgid "Controls the visual building blocks a page is constructed with. Blocks are boxes of content rendered into an area, or region, of a web page."
-msgstr "Gerenciar a construção visuais que constroem uma página. Os blocos são caixas de conteúdo que renderiza em uma área ou região de uma página web."
+msgstr "Gerenciar a construção visual do bloco, de como uma página é construída. Os blocos são caixas de conteúdo que renderiza em uma área ou região de uma página web."
 
 msgid "New Block"
 msgstr "Novo bloco"
@@ -2055,7 +2140,7 @@ msgid "Show this block for these languages"
 msgstr "Mostrar este bloco para os seguintes idiomas"
 
 msgid "If no language is selected, block will show regardless of language."
-msgstr "Se nenhum idioma foi indicado, o bloco se mostrará independente do idioma."
+msgstr "Se nenhum idioma for indicado, o bloco aparecerá em todos os idiomas."
 
 msgid "Visibility settings"
 msgstr "Opções de vizualização"
@@ -2076,13 +2161,13 @@ msgid "Only the listed pages"
 msgstr "Somente nas páginas listadas"
 
 msgid "Show block for specific roles"
-msgstr "Mostrar blocos para as regras indicadas"
+msgstr "Mostrar bloco para regras específicas"
 
 msgid "Show this block only for the selected role(s). If you select no roles, the block will be visible to all users."
 msgstr "Mostrar este bloco apenas para a(s) regra(s) selecionada(s). Se nenhuma regra for selecionada, o bloco será visível a todos os usuários."
 
 msgid "Block class suffix"
-msgstr "Sufixo de classe de blocos"
+msgstr "Sufixo de classe do bloco"
 
 msgid "A suffix to be applied to the CSS class of the block. This allows for individual block styling."
 msgstr "Um sufixo para ser aplicado às classes de CSS do bloco. Isso permite estilizar individualmente o bloco."
@@ -2094,7 +2179,7 @@ msgid "Add new block"
 msgstr "Adicionar um novo Bloco"
 
 msgid "Pages on which this PHP code returns TRUE (experts only)"
-msgstr "Páginas em que este código PHP retorna TRUE (apenas especialistas)"
+msgstr "Páginas em que este código PHP retorna TRUE (verdadeiro) (apenas programadores)"
 
 msgid "Block moved %s!"
 msgstr "Bloco movido %s!"
@@ -2106,7 +2191,7 @@ msgid "down"
 msgstr "abaixo"
 
 msgid "Unassigned or Disabled"
-msgstr "Não assinados ou disabilitados"
+msgstr "Não assinados ou desabilitados"
 
 msgid "Allows users to comment on and discuss published content."
 msgstr "Permite aos usuários comentar e discutir os conteúdos publicados."
@@ -2118,7 +2203,7 @@ msgid "Published comments"
 msgstr "Comentários publicados"
 
 msgid "Unpublished (%s)"
-msgstr "Não publicados (%s)"
+msgstr "Não publicado (%s)"
 
 msgid "Unapprove selected comments"
 msgstr "Não aprovar os comentários selecionados"
@@ -2127,7 +2212,7 @@ msgid "Approve selected comments"
 msgstr "Aprovar os comentários selecionados"
 
 msgid "Delete selected comments"
-msgstr "Eliminar os comentários selecionados"
+msgstr "Apagar os comentários selecionados"
 
 msgid "Author"
 msgstr "Autor"
@@ -2142,10 +2227,10 @@ msgid "There are no comments to display"
 msgstr "Não há comentários à serem exibidos."
 
 msgid "Comment Details"
-msgstr "Detalhes dos comentários"
+msgstr "Detalhes do comentário"
 
 msgid "Comment details"
-msgstr "Detalhes dos comentários"
+msgstr "Detalhes do comentário"
 
 msgid "Published in content"
 msgstr "Publicado no conteúdo"
