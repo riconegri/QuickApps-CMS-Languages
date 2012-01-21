@@ -28,7 +28,7 @@ msgid "Forbidden module name \"%s\""
 msgstr "Perdido o nome do módulo"
 
 msgid "Theme name"
-msgstr "Nome do template"
+msgstr "Nome do template" 
 
 msgid "Invalid module name (got \"%s\", expected: \"%s\")"
 msgstr "Nome inválido do módulo (tem \"%s\", esperado: \"%s\")"
